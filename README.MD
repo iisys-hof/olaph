@@ -52,6 +52,11 @@ Find it here on [huggingface](https://huggingface.co/iisys-hof/olaph)
 
 ```bash
 pip install olaph
+python -m spacy download de_core_news_sm
+python -m spacy download en_core_web_sm
+python -m spacy download es_core_news_sm
+python -m spacy download fr_core_news_sm
+
 ```
 
 ### From source
@@ -60,6 +65,10 @@ pip install olaph
 git clone https://github.com/iisys-hof/olaph.git
 cd olaph
 pip install -e .
+python -m spacy download de_core_news_sm
+python -m spacy download en_core_web_sm
+python -m spacy download es_core_news_sm
+python -m spacy download fr_core_news_sm
 ```
 
 ## Example Usage
