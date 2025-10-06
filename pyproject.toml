@@ -1,0 +1,98 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "olaph"
+version = "0.1.0"
+description = "A multilingual phonemizer combining lexica, NLP, and probabilistic scoring for improved phonemization accuracy.."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+
+authors = [
+  { name = "Johannes Wirth", email = "johannes.wirth.3@iisys.de" }
+]
+
+keywords = ["phonemizer", "text-to-speech", "linguistics", "NLP", "multilingual"]
+
+classifiers = [
+  "Intended Audience :: Developers",
+  "Topic :: Text Processing :: Linguistic",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3"
+]
+
+dependencies = [
+  "spacy",
+  "lingua-language-detector==2.1.1",
+  "num2words==0.5.14",
+  "requests==2.32.5",
+  "annotated-types==0.7.0",
+  "blis==1.3.0",
+  "catalogue==2.0.10",
+  "certifi==2025.10.5",
+  "charset-normalizer==3.4.3",
+  "click==8.3.0",
+  "cloudpathlib==0.22.0",
+  "colorama==0.4.6",
+  "confection==0.1.5",
+  "cymem==2.0.11",
+  "de-core-news-sm",
+  "docopt==0.6.2",
+  "en-core-web-sm",
+  "es-core-news-sm",
+  "fr-core-news-sm",
+  "idna==3.10",
+  "jinja2==3.1.6",
+  "langcodes==3.5.0",
+  "language-data==1.3.0",
+  "marisa-trie==1.3.1",
+  "markdown-it-py==4.0.0",
+  "markupsafe==3.0.3",
+  "mdurl==0.1.2",
+  "murmurhash==1.0.13",
+  "numpy==2.3.3",
+  "packaging==25.0",
+  "preshed==3.0.10",
+  "pydantic==2.11.10",
+  "pydantic-core==2.33.2",
+  "pygments==2.19.2",
+  "rich==14.1.0",
+  "setuptools==80.9.0",
+  "shellingham==1.5.4",
+  "smart-open==7.3.1",
+  "spacy-legacy==3.0.12",
+  "spacy-loggers==1.0.5",
+  "srsly==2.5.1",
+  "thinc==8.3.6",
+  "tqdm==4.67.1",
+  "typer==0.19.2",
+  "typing-inspection==0.4.2",
+  "typing-extensions==4.15.0",
+  "urllib3==2.5.0",
+  "wasabi==1.1.3",
+  "weasel==0.4.1",
+  "wrapt==1.17.3",
+]
+
+[project.urls]
+Homepage = "https://github.com/iisys-hof/olaph"
+Documentation = "https://github.com/iisys-hof/olaph#readme"
+Issues = "https://github.com/iisys-hof/olaph/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["olaph*"]
+
+[tool.setuptools.package-data]
+"olaph" = ["dictionaries/**/*.txt"]
+
+[tool.uv.sources]
+de-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl" }
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl" }
+es-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl" }
+fr-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl" }
+
+[project.optional-dependencies]
+dev = ["pytest", "black", "flake8"]

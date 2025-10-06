@@ -1,0 +1,129 @@
+%	Prozent
+H. v.	Herr von
+gest.	gestorben
+v.	von
+§	Paragraph
+geb.	geboren
+Nr.	Nummer
+Pf.	Pfennig
+Mk.	Mark
+Sr. Exz.	seiner exzellenz
+Kgl.	königlich
+Prof.	Professor
+Dr.	Doktor
+Abb.	Abbildung
+Abh.	Abhandlung
+Abk.	Abkürzung
+AfD	A F D
+allg.	allgemein
+bes.	besonders
+bzw.	beziehungsweise
+gegr.	gegründet
+jmd.	jemand
+o. Ä.	oder Ähnliches
+u. a.	unter anderem
+o.Ä.	oder Ähnliches
+u.a.	unter anderem
+ugs.	umgangssprachlich
+urspr.	ursprünglich
+usw.	und so weiter
+u. s. w.	und so weiter
+u.s.w.	und so weiter
+zz.	zurzeit
+dt.	deutsch
+ev.	evangelisch
+Jh.	Jahrhundert
+kath.	katholisch
+lat.	lateinisch
+luth.	lutherisch
+Myth.	Mythologie
+natsoz.	nationalsozialistisch
+n.Chr.	nach Christus
+n. Chr.	nach Christus
+relig.	religiös
+v. Chr.	vor Christus
+v.Chr.	vor Christus
+Med.	Medizin
+Mio.	Millionen
+d.h.	das heißt
+d. h.	das heißt
+f.	folgende
+ff.	folgende
+ggf.	gegebenfalls
+i. Allg.	im Allgemeinen
+i. d. R.	in der Regel
+i.Allg.	im Allgemeinen
+i.d.R.	in der Regel
+lt.	laut
+m.	mit
+od.	oder
+s. o.	siehe oben
+s. u.	siehe unten
+s.o.	siehe oben
+s.u.	siehe unten
+Std.	Stunde
+tägl.	täglich
+Tsd.	Tausend
+tsd.	tausend
+z. B.	zum Beispiel
+z.B.	zum Beispiel
+Z. B.	zum Beispiel
+Z.B.	zum Beispiel
+Bsp.	Beispiel
+bzgl.	bezüglich
+ca.	circa
+dgl.	dergleichen
+etc.	et cetera
+evtl.	eventuell
+z.T.	zum Teil
+z. T.	zum Teil
+zit.	zitiert
+zzgl.	zuzüglich
+H. 	Herr
+N. N.	so und so
+N.N.	so und so
+u.s.f.	und so fort
+u. s. f.	und so fort
+von Ew.	von euerer
+Se.	seine
+St.	Sankt
+inkl.	inklusive
+U.S.A.	U S A
+d. J	des Jahres
+G.m.b.H.	GmbH
+GmbH	GMBH
+Mio.	Millionen
+Mrd.	Milliarden
+Mr.	Mister
+Ms.	Miss
+Mrs.	Misses
+°	Grad
+m. E.	meines Erachtens
+m.E.	meines Erachtens
+Ew.	Eure
+a.O.	an der Oder
+d.	der
+Ev.	Evangelium
+Sr.	seiner
+hl.	heilige
+Hr.	Herr
+d.i.	das ist
+Aufl.	Auflage
+A. d. Üb.	Anmerkung der Übersetzerin
+gest.	gestorben
+DE.	Deutsch
+km²	Quadratkilometer
+cm²	Quadratzentimeter
+m²	Quadratmeter
+cm³	Kubikzentimeter
+m³	Kubikmeter
+www.	WWW punkt
+.de	punkt DE
+z.H.	zu Händen
+Gbyte	Gigabyte
+Tbyte	Terabyte
+mc²	M C Quadrat
+SPIEGEL	Spiegel
+u.	und
+&	und
+o.	oder

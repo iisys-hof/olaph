@@ -1,0 +1,26 @@
+A	/ɑ/
+B	/be/
+C	/se/
+D	/de/
+E	/œ/
+F	/ɛf/
+G	/ʒe/
+H	/aʃ/
+I	/i/
+J	/ʒi/
+K	/kɑ/
+L	/ɛl/
+M	/ɛm/
+N	/ɛn/
+O	/o/
+P	/pe/
+Q	/ky/
+R	/ɛʁ/
+S	/ɛs/
+T	/te/
+U	/y/
+V	/ve/
+W	/du.blə.ve/
+X	/iks/
+Y	/i ɡʁɛk/
+Z	/zɛd/
