@@ -138,11 +138,12 @@ class Olaph:
                     word, count = line.strip().split("\t")
                     self.word_probabilities[lang][word] = int(count)
 
-    def _lookup(self, word: str, dictionary: dict, pos: Optional[str]) -> Optional[str]:
+    def _lookup(self, word: str, dictionary: dict, pos: Optional[str], tense: Optional[str]) -> Optional[str]:
         entry = dictionary.get(word)
         if not entry:
             return None
-        return entry.get(pos) or entry.get("base")
+        key = (pos or "") + (tense or "")
+        return entry.get(key) or entry.get(pos) or entry.get("base")
 
     def _transformations(self, word: str):
         """Generate common word variants for fallback lookups."""
@@ -154,23 +155,23 @@ class Olaph:
         yield word.replace("ß", "ss")
         yield word.replace("ß", "ss").replace("-", "")
 
-    def phonemize_word(self, word: str, lang: str, pos: Optional[str] = None) -> str:
+    def phonemize_word(self, word: str, lang: str, pos: Optional[str] = None, tense: Optional[str] = None) -> str:
         if not word or word.isdigit():
             return ""
 
         for candidate in self._transformations(word):
-            phoneme = self._lookup(candidate, self.lang_dict[lang], pos)
+            phoneme = self._lookup(candidate, self.lang_dict[lang], pos, tense)
             if phoneme:
                 return phoneme
 
         for candidate in self._transformations(word):
-            phoneme = self._lookup(candidate, self.all_lang_word_dict, pos)
+            phoneme = self._lookup(candidate, self.all_lang_word_dict, pos, tense)
             if phoneme:
                 return phoneme
 
         cleaned = re.sub(r"[^\w\s]", "", word)
-        phoneme = self._lookup(cleaned, self.lang_dict[lang], pos) or self._lookup(
-            cleaned, self.all_lang_word_dict, pos
+        phoneme = self._lookup(cleaned, self.lang_dict[lang], pos, tense) or self._lookup(
+            cleaned, self.all_lang_word_dict, pos, tense
         )
         if phoneme:
             return phoneme
@@ -208,11 +209,13 @@ class Olaph:
     def _preprocess_sentence(self, sentence: str, lang: str) -> str:
         sentence = sentence.replace("’", "").replace("-", " ")
         sentence = re.sub(r" +", " ", sentence)
-
         for k, v in self.lang_replacements_dict.get(lang, {}).items():
-            sentence = sentence.replace(k, f" {v} ")
+            pattern = rf"\b{re.escape(k)}\b"
+            sentence = re.sub(pattern, f" {v} ", sentence)
+
         for k, v in self.all_lang_replacements_dict.items():
-            sentence = sentence.replace(k, f" {v} ")
+            pattern = rf"\b{re.escape(k)}\b"
+            sentence = re.sub(pattern, f" {v} ", sentence)
 
         sentence = re.sub(r" +", " ", sentence).strip()
 
@@ -282,7 +285,9 @@ class Olaph:
 
             # Regular words
             try:
-                phoneme = self.phonemize_word(raw.lower(), lang, pos=token.pos_)
+                tense_list = token.morph.get("Tense")
+                tense = tense_list[0] if tense_list else None
+                phoneme = self.phonemize_word(raw.lower(), lang, pos=token.pos_, tense=tense)
                 tokens.append(phoneme)
             except Exception as ex:
                 logging.error(f"Could not phonemize '{raw}': {ex}")
@@ -304,7 +309,7 @@ class Olaph:
         and punctuation spacing.
         """
         nlp = self.nlps[lang]
-        sentences = [s.text for s in nlp(text)]
+        sentences = [s.text for s in nlp(text).sents]
         results = []
 
         for sentence in sentences:
