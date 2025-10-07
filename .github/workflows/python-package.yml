@@ -28,7 +28,12 @@ jobs:
         python -m pip install flake8 pytest build
         # build will use pyproject.toml to install your package correctly
         pip install .
-
+    - name: Download spaCy language models
+      run: |
+        python -m spacy download de_core_news_sm
+        python -m spacy download en_core_web_sm
+        python -m spacy download es_core_news_sm
+        python -m spacy download fr_core_news_sm
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
