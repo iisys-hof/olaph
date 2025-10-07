@@ -104,7 +104,6 @@ Phonemization, the conversion of text into phonemes, is a key step in text-to-sp
 
 If you use OLaPh in academic work, please cite:
 
-### Citation
 ```bibtex
 @misc{wirth2025olaphoptimallanguagephonemizer,
       title={OLaPh: Optimal Language Phonemizer},
