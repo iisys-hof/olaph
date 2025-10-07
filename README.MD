@@ -90,7 +90,6 @@ print(output)
 - [spaCy](https://spacy.io)
 - [Lingua](https://github.com/pemistahl/lingua-py)
 - [num2words](https://github.com/savoirfairelinux/num2words)
-- [requests](https://requests.readthedocs.io)
 
 ---
 
