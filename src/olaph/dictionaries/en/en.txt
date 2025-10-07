@@ -106909,7 +106909,8 @@ reactor	/ɹɪˈæktɐ/
 reactors	/ɹiˈæktɝz/
 reactors	/ɹɪˈæktəz/
 reacts	/ɹɪˈækts/
-read	/ˈɹɛd/, /ˈɹid/
+read	/ˈɹid/	VERB
+read	/ˈɹɛd/	VERBPast
 read's	/ˈɹidz/
 readability	/ɹˌiːdəbˈɪlɪti/
 readable	/ɹˈiːdəbə‍l/
@@ -144258,7 +144259,8 @@ winchester	/ˈwɪnˌtʃɛstɝ/
 winching	/wˈɪnt‍ʃɪŋ/
 wincing	/wˈɪnsɪŋ/
 winckler	/ˈwɪŋkɫɝ/
-wind	/ˈwaɪnd/, /ˈwɪnd/
+wind	/ˈwaɪnd/	VERB
+wind	/ˈwɪnd/	NOUN
 wind's	/ˈwɪndz/
 windage	/wˈɪndɪd‍ʒ/
 windbag	/wˈɪndbæɡ/
