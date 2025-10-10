@@ -3,3 +3,5 @@ dist
 **/*.egg-info
 tester*
 **/__pycache__
+.pytest_cache
+build

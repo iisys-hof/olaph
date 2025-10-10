@@ -12,7 +12,7 @@ import zipfile
 import io
 
 from .german_normalizer import Normalizer
-
+from .english_normalizer import normalize_text as normalize_english
 
 class Olaph:
     """
@@ -221,6 +221,8 @@ class Olaph:
 
         if lang == "de":
             sentence = self.normalizer.normalize(sentence)
+        elif lang == "en":
+            sentence = normalize_english(sentence)
         else:
             sentence = self._normalize_numbers(sentence, lang)
             sentence = re.sub(r"\d", "", sentence)

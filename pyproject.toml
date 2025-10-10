@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "olaph"
-version = "0.1.3"
+version = "0.1.4"
 description = "A multilingual phonemizer combining lexica, NLP, and probabilistic scoring for improved phonemization accuracy.."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -24,6 +24,7 @@ classifiers = [
 ]
 
 dependencies = [
+  "inflect==7.5.0",
   "spacy",
   "lingua-language-detector==2.1.1",
   "num2words==0.5.14",
