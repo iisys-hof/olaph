@@ -32,7 +32,7 @@ Evaluations in **German** and **English** show improved accuracy and robustness 
 
 ## Features
 
-- Multilingual phonemization (DE, EN, FR, ES)
+- Multilingual phonemization (DE, EN-US, EN-UK, FR, ES, NL, CS, SV, DA, PL, IT)
 - Abbreviation and letter pronunciation dictionaries
 - Number normalization
 - Cross-language acronym detection
@@ -42,7 +42,7 @@ Evaluations in **German** and **English** show improved accuracy and robustness 
 ## Large Language Model
 A LLM based on OLaPh output is also available. It is a GemmaX 2B Model trained on ~10M sentences derived from the FineWeb Corpus phonemized with the OLaPh framework.
 
-Find it here on [huggingface](https://huggingface.co/iisys-hof/olaph)
+Find it here on [huggingface](https://huggingface.co/iisys-hof/olaph) (Needs to be updated for the additional languages)
 
 ---
 
@@ -52,13 +52,9 @@ Find it here on [huggingface](https://huggingface.co/iisys-hof/olaph)
 
 ```bash
 pip install olaph
-python -m spacy download de_core_news_sm
-python -m spacy download en_core_web_sm
-python -m spacy download es_core_news_sm
-python -m spacy download fr_core_news_sm
-python -m spacy download pl_core_news_sm
-
 ```
+
+spaCy models are downloaded on demand.
 
 ### From source
 
@@ -66,11 +62,6 @@ python -m spacy download pl_core_news_sm
 git clone https://github.com/iisys-hof/olaph.git
 cd olaph
 pip install -e .
-python -m spacy download de_core_news_sm
-python -m spacy download en_core_web_sm
-python -m spacy download es_core_news_sm
-python -m spacy download fr_core_news_sm
-python -m spacy download pl_core_news_sm
 ```
 
 ## Example Usage
@@ -80,7 +71,7 @@ from olaph import Olaph
 
 phonemizer = Olaph()
 
-output = phonemizer.phonemize_text("He ordered a Brezel and a beer in a tavern near München.", lang="en")
+output = phonemizer.phonemize_text("He ordered a Brezel and a beer in a tavern near München.", lang="en-us")
 
 print(output)
 ```
@@ -95,6 +86,12 @@ print(output)
 - [inflect](https://github.com/jaraco/inflect)
 
 ---
+
+## Dictionars Sources
+
+- [Wiktionary Dumps](https://dumps.wikimedia.org/backup-index.html)
+- [Neurlang Dataset](https://github.com/neurlang/dataset)
+
 
 ## Research Summary
 
