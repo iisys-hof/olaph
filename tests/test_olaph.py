@@ -27,7 +27,7 @@ def test_homographs(graphemes, phonemes):
 
 @pytest.mark.parametrize("graphemes, phonemes", [
     ("The Oktoberfest in München is a must visit event.", "ði ɑktˈoʊbəɹfˌɛst ˈɪn ˈmʏnçn̩ ˈɪz ə mˈʌst vˈɪzɪt ɪvˈɛnt."),
-    ("They visited the Museo del Prado in Madrid.", "ðeɪ vˈɪzɪtɪd ðə museo ˈdɛɫ ˈpɹɑdoʊ ˈɪn məˈdɹɪd."),
+    ("They visited the Museo del Prado in Madrid.", "ðeɪ vˈɪzɪtɪd ðə mjˈuːsˈə‍ʊ ˈdɛɫ ˈpɹɑdoʊ ˈɪn məˈdɹɪd."),
 ])
 def test_cross_lingual(graphemes, phonemes):
     assert phonemizer.phonemize_text(graphemes, lang="en-uk") == unicodedata.normalize("NFC", phonemes)
@@ -71,4 +71,13 @@ def test_quotation_marks_es(graphemes, phonemes):
     ("Er musste laut BGB § 9 Absatz 3 um die 750 € Strafe zahlen.", "eːɐ̯ ˈmʊstə laʊ̯t ˈbeː ˈɡeː ˈbeː paʁaˈɡʁaːf nɔɪ̯n ˈapˌzat͡s dʁaɪ̯ ʊm diː ˈziːbn̩ˈhʊndɐtfʏnft͡sɪk ˈɔɪ̯ʁo ˈʃtʁaːfə ˈt͡saːlən."),
 ])
 def test_replacements_de(graphemes, phonemes):
-    assert phonemizer.phonemize_text(graphemes, lang="de") == unicodedata.normalize("NFC", phonemes)
+    assert phonemizer.phonemize_text(graphemes, lang="de") == phonemes
+
+
+def test_cross_language_default_result():
+    # "L'argent" was previously looked up as "largent" in the cross-language dict,
+    # returning the English IPA for "largent" instead of the correct French IPA.
+    # With source-aware lookups, the English entry is skipped and OLaPh correctly
+    # splits "largent" -> "l" + "argent" using the French dictionary.
+    o = Olaph()
+    assert o.phonemize_text("L'argent", lang="fr") == "laʁʒɑ̃."
