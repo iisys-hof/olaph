@@ -2,7 +2,7 @@ import regex as re
 import string
 import logging
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 import unicodedata
 
 import spacy
@@ -14,6 +14,11 @@ from num2words import num2words
 
 from .german_normalizer import Normalizer
 from .english_normalizer import normalize_text as normalize_english
+
+_LANG_BASE: Dict[str, str] = {
+    "en-us": "en",
+    "en-uk": "en",
+}
 
 TONE_MAP = {
     "¹": "˩",
@@ -34,14 +39,30 @@ class NoGuessingRefusal(ValueError):
 
 class Olaph:
     """
-    OLaPh phonemizer supporting DE, EN, FR, ES, PL.
+    OLaPh phonemizer supporting CS, DA, DE, EN, EN-UK, EN-US, ES, FR, IT, NL, PL, SV.
     You should not have to use any function besides phonemize_text.
+    spaCy models are loaded (and downloaded if missing) on first use per language.
     """
+
+    _NLP_MODELS: Dict[str, str] = {
+        "de": "de_core_news_sm",
+        "en": "en_core_web_sm",
+        "fr": "fr_core_news_sm",
+        "es": "es_core_news_sm",
+        "pl": "pl_core_news_sm",
+        "cs": "cs_core_news_sm",
+        "da": "da_core_news_sm",
+        "nl": "nl_core_news_sm",
+        "it": "it_core_news_sm",
+        "sv": "sv_core_news_sm",
+        "fi": "fi_core_news_sm"
+    }
+    _APOSTROPHE_TOKEN_RE = re.compile(r"^\p{L}+(?:[‘’`]\p{L}+)*[‘’`]?$", re.UNICODE)
 
     def __init__(self):
         print("Initializing OLaPh...")
         self.base_dir = Path(__file__).resolve().parent
-        self.langs = ("en", "de", "fr", "es", "pl")
+        self.langs = ("en", "de", "fr", "es", "pl", "cs", "da", "nl", "it", "sv", "en-us", "en-uk")
         self.normalizer = Normalizer()
 
         self.lang_dict: Dict[str, Dict[str, Dict[str, str]]] = {}
@@ -52,41 +73,16 @@ class Olaph:
         self.lang_replacements_dict: Dict[str, Dict[str, str]] = {}
         self.all_lang_replacements_dict: Dict[str, str] = {}
         self.word_probabilities: Dict[str, Dict[str, int]] = {}
+        self._nlp_cache: Dict[str, Any] = {}
 
         self.failed_words: List[str] = []
         self.refused_words: List[str] = []
         self.good_splits: List[str] = []
         self.bad_splits: List[str] = []
 
-        self.nlps = {
-            "de": spacy.load("de_core_news_sm"),
-            "en": spacy.load("en_core_web_sm"),
-            "fr": spacy.load("fr_core_news_sm"),
-            "es": spacy.load("es_core_news_sm"),
-            "pl" : spacy.load("pl_core_news_sm"),
-        }
-        #tokenizer fix
-        APOSTROPHE_TOKEN_RE = re.compile(
-            r"^\p{L}+(?:['’`]\p{L}+)*['’`]?$",
-            re.UNICODE
-        )
-        for lang, nlp in self.nlps.items():
-            nlp = self.nlps[lang]
-            nlp.tokenizer = Tokenizer(
-                nlp.vocab,
-                rules={},
-                prefix_search=nlp.tokenizer.prefix_search,
-                suffix_search=nlp.tokenizer.suffix_search,
-                infix_finditer=compile_infix_regex(nlp.Defaults.infixes).finditer,
-                token_match=APOSTROPHE_TOKEN_RE.match,
-            )
-            #sentencizer fix
-        for nlp in self.nlps.values():
-            if "parser" in nlp.pipe_names:
-                nlp.disable_pipes("parser")
-            nlp.add_pipe("sentencizer")
         self.detector = LanguageDetectorBuilder.from_languages(
-            Language.ENGLISH, Language.FRENCH, Language.GERMAN, Language.SPANISH
+            Language.ENGLISH, Language.FRENCH, Language.GERMAN, Language.SPANISH,
+            Language.CZECH, Language.DANISH, Language.DUTCH, Language.ITALIAN, Language.SWEDISH,
         ).with_minimum_relative_distance(0.6).build()
 
         self._load_dictionaries()
@@ -97,6 +93,36 @@ class Olaph:
         self._load_probabilities()
 
         print("OLaPh initialized!")
+
+    def _get_nlp(self, lang: str) -> Any:
+        """Return the spaCy model for *lang*, loading (and downloading) it on first use."""
+        base = _LANG_BASE.get(lang, lang)
+        if base in self._nlp_cache:
+            return self._nlp_cache[base]
+
+        model_name = self._NLP_MODELS[base]
+        try:
+            nlp = spacy.load(model_name)
+        except OSError:
+            print(f"Downloading spaCy model '{model_name}'...")
+            spacy.cli.download(model_name)
+            nlp = spacy.load(model_name)
+
+        nlp.tokenizer = Tokenizer(
+            nlp.vocab,
+            rules={},
+            prefix_search=nlp.tokenizer.prefix_search,
+            suffix_search=nlp.tokenizer.suffix_search,
+            infix_finditer=compile_infix_regex(nlp.Defaults.infixes).finditer,
+            token_match=self._APOSTROPHE_TOKEN_RE.match,
+        )
+        if "parser" in nlp.pipe_names:
+            nlp.disable_pipes("parser")
+        if "sentencizer" not in nlp.pipe_names:
+            nlp.add_pipe("sentencizer")
+
+        self._nlp_cache[base] = nlp
+        return nlp
 
     def _load_dictionaries(self):
         for lang in self.langs:
@@ -169,6 +195,8 @@ class Olaph:
 
     def _load_probabilities(self):
         for lang in self.langs:
+            if lang in _LANG_BASE:
+                continue  # derived variants share the base lang's probabilities
             self.word_probabilities[lang] = {}
             path = self.base_dir / f"word_probabilities/word_probabilities_{lang}.txt"
             if not path.exists():
@@ -183,8 +211,9 @@ class Olaph:
         originated from the target language or from the language-independent general dict.
         This prevents e.g. an English entry for "largent" masking the correct French
         splitting of "l" + "argent"."""
+        base = _LANG_BASE.get(lang, lang)
         source = self.all_lang_word_source.get(word)
-        if source is None or (source != lang and source != "general"):
+        if source is None or (source != base and source != lang and source != "general"):
             return None
         return self._lookup(word, self.all_lang_word_dict, pos, tense)
 
@@ -265,10 +294,11 @@ class Olaph:
         return memo[word]
 
     def _get_probability(self, word, max_length, lang, alpha=15):
-        if word not in self.word_probabilities[lang]:
+        lang = _LANG_BASE.get(lang, lang)
+        if word not in self.word_probabilities.get(lang, {}):
             return 0
         else:
-            freq = self.word_probabilities[lang][word]
+            freq = self.word_probabilities[lang][word]  # lang already resolved to base above
             length_weight = (len(word) / max_length) ** alpha
             if len(word) == 1:
                 length_penalty = 0.1
@@ -394,7 +424,7 @@ class Olaph:
 
     def _detect_foreign_entities(self, sentence: str, lang: str) -> Dict[str, str]:
         foreign_entities: Dict[str, str] = {}
-        doc = self.nlps[lang](sentence)
+        doc = self._get_nlp(lang)(sentence)
         for ent in doc.ents:
             if ent.label_ != "ORG":
                 continue
@@ -403,7 +433,7 @@ class Olaph:
                 ent_lang = detected.iso_code_639_1.name.lower()
             except Exception:
                 continue
-            if ent_lang not in self.langs or ent_lang == lang:
+            if ent_lang not in self.langs or ent_lang == lang or ent_lang == _LANG_BASE.get(lang):
                 continue
             for word in ent.text.split():
                 word_clean = re.sub(r'[^\w\s]', '', word).strip()
@@ -417,6 +447,7 @@ class Olaph:
 
     def _preprocess_sentence(self, sentence: str, lang: str) -> str:
         sentence = sentence.replace("-", " ").replace("’", "'")
+        sentence = re.sub(r"'", "", sentence)
         sentence = re.sub(r" +", " ", sentence)
         for k, v in self.lang_replacements_dict.get(lang, {}).items():
             pattern = rf"(?<!\w){re.escape(k)}(?!\w)"
@@ -430,7 +461,7 @@ class Olaph:
 
         if lang == "de":
             sentence = self.normalizer.normalize(sentence)
-        elif lang == "en":
+        elif lang in ("en", "en-us", "en-uk"):
             sentence = normalize_english(sentence)
         else:
             sentence = self._normalize_numbers(sentence, lang)
@@ -438,9 +469,13 @@ class Olaph:
 
         return sentence.strip()
 
+    # Languages that use a comma as the decimal separator
+    _COMMA_DECIMAL_LANGS = set({"fr", "es", "cs", "da", "nl", "it", "sv"})
+
     def _normalize_numbers(self, sentence: str, lang: str) -> str:
         """Replace numbers in text with words."""
-        if lang in ["fr", "es"]:
+        num2words_lang = _LANG_BASE.get(lang, lang)
+        if lang in self._COMMA_DECIMAL_LANGS:
             number_pattern = r"\b\d+(,\d+)?%?|\$\d+(,\d+)?|\d+\.\d+"
             decimal_separator = ","
         else:
@@ -452,16 +487,16 @@ class Olaph:
             try:
                 if num_str.endswith("%"):
                     number = float(num_str[:-1].replace(decimal_separator, "."))
-                    return num2words(number, lang=lang) + " percent"
+                    return num2words(number, lang=num2words_lang) + " percent"
                 elif num_str.startswith("$"):
                     number = float(num_str[1:].replace(",", "").replace(decimal_separator, "."))
-                    return "dollars " + num2words(number, lang=lang)
+                    return "dollars " + num2words(number, lang=num2words_lang)
                 elif decimal_separator in num_str:
-                    return num2words(float(num_str.replace(decimal_separator, ".")), lang=lang)
-                elif "," in num_str and lang == "en":
-                    return num2words(int(num_str.replace(",", "")), lang=lang)
+                    return num2words(float(num_str.replace(decimal_separator, ".")), lang=num2words_lang)
+                elif "," in num_str and lang in ("en", "en-us", "en-uk"):
+                    return num2words(int(num_str.replace(",", "")), lang=num2words_lang)
                 else:
-                    return num2words(int(num_str), lang=lang)
+                    return num2words(int(num_str), lang=num2words_lang)
             except ValueError:
                 return num_str
 
@@ -481,7 +516,7 @@ class Olaph:
 
     def _phonemize_sentence(self, sentence: str, lang: str, foreign_entities: Optional[Dict[str, str]] = None, guessing: bool = True) -> str:
         """Phonemize one sentence, fixing punctuation and spacing."""
-        doc = self.nlps[lang](sentence)
+        doc = self._get_nlp(lang)(sentence)
         tokens = []
 
         for token in doc:
@@ -545,7 +580,7 @@ class Olaph:
                     cross-language or statistical fallbacks are left as-is in the
                     output and recorded in ``self.refused_words``.
         """
-        nlp = self.nlps[lang]
+        nlp = self._get_nlp(lang)
         sentences = [s.text for s in nlp(text).sents]
         results = []
 
