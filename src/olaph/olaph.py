@@ -470,7 +470,7 @@ class Olaph:
         return sentence.strip()
 
     # Languages that use a comma as the decimal separator
-    _COMMA_DECIMAL_LANGS = set({"fr", "es", "cs", "da", "nl", "it", "sv"})
+    _COMMA_DECIMAL_LANGS = set({"fr", "es", "cs", "da", "nl", "it", "sv", "fi"})
 
     def _normalize_numbers(self, sentence: str, lang: str) -> str:
         """Replace numbers in text with words."""
