@@ -32,7 +32,7 @@ Evaluations in **German** and **English** show improved accuracy and robustness 
 
 ## Features
 
-- Multilingual phonemization (DE, EN-US, EN-UK, FR, ES, NL, CS, SV, DA, PL, IT)
+- Multilingual phonemization (DE, EN-US, EN-UK, FR, ES, NL, SV, DA, PL, IT, FI)
 - Abbreviation and letter pronunciation dictionaries
 - Number normalization
 - Cross-language acronym detection
