@@ -71,7 +71,21 @@ def test_quotation_marks_es(graphemes, phonemes):
     ("Er musste laut BGB § 9 Absatz 3 um die 750 € Strafe zahlen.", "eːɐ̯ ˈmʊstə laʊ̯t ˈbeː ˈɡeː ˈbeː paʁaˈɡʁaːf nɔɪ̯n ˈapˌzat͡s dʁaɪ̯ ʊm diː ˈziːbn̩ˈhʊndɐtfʏnft͡sɪk ˈɔɪ̯ʁo ˈʃtʁaːfə ˈt͡saːlən."),
 ])
 def test_replacements_de(graphemes, phonemes):
+    assert phonemizer.phonemize_text(graphemes, lang="de") == unicodedata.normalize("NFC", phonemes)
     assert phonemizer.phonemize_text(graphemes, lang="de") == phonemes
+
+@pytest.mark.parametrize("graphemes, lang, expected_refused", [
+    # French contractions resolved via splitting in the target-lang dict (no refusal)
+    ("L'amour est beau.", "fr", []),
+    # "Günter" is a German name not in the French dictionary; the umlaut blocks
+    # splitting via single French-dict characters, so it must be refused.
+    ("Il a rencontré Günter en Allemagne.", "fr", ["günter"]),
+])
+def test_no_guessing(graphemes, lang, expected_refused):
+    from olaph import NoGuessingRefusal
+    o = Olaph()
+    o.phonemize_text(graphemes, lang=lang, guessing=False)
+    assert sorted(o.refused_words) == sorted(expected_refused)
 
 
 def test_cross_language_default_result():
