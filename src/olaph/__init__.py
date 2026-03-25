@@ -1,1 +1,1 @@
-from .olaph import Olaph
+from .olaph import Olaph, NoGuessingRefusal

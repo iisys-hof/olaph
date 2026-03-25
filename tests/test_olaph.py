@@ -72,3 +72,26 @@ def test_quotation_marks_es(graphemes, phonemes):
 ])
 def test_replacements_de(graphemes, phonemes):
     assert phonemizer.phonemize_text(graphemes, lang="de") == unicodedata.normalize("NFC", phonemes)
+    assert phonemizer.phonemize_text(graphemes, lang="de") == phonemes
+
+@pytest.mark.parametrize("graphemes, lang, expected_refused", [
+    # French contractions resolved via splitting in the target-lang dict (no refusal)
+    ("L'amour est beau.", "fr", []),
+    # "Günter" is a German name not in the French dictionary; the umlaut blocks
+    # splitting via single French-dict characters, so it must be refused.
+    ("Il a rencontré Günter en Allemagne.", "fr", ["günter"]),
+])
+def test_no_guessing(graphemes, lang, expected_refused):
+    from olaph import NoGuessingRefusal
+    o = Olaph()
+    o.phonemize_text(graphemes, lang=lang, guessing=False)
+    assert sorted(o.refused_words) == sorted(expected_refused)
+
+
+def test_cross_language_default_result():
+    # "L'argent" was previously looked up as "largent" in the cross-language dict,
+    # returning the English IPA for "largent" instead of the correct French IPA.
+    # With source-aware lookups, the English entry is skipped and OLaPh correctly
+    # splits "largent" -> "l" + "argent" using the French dictionary.
+    o = Olaph()
+    assert o.phonemize_text("L'argent", lang="fr") == "laʁʒɑ̃."
