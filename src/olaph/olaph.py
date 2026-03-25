@@ -55,6 +55,7 @@ class Olaph:
         "nl": "nl_core_news_sm",
         "it": "it_core_news_sm",
         "sv": "sv_core_news_sm",
+        "fi": "fi_core_news_sm"
     }
     _APOSTROPHE_TOKEN_RE = re.compile(r"^\p{L}+(?:[‘’`]\p{L}+)*[‘’`]?$", re.UNICODE)
 
