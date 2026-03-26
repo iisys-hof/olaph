@@ -134,7 +134,7 @@ class Olaph:
                     grapheme, phoneme = parts[:2]
                     pos = parts[2] if len(parts) > 2 else "base"
                     phoneme = phoneme.split(",")[0].replace("/", "")
-                    grapheme = grapheme.lower()
+                    grapheme = unicodedata.normalize("NFC", grapheme.lower())
                     self.lang_dict[lang].setdefault(grapheme, {})
                     if pos not in self.lang_dict[lang][grapheme]:
                         self.lang_dict[lang][grapheme][pos] = phoneme
@@ -149,10 +149,11 @@ class Olaph:
             for line in rf:
                 grapheme, phoneme = line.strip().split("\t")
                 phoneme = phoneme.split(",")[0].replace("/", "")
-                key = grapheme.lower()
+                key = unicodedata.normalize("NFC", grapheme.lower())
                 if key not in self.all_lang_word_dict:
                     self.all_lang_word_dict[key] = {"base": phoneme}
-                    self.all_lang_word_source[key] = "general"
+                # always mark as general even if a language-specific dict loaded this word first, it must be reachable from any language.
+                self.all_lang_word_source[key] = "general"
 
     def _load_replacements(self):
         general_path = self.base_dir / "dictionaries/general_replacements.txt"
@@ -327,30 +328,37 @@ class Olaph:
         return None
 
 
-    def phonemize_word(self, word: str, lang: str, pos: Optional[str] = None, tense: Optional[str] = None, guessing: bool = True) -> str:
+    def phonemize_word(self, word: str, lang: str, pos: Optional[str] = None, tense: Optional[str] = None, guessing: bool = True, return_source: bool = False):
+        """Phonemize a single word
+        """
         if not word or word.isdigit():
-            return ""
+            return ("", "dict") if return_source else ""
+        word = unicodedata.normalize("NFC", word)
+
+        def _ret(phoneme: str, source: str):
+            return (phoneme, source) if return_source else phoneme
 
         for candidate in self._transformations(word):
             phoneme = self._lookup(candidate, self.lang_dict[lang], pos, tense)
             if phoneme:
-                return phoneme
+                return _ret(phoneme, "dict")
 
         if guessing:
             for candidate in self._transformations(word):
                 phoneme = self._lookup_all_lang(candidate, pos, tense, lang)
                 if phoneme:
-                    return phoneme
+                    return _ret(phoneme, "all_lang")
 
         cleaned = re.sub(r"[^\w\s]", "", word)
         phoneme = self._lookup(cleaned, self.lang_dict[lang], pos, tense)
-        if not phoneme and guessing:
-            phoneme = self._lookup_all_lang(cleaned, pos, tense, lang)
         if phoneme:
-            return phoneme
+            return _ret(phoneme, "dict")
+        if guessing:
+            phoneme = self._lookup_all_lang(cleaned, pos, tense, lang)
+            if phoneme:
+                return _ret(phoneme, "all_lang")
 
         if guessing:
-            #language detection fallback
             try:
                 detected = self.detector.detect_language_of(word)
                 detected_lang = detected.iso_code_639_1.name.lower()
@@ -358,9 +366,9 @@ class Olaph:
                     for candidate in self._transformations(word):
                         phoneme = self._lookup(candidate, self.lang_dict[detected_lang], pos, tense)
                         if phoneme:
-                            return phoneme
-            except Exception:
-                pass
+                            return _ret(phoneme, "lang_detect")
+            except Exception as ex:
+                logging.warning(str(ex))
 
         part_words = self._get_best_part_words(self._get_splits(cleaned, self.lang_dict[lang]), lang)
         if not part_words:
@@ -393,7 +401,7 @@ class Olaph:
                 self.refused_words.append(word)
                 raise NoGuessingRefusal(f"Word not in target-language dictionary: {word}")
             raise ValueError(f"Phonemization failed for word: {word}")
-        return word_phonemized
+        return _ret(word_phonemized, "compound")
 
     def _normalize_acronym(self, text: str) -> str:
         if re.fullmatch(r"(?:[A-Z]\.){2,}[A-Z]\.?", text):
@@ -514,7 +522,7 @@ class Olaph:
                     phonemized_sentence_corrected[idx-1] = "ði"
         return " ".join(phonemized_sentence_corrected).strip()
 
-    def _phonemize_sentence(self, sentence: str, lang: str, foreign_entities: Optional[Dict[str, str]] = None, guessing: bool = True) -> str:
+    def _phonemize_sentence(self, sentence: str, lang: str, foreign_entities: Optional[Dict[str, str]] = None, guessing: bool = True, word_sources: Optional[Dict[str, str]] = None) -> str:
         """Phonemize one sentence, fixing punctuation and spacing."""
         doc = self._get_nlp(lang)(sentence)
         tokens = []
@@ -537,6 +545,8 @@ class Olaph:
             if is_acronym:
                 resolved = self._resolve_abbreviation(norm, lang)
                 tokens.append(resolved if resolved else raw)
+                if word_sources is not None:
+                    word_sources[raw] = "abbr"
                 continue
 
             # foreign entity (NER)
@@ -544,19 +554,28 @@ class Olaph:
                 clean = re.sub(r'[^\w\s]', '', raw).strip()
                 if clean in foreign_entities:
                     tokens.append(foreign_entities[clean])
+                    if word_sources is not None:
+                        word_sources[raw] = "foreign"
                     continue
 
             try:
                 tense_list = token.morph.get("Tense")
                 tense = tense_list[0] if tense_list else None
-                phoneme = self.phonemize_word(raw.lower(), lang, pos=token.pos_, tense=tense, guessing=guessing)
+                phoneme, source = self.phonemize_word(raw.lower(), lang, pos=token.pos_, tense=tense, guessing=guessing, return_source=True)
                 tokens.append(phoneme)
+                if word_sources is not None:
+                    word_sources[raw] = source
             except NoGuessingRefusal:
+                logging.warning(f"Not in {lang} dictionary (guessing=False): '{raw}'")
                 tokens.append(raw)
+                if word_sources is not None:
+                    word_sources[raw] = "refused"
             except Exception as ex:
                 logging.error(f"Could not phonemize '{raw}': {ex}")
                 self.failed_words.append(raw)
                 tokens.append(raw)
+                if word_sources is not None:
+                    word_sources[raw] = "failed"
 
         out = " ".join(tokens).strip()
         # spacing cleanup
@@ -566,28 +585,30 @@ class Olaph:
         return out
 
 
-    def phonemize_text(self, text: str, lang: str = "de", normalize: bool = False, guessing: bool = True) -> str:
+    def phonemize_text(self, text: str, lang: str = "de", normalize: bool = False, guessing: bool = True, return_word_info: bool = False):
         """
         Phonemize text into a phoneme string.
         Handles sentence segmentation, abbreviation resolution, normalization,
         and punctuation spacing.
 
         Args:
-            normalize: If True, strip all punctuation from the output and do not
-                       append a trailing sentence-final period.
-            guessing: If False, refuse to guess pronunciations for words not found
-                    in the target-language dictionary.  Words that would require
-                    cross-language or statistical fallbacks are left as-is in the
-                    output and recorded in ``self.refused_words``.
+            normalize:        If True, strip all punctuation from the output and do not
+                              append a trailing sentence-final period.
+            guessing:         If False, refuse to guess pronunciations for words not found
+                              in the target-language dictionary.  Words that would require
+                              cross-language or statistical fallbacks are left as-is in the
+                              output and recorded in ``self.refused_words``.
+            return_word_info: If True, returns a ``(text, word_info)`` tuple
         """
         nlp = self._get_nlp(lang)
         sentences = [s.text for s in nlp(text).sents]
         results = []
+        word_sources: Dict[str, str] = {} if return_word_info else None
 
         for sentence in sentences:
             foreign_entities = self._detect_foreign_entities(sentence, lang)
             processed = self._preprocess_sentence(sentence, lang)
-            phonemized = self._phonemize_sentence(processed, lang, foreign_entities, guessing=guessing)
+            phonemized = self._phonemize_sentence(processed, lang, foreign_entities, guessing=guessing, word_sources=word_sources)
             phonemized_postprocessed = self._postprocess_sentence(phonemized, lang)
             if phonemized_postprocessed:
                 results.append(phonemized_postprocessed)
@@ -603,4 +624,8 @@ class Olaph:
                 final_text += "."
 
         final_text = unicodedata.normalize("NFC", final_text)
-        return final_text.strip()
+        final_text = final_text.strip()
+
+        if return_word_info:
+            return final_text, word_sources
+        return final_text
