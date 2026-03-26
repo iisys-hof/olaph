@@ -138,6 +138,9 @@ class Olaph:
                     self.lang_dict[lang].setdefault(grapheme, {})
                     if pos not in self.lang_dict[lang][grapheme]:
                         self.lang_dict[lang][grapheme][pos] = phoneme
+                    # set base if only word with POS annotation exists.
+                    if "base" not in self.lang_dict[lang][grapheme]:
+                        self.lang_dict[lang][grapheme]["base"] = phoneme
 
                     if grapheme not in self.all_lang_word_dict:
                         self.all_lang_word_dict[grapheme] = {"base": phoneme}
@@ -369,6 +372,11 @@ class Olaph:
                     phoneme = self._lookup_all_lang(candidate, pos, tense, lang)
                     if phoneme:
                         return _ret(phoneme, "all_lang")
+                if detected_lang in self.lang_dict:
+                    for candidate in self._transformations(word):
+                        phoneme = self._lookup(candidate, self.lang_dict[detected_lang], pos, tense)
+                        if phoneme:
+                            return _ret(phoneme, "lang_detect")
 
         part_words = self._get_best_part_words(self._get_splits(cleaned, self.lang_dict[lang]), lang)
         if not part_words:
