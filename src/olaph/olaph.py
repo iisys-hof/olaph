@@ -152,7 +152,10 @@ class Olaph:
                 key = unicodedata.normalize("NFC", grapheme.lower())
                 if key not in self.all_lang_word_dict:
                     self.all_lang_word_dict[key] = {"base": phoneme}
-                # always mark as general even if a language-specific dict loaded this word first, it must be reachable from any language.
+                else:
+                    # Override the phoneme with general.txt content
+                    self.all_lang_word_dict[key]["base"] = phoneme
+                # Always mark as "general" so cross-language lookups succeed.
                 self.all_lang_word_source[key] = "general"
 
     def _load_replacements(self):
@@ -343,32 +346,29 @@ class Olaph:
             if phoneme:
                 return _ret(phoneme, "dict")
 
-        if guessing:
-            for candidate in self._transformations(word):
-                phoneme = self._lookup_all_lang(candidate, pos, tense, lang)
-                if phoneme:
-                    return _ret(phoneme, "all_lang")
-
         cleaned = re.sub(r"[^\w\s]", "", word)
         phoneme = self._lookup(cleaned, self.lang_dict[lang], pos, tense)
         if phoneme:
             return _ret(phoneme, "dict")
-        if guessing:
-            phoneme = self._lookup_all_lang(cleaned, pos, tense, lang)
-            if phoneme:
-                return _ret(phoneme, "all_lang")
 
         if guessing:
+            # Detect the word's language once and use it to choose the fallback strategy:
+            # - foreign word  → cross-language / general lookup
+            # - native word (or uncertain) → compound splitting
+            detected_lang = None
             try:
                 detected = self.detector.detect_language_of(word)
-                detected_lang = detected.iso_code_639_1.name.lower()
-                if detected_lang in self.langs and detected_lang != lang:
-                    for candidate in self._transformations(word):
-                        phoneme = self._lookup(candidate, self.lang_dict[detected_lang], pos, tense)
-                        if phoneme:
-                            return _ret(phoneme, "lang_detect")
+                if detected is not None:
+                    detected_lang = detected.iso_code_639_1.name.lower()
             except Exception as ex:
                 logging.warning(str(ex))
+
+            base_lang = _LANG_BASE.get(lang, lang)
+            if detected_lang is not None and detected_lang != base_lang:
+                for candidate in self._transformations(word):
+                    phoneme = self._lookup_all_lang(candidate, pos, tense, lang)
+                    if phoneme:
+                        return _ret(phoneme, "all_lang")
 
         part_words = self._get_best_part_words(self._get_splits(cleaned, self.lang_dict[lang]), lang)
         if not part_words:

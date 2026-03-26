@@ -26,7 +26,7 @@ def test_homographs(graphemes, phonemes):
     assert phonemizer.phonemize_text(graphemes, lang="en-uk") == unicodedata.normalize("NFC", phonemes)
 
 @pytest.mark.parametrize("graphemes, phonemes", [
-    ("The Oktoberfest in München is a must visit event.", "ði ɑktˈoʊbəɹfˌɛst ˈɪn ˈmʏnçn̩ ˈɪz ə mˈʌst vˈɪzɪt ɪvˈɛnt."),
+    ("The Oktoberfest in München is a must visit event.", "ði ɑktˈoʊbəɹfˌɛst ˈɪn ˈmyɲchɛn ˈɪz ə mˈʌst vˈɪzɪt ɪvˈɛnt."),
     ("They visited the Museo del Prado in Madrid.", "ðeɪ vˈɪzɪtɪd ðə mjˈuːsˈə‍ʊ ˈdɛɫ ˈpɹɑdoʊ ˈɪn məˈdɹɪd."),
 ])
 def test_cross_lingual(graphemes, phonemes):
@@ -49,7 +49,7 @@ def test_quotation_marks_en(graphemes, phonemes):
 
 
 @pytest.mark.parametrize("graphemes, phonemes", [
-    ("Heut' geh’ ich zu Opa’s Garten, weil's dort schön is’, und frag’, ob er’s erlaubt, dass ich sein’n alten Ball nehm’.", "hɔɪ̯t ɡeː ɪç t͡suː ˈoːpas ˈɡ̊aʁtn̩, vaɪ̯ls dɔʁt ʃøːn ɪs, ʊnt fʁaːk, ɔp eːɐ̯s ɛɐ̯ˈlaʊ̯pt, das ɪç ʃeiɲ ˈaltn̩ bal nˈeːm."),
+    ("Heut' geh’ ich zu Opa’s Garten, weil's dort schön is’, und frag’, ob er’s erlaubt, dass ich sein’n alten Ball nehm’.", "hɔɪ̯t ɡeː ɪç t͡suː ˈoːpas ˈɡ̊aʁtn̩, vaɪ̯ls dɔʁt ʃøːn ɪs, ʊnt fʁaːk, ɔp eːɐ̯s ɛɐ̯ˈlaʊ̯pt, das ɪç zaɪ̯nn ˈaltn̩ bal nˈeːm."),
 ])
 def test_quotation_marks_de(graphemes, phonemes):
     assert phonemizer.phonemize_text(graphemes, lang="de") == unicodedata.normalize("NFC", phonemes)
