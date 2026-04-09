@@ -19646,6 +19646,7 @@ b.a.-ba	/beaba/
 baba	/baba/
 a	/b/
 b	/b/
+eux	/ø/
 baba cool	/babakul/
 babas	/baba/
 Babel	/babɛl/

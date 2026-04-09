@@ -29552,8 +29552,7 @@ azzato	/əˈzɑtoʊ/
 azzato	/əzˈɑtoʊ/
 azzopardi	/ɑtsoʊˈpɑɹdi/
 azzopardi	/ɑtsoʊpˈɑɹdi/
-b	/bˈiː/
-b	/bˈi/
+b	/b/
 b'gosh	/bəˈɡɔʃ/
 b'gosh	/baɪgˈɔʃ/
 b'nai	/bəˈneɪ/
@@ -62184,14 +62183,9 @@ byzantium	/bəzˈæntiəm/
 byzants	/bɪzˈænts/
 bête noire	/bɛt ˈnwɑɹ/
 bʼakʼtun	/ˈbɑkˌtun/
+c	/k/
 c	/s/	NOUN
-c	/sˈi/
-c	/siː/	NOUN
-c	/k/	NOUN
-c	/tʃ/	NOUN
-c	/ks/	NOUN
-c	/ʃ/	NOUN
-c	/siː(˦)/	ADJECTIVE
+ch	/tʃ/	NOUN
 c'est	/sˈeɪ/
 c'est	/sˈɛst/
 c'est la vie	/ˌseɪ.lɑˈvi/
@@ -104401,8 +104395,7 @@ czyzewski	/tʃɪˈzɛfski/
 czyzewski	/tʃɪzˈɛfski/
 córdoba	/ˈkɔːɹdəbə/
 côte d'ivoire	/ˌkoʊt diˈvwɑɹ/
-d	/dˈiː/
-d	/dˈi/
+d	/d/
 d'affaires	/dəˈfɛɹz/
 d'affaires	/dæfˈɛɹz/
 d'agostino	/ˌdɑɡəˈstinoʊ/
@@ -132049,8 +132042,7 @@ détente	/dɪˈtɑnt/
 dún laoghaire	/dʌn ˈlɪɹə/
 düsseldorf	/ˈduːsəldɔɹf/
 düsseldorf	/ˈdʊsəldɔɹf/
-e	/ˈiː/
-e	/ˈi/
+e	/i/
 e'en	/ˈin/
 e'er	/ˈɛɹ/
 e'er	/ɛɚ/
@@ -132097,7 +132089,6 @@ e.g.	/ˌiˈd͡ʒi/
 e.g.	/fɔɹ‿ɪɡˈzæmpəl/
 e.s	/ˈiz/
 e=mc²	/ˈi ˌikwəlz ɛm si ˈskwɛɹd/
-ea	/ˈiː/
 ea	/i/
 each	/ˈiːt‍ʃ/
 each	/ˈitʃ/
@@ -148888,7 +148879,7 @@ ezzo	/ˈɛzoʊ/
 eötvös	/ˈətvəʃ/
 eötvös	/-vəs/
 eötvös	/ˈɔtvɔʃ/
-f	/ˈɛf/
+f	/f/
 f in the chat	/ˌɛf‿ɪn ðə ˈt͡ʃæt/
 f'd	/ˈɛfd/
 f's	/ˈɛfs/
@@ -167995,8 +167986,7 @@ führer	/ˈfjʊɹ.ɚ/
 führer	/ˈfɪɹ.ɚ/
 fœtor	/ˈfiːtɔɹ/
 fœtors	/ˈfiːtɔɹz/
-g	/d‍ʒˈiː/
-g	/dʒˈi/
+g	/g/
 g'day	/gədˈeɪ/
 g's	/ˈdʒiz/
 g's	/dʒˈiz/
@@ -187003,8 +186993,7 @@ győr	/d͡ʒɜːr/
 götaland	/ˈjɑ.tə.lənd/
 götterdämmerung	/ˌɡɑtɚˈdæmɚ.ʊŋ/
 götterdämmerung	/ˌɡɑɾɚˈdɛə̯mɚ.ʊŋ/
-h	/ˈe‍ɪt‍ʃ/
-h	/ˈeɪtʃ/
+h	/h/
 h's	/ˈeɪtʃɪz/
 h-bomb	/ˈeɪtʃbˌɑm/
 h.	/ˈeɪtʃ/
@@ -207797,12 +207786,6 @@ höðr	/ˈhoʊdɚ/
 höðr	/ˈhɑdɚ/
 h₂o	/ˌeɪt͡ʃtuːˈoʊ/
 i	/ˈaɪ/
-i	/aj/
-i	/ɑɪ/
-i	/aː/
-i	/aɪ/	NOUN
-i	/ɪ/	NOUN
-i	/i/	NOUN
 i don't know	/ɑ̈ɪ̯ (ɾ)oʊ̯̃(ʔ)(t̚) noʊ̯/
 i don't think	/aː doʊnt θɪŋk/
 i don't think so	/aː doʊnt θɪŋk soʊ/
@@ -222377,8 +222360,8 @@ izzi	/ˈɪzi/
 izzo	/ˈɪzoʊ/
 izzy	/ˈɪzi/
 izzy's	/ˈɪziz/
-j	/d‍ʒˈe‍ɪ/
-j	/dʒˈeɪ/
+j	/d‍ʒ/
+dg	/d‍ʒ/
 j particle	/ˈdʒeɪ ˌpɑɹtɪkəl/
 j'adoube	/ʒædˈub/
 j'ouvert	/dʒuvˈeɪ/
@@ -227658,8 +227641,7 @@ jäger	/ˈjeɪ.ɡɚ/
 jäger bomb	/ˈjeɪɡɚˌbɑm/
 jägerbomb	/ˈjeɪɡɚˌbɑm/
 júlíus	/dʒˈuliəs/
-k	/kˈe‍ɪ/
-k	/kˈeɪ/
+k	/k/
 k's	/ˈkeɪz/
 k's	/kˈeɪz/
 k-drama	/kˈeɪdɹˌɑmə/
@@ -238317,7 +238299,7 @@ kyūjitai	/ˌkju.d͡ʒiˈtaɪ/
 kölsch	/koʊlʃ/
 königsberg	/ˈkɜ.nɪɡzˌbɝɡ/
 königsberg	/ˈkeɪ.nɪɡzˌbɝɡ/
-l	/ˈɛl/
+l	/l/
 l'alma	/ˈɫɑɫmə/
 l'alma	/lˈɑlmə/
 l'amour	/ˈɫæmɔɹ/
@@ -256038,9 +256020,7 @@ lyvers	/ˈɫaɪvɝz/
 lyvers	/lˈaɪvɚz/
 ländler	/ˈlɛndlɚ/
 lèse-majesté	/liz ˈmædʒəsti/
-m	/əm/
-m	/ˈɛm/
-m'	/mˈʌ/
+m	/m/
 m'bow	/ˈmboʊ/, /ˌɛmˈboʊ/
 m'bow	/mbˈoʊ/
 m'bow	/ˌɛmbˈoʊ/
@@ -256050,7 +256030,6 @@ m's	/ˈɛmz/
 m-code	/ˈɛmˈkoʊd/
 m-codes	/ˈɛmˈkoʊdz/
 m-commerce	/ˈɛmkˌɑməɹs/
-m.	/ˈɛm/
 m.d.	/ˌɛmˈdi/
 m.s	/ˈɛmz/
 m.y.o.b.	/ɛm waɪ oʊ ˈbi/
@@ -287295,8 +287274,7 @@ métier	/meɪˈtjeɪ/
 mímir	/ˈmimɪɹ/
 möbius	/ˈmoʊ.bi.əs/
 möbius strip	/ˈmoʊ.bi.əs stɹɪp/
-n	/ən/
-n	/ˈɛn/
+n	/n/
 n'awlins	/nˈɔlˌɪnz/
 n'djamena	/ndjəˈminə/
 n'djamena	/ˌʌndʒɑmˈeɪnə/
@@ -300673,10 +300651,7 @@ nyx	/ˈnɪks/
 nyx	/nˈɪks/
 ní	/nˈi/
 nʕaylintn	/ˈnaɪ.lɪn.tɪn/
-o	/ˈə‍ʊ/
-o	/ˈoʊ/
 o	/oʊ/
-o'	/ˈʌ/
 o'banion	/oʊbˈænjən/
 o'bannon	/oʊbˈænən/
 o'bara	/oʊbˈɑɹə/
@@ -314770,8 +314745,7 @@ ozzie	/ˈɑˌzi/
 ozzie	/ˈɑzi/
 ozzy	/ˈɑˌzi/
 ozzy	/ˈɑzi/
-p	/pˈiː/
-p	/pˈi/
+p	/p/
 p's	/ˈpiz/
 p's	/pˈiz/
 p-celtic	/pˈikˌɛltɪk/
@@ -351010,9 +350984,7 @@ pyxis	/pˈɪksɪs/
 pzazz	/pˈiːzˈæz/
 pétanque	/pəˈtæŋk/
 pūkeko	/ˈpuːkɛkoʊ/
-q	/kjˈuː/
-q	/kjˈu/
-q	/kju/
+q	/kw/
 q's	/ˈkjuz/
 q's	/kjˈuz/
 q-celtic	/kjˈukˌɛltɪk/
@@ -353264,10 +353236,6 @@ qwerty	/ˈkwɚti/
 qwerty	/-ɾi/
 qwertyuiop	/ˌkwɚtiˈjuiˌɑp/
 qwertyuiop	/-ɾi-/
-r	/ˈɑː/
-r	/ˈɑɹ/
-r	/ˈɑɹə/
-r	/ɑɹ/
 r	/ɹ/
 r rotunda	/ˌɑɹ.ɹoʊˈtʌn.də/
 r's	/ˈɑɹz/
@@ -357145,11 +357113,6 @@ reacts	/ɹɪˈækts/
 reacts	/ɹiˈækts/
 read	/ˈɹid/	VERB
 read	/ˈɹɛd/	VERBPast
-read	/ɹˈid/
-read	/ɹˈɛd/
-read	/'ɹiːd/
-read	/'ɹɛd/
-read	/ɹid/
 read's	/ˈɹidz/
 read's	/ɹˈidz/
 read-in	/ɹˈidˌɪn/
@@ -378869,7 +378832,7 @@ résumé	/ˈɹɛz.ə.meɪ/
 róisín	/ɹˈoʊʃin/
 rösti	/ˈɹɔsti/
 rösti	/ˈɹʊʃti/
-s	/ˈɛs/
+s	/s/
 s'more	/smˈɔɹ/
 s'pose	/spˈoʊz/
 s'pose	/spoʊ̯z/
@@ -432058,8 +432021,7 @@ szymczak	/ʃˈɪmtʃæk/
 séance	/ˈseɪˌɑns/
 síle	/ʃˈilə/
 sørensen	/sˈɔɹɪnsən/
-t	/tˈiː/
-t	/tˈi/
+t	/t/
 t'ang	/ˈtæŋ/
 t'ang	/tˈæŋ/
 t'other	/tˈʌðəɹ/
@@ -455131,11 +455093,7 @@ tzigane	/tsɪgˈɑn/
 tzigane	/tsɪˈgɑːn/	NOUN
 tzotzil	/tsˈoʊtsil/
 tzu-po	/tsupˈoʊ/
-u	/jˈuː/
-u	/jˈu/
-u	/ʌ/
-u	/u/
-u	/ʊ/
+u	/ə/
 u's	/ˈjuz/
 u's	/jˈuz/
 u-boat	/jˈubˌoʊt/
@@ -472394,8 +472352,7 @@ uzzell	/uˈzɛɫ/
 uzzell	/uzˈɛl/
 uzzle	/ˈəzəɫ/
 uzzle	/ˈʌzəl/
-v	/vˈiː/
-v	/vˈi/
+v	/v/
 v card	/ˌvi ˈkɑɹd/
 v's	/ˈviz/
 v's	/vˈiz/
@@ -480582,11 +480539,7 @@ västerås	/ˌvɛ.stɚˈɔs/
 västerås	/ˌvɛ.stɚˈɑs/
 völva	/ˈvɑlvə/
 völva	/ˈvoʊlvə/
-w	/dˈʌbə‍ljˌuː/
-w	/dˈʌbəlju/
-w	/dˈʌbəljˌu/
-w	/ˈdʌbə(l)ju/
-w	/ˈdʌb/
+w	/w/
 w's	/dˈʌbəljˌuz/
 w.	/ˈdəbəɫju/
 w.s	/ˈdəbəɫjuz/
@@ -494173,7 +494126,7 @@ wyvern	/ˈwaɪvəɹn/	NOUN
 wyvern	/ˈwɪvəɹn/
 wyvern	/ˈwiːvəɹn/
 wyverns	/wˈaɪvəɹnz/
-x	/ˈɛks/
+x	/ks/
 x disease	/ˈɛks.dɪ.ziz/
 x's	/ˈɛksɪz/
 x's	/ˈɛksᵻz/
@@ -494562,8 +494515,7 @@ xystus	/ˈzɪstəs/	NOUN
 xyvision	/ˈzaɪˈvɪʒən/
 xyvision	/zˈaɪvˈɪʒən/
 xyz	/ˌɛks.waɪˈzi/
-y	/wˈa‍ɪ/
-y	/wˈaɪ/
+y	/j/
 y'all	/ˌjɔɫ/
 y'all	/jˈɔl/
 y'all	/jɔl/
@@ -496955,11 +496907,7 @@ yvonne's	/ɪvˈɑnz/
 yvonnes	/ˌɪˈvɑnz/
 yzaguirre	/izəˈɡwaɪɝ/
 yzaguirre	/izəgwˈaɪɚ/
-z	/zˈɛd/
-z	/zˈi/
-z	/zɛd/
-z	/zi/
-z	/ziː/
+z	/z/
 z's	/ˈziz/
 z's	/zˈiz/
 z's	/ziz/

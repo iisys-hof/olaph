@@ -6,10 +6,10 @@ em	/əm/
 frisco	/ˈfɹɪskoʊ/
 gain	/ˈɡɛn/
 kay	/ˈkeɪ/
-m	/əm/
-n	/ən/
+m	/m/
+n	/n/
 round	/ˈɹaʊnd/
-s	/ˈɛs/
+s	/s/
 til	/ˈtɪɫ/
 tis	/ˈtɪz/
 twas	/ˈtwəz/
@@ -7770,7 +7770,7 @@ azzarello	/ɑtsɑˈɹɛɫoʊ/
 azzaro	/ɑtˈsɑɹoʊ/
 azzato	/əˈzɑtoʊ/
 azzopardi	/ɑtsoʊˈpɑɹdi/
-b	/bˈiː/
+b	/b/
 b'gosh	/bəˈɡɔʃ/
 b'nai	/bəˈneɪ/
 b'rith	/ˈbɹɪθ/

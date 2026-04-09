@@ -27,7 +27,7 @@ def test_homographs(graphemes, phonemes):
 
 @pytest.mark.parametrize("graphemes, phonemes", [
     ("The Oktoberfest in München is a must visit event.", "ði ɑktˈoʊbəɹfˌɛst ˈɪn ˈmyɲchɛn ˈɪz ə mˈʌst vˈɪzɪt ɪvˈɛnt."),
-    ("They visited the Museo del Prado in Madrid.", "ðeɪ vˈɪzɪtɪd ðə mjˈuːsˈə‍ʊ ˈdɛɫ ˈpɹɑdoʊ ˈɪn məˈdɹɪd."),
+    ("They visited the Museo del Prado in Madrid.", "ðeɪ vˈɪzɪtɪd ðə mjˈuːsə‍ʊ ˈdɛɫ ˈpɹɑdoʊ ˈɪn məˈdɹɪd."),
 ])
 def test_cross_lingual(graphemes, phonemes):
     assert phonemizer.phonemize_text(graphemes, lang="en-uk") == unicodedata.normalize("NFC", phonemes)
