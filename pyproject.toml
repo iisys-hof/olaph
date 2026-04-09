@@ -26,7 +26,7 @@ classifiers = [
 dependencies = [
   "inflect==7.5.0",
   "spacy",
-  "lingua-language-detector==2.2.0",
+  "lingua-language-detector==2.1.1",
   "num2words==0.5.14",
   "requests==2.32.5",
   "annotated-types==0.7.0",
