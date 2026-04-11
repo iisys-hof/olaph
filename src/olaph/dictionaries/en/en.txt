@@ -131546,7 +131546,8 @@ textures	/tˈɛkstʃəz/
 texturing	/tˈɛkstʃəɹɪŋ/
 tezak	/ˈtɛzək/
 tezeno	/teɪˈzeɪnoʊ/
-th	/ˈtiˈeɪtʃ/
+th	/θˈ/
+dr	/dɹ/
 thabo	/ˈθeɪboʊ/
 thach	/ˈθætʃ/
 thacher	/ˈθækɝ/

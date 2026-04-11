@@ -160858,10 +160858,6 @@ dphil	/difˈɪl/
 dphil	/diːfˈɪl/
 dqalpha	/ˈdikˈjuˈæɫfə/
 dqalpha	/dˈikjˈuˈælfə/
-dr	/dˈɑktəɹ/
-dr	/dˈɒktə/
-dr	/dɹˈaɪv/
-dr	/dˈɑktɚ/
 drab	/dɹˈæb/
 drab	/dɹˈab/
 drab	/dɹæb/
@@ -161646,7 +161642,6 @@ drayton	/dɹˈeɪtən/
 drayton's	/dɹˈeɪtənz/
 draytonian	/dɹeɪˈtəʊ.ni.ən/
 draytons	/ˈdɹeɪtənz/
-drc	/diːɑɹˈsiː/
 dread	/dɹˈɛd/
 dread	/dɹed/
 dreadable	/dɹˈɛdəbəl/
@@ -162847,7 +162842,6 @@ drozda	/dɹˈɑzdə/
 drozdowski	/dɹəzˈdɔfski/
 drozdowski	/dɹəzdˈɔfski/
 dru	/ˈdɹu/
-dru	/dɹˈu/
 drub	/ˈdɹəb/
 drub	/dɹˈʌb/
 drub	/dɹʌb/	NOUN
@@ -163122,8 +163116,6 @@ druze	/ˈdɹuz/
 druze	/dɹˈuz/
 druze	/dɹˈuːz/
 druzes	/dɹˈuzᵻz/
-dry	/dɹˈa‍ɪ/
-dry	/dɹˈaɪ/
 dry	/dɹaɪ/
 dry heater	/dɹaɪ ˈhitəː/
 dry-clean	/dɹˈaɪklˌin/
@@ -181255,6 +181247,7 @@ etesian	/ɪtˈiːzɪən/
 etesian	/ɪˈtiːzɪən/
 etess	/ˌɛˈtɛs/
 etess	/ˌɛtˈɛs/
+dr	/dɹ/
 eth	/ˈɛð/
 eth	/eð/	NOUN
 ethambutol	/ɛθˈambjuːtɒl/
@@ -559386,7 +559379,7 @@ tezak	/ˈtɛzək/
 tezak	/tˈɛzək/
 tezeno	/teɪˈzeɪnoʊ/
 tezeno	/teɪzˈeɪnoʊ/
-th	/ˈtiˈeɪtʃ/
+th	/θˈ/
 thaana	/ˈtɑː.nə/
 thaat	/tɒt/
 thabo	/ˈθeɪboʊ/

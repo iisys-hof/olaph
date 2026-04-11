@@ -127748,10 +127748,6 @@ dozy	/dˈoʊzi/
 dphil	/difˈɪl/
 dqalpha	/ˈdikˈjuˈæɫfə/
 dqalpha	/dˈikjˈuˈælfə/
-dr	/dˈɑktəɹ/
-dr	/dɹˈaɪv/
-dr	/dˈɑktɚ/
-dr. strangelove	/dɑktər streɪndʒlʌv/
 drab	/dɹˈæb/
 drab	/dɹæb/
 drabant	/dɹˈæbənt/
@@ -128363,7 +128359,6 @@ drayton	/dɹˈeɪtən/
 drayton's	/dɹˈeɪtənz/
 draytonian	/dɹeɪˈtoʊ.ni.ən/
 draytons	/ˈdɹeɪtənz/
-drc	/diːɑːˈsiː/
 dread	/dɹˈɛd/
 dread	/dɹed/
 dreadable	/dɹˈɛdəbəl/
@@ -129367,7 +129362,6 @@ drozda	/ˈdɹɑzdə/
 drozda	/dɹˈɑzdə/
 drozdowski	/dɹəzˈdɔfski/
 drozdowski	/dɹəzdˈɔfski/
-dru	/ˈdɹu/
 dru	/dɹˈu/
 drub	/ˈdɹəb/
 drub	/dɹˈʌb/
@@ -129599,8 +129593,6 @@ druthers	/ˈdɹʌðɚz/
 druze	/ˈdɹuz/
 druze	/dɹˈuz/
 druzes	/dɹˈuzᵻz/
-dry	/dɹˈa‍ɪ/
-dry	/dɹˈaɪ/
 dry	/dɹaɪ/
 dry abscess	/dɹaɪ ˈæbˌsɛs/
 dry abscess	/dɹaɪ ˈæbˌsɪs/
@@ -370841,6 +370833,7 @@ rhodium	/ɹˈə‍ʊdi‍əm/
 rhodium	/ɹˈoʊdiəm/
 rhodium	/ˈɹəʊdɪəm/	NOUN
 rhodiums	/ɹˈoʊdiəmz/
+dr	/dɹ/
 rhodochrosite	/ɹˌoʊdəkɹˈoʊsaɪt/
 rhododendron	/ɹˌə‍ʊdədˈɛndɹən/
 rhododendron	/ɹˌoʊdədˈɛndɹən/
@@ -439004,7 +438997,7 @@ tezak	/ˈtɛzək/
 tezak	/tˈɛzək/
 tezeno	/teɪˈzeɪnoʊ/
 tezeno	/teɪzˈeɪnoʊ/
-th	/ˈtiˈeɪtʃ/
+th	/θˈ/
 thaad	/θæd/
 thaana	/ˈtɑ.nə/
 thaat	/tɑt/
