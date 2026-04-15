@@ -30,6 +30,8 @@ TONE_MAP = {
 }
 _TONE_TABLE = str.maketrans(TONE_MAP)
 
+# Remove certain duplicate phones in a row. Cannot be generalize to all (e.g., compounds in german should not be deduplicated)
+_DEDUPLICATE = "ɾi"
 
 class NoGuessingRefusal(ValueError):
     """Raised by phonemize_word(..., guessing=False) when the word cannot be
@@ -590,6 +592,9 @@ class Olaph:
         out = re.sub(r"\s+([,.!?;:])", r"\1", out)
         out = re.sub(r"([(\[{])\s+", r"\1", out)
         out = re.sub(r"\s+([)\]}])", r"\1", out)
+        for char in _DEDUPLICATE:
+            out = re.sub(rf"{char}+", char, out)
+            
         return out
 
 

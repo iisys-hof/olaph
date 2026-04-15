@@ -62994,7 +62994,7 @@ ive	/ˈaɪv/
 i.	/ˈaɪ/
 i.s	/ˈaɪz/
 i.s	/ˈaɪz/
-ia	/ˈiə/
+ia	/iɑː/
 iacobelli	/iˌɑkoʊˈbɛɫi/
 iacobellis	/iˌɑkoʊˈbɛɫɪs/
 iacobucci	/iɑkoʊˈbutʃi/
@@ -66115,7 +66115,8 @@ iolande	/ioʊˈɫɑndi/
 iolanthe	/iəˈɫɑnθeɪ/
 iole	/iˈoʊɫi/
 iomega	/ˌaɪoʊˈmeɪɡə/
-ion	/ˈaɪɒn/
+ion	/ən/
+ion	/ˈaɪɒn/	NOUN
 iona	/aɪˈoʊnə/
 ionarde	/iəˈnɑɹdeɪ/
 ione	/aɪˈoʊni/

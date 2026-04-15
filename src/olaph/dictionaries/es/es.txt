@@ -361958,7 +361958,7 @@ hozaste	/oθaste/
 hozasteis	/oθasteis/
 hozó	/oˈθo/
 hozo	/oθo/
-hu	/u/
+hu	/w/
 huaca	/waka/
 huacal	/wakal/
 huacales	/wakales/
@@ -533492,6 +533492,7 @@ sazonó	/saθoˈno/
 sazono	/saθono/
 sé	/ˈse/
 se	/se/
+sez	/seθ/
 sea	/sea/
 seáis	/seˈais/
 seamos	/seamos/
@@ -563358,6 +563359,7 @@ tiburtinas	/tiβuɾtinas/
 tiburtino	/tiβuɾtino/
 tiburtinos	/tiβuɾtinos/
 tic	/tik/
+tich	/titʃ/
 tichela	/titʃela/
 tichelas	/titʃelas/
 ticholo	/titʃolo/
@@ -595924,6 +595926,7 @@ pa	/pa/
 ch	/tʃ/
 sh	/ʃ/
 ab	/ab/
+xa	/ʃa/
 abajém	/abaxem/
 abajémos	/abaxemos/
 abalá	/abala/
@@ -595941,7 +595944,7 @@ abejon	/abexon/
 abejonea	/abexonea/
 abejorre	/abexore/
 abs	/abs/
-abu	/abw/
+abu	/abu/
 aburuja	/abuɾuxa/
 ac	/ak/
 aca	/aka/
@@ -596009,7 +596012,7 @@ bduci	/bduθi/
 bducir	/bduθiɾ/
 bduj	/bdux/
 ber	/beɾ/
-bi	/bj/
+bi	/bi/
 bia	/bja/
 bir	/bir/
 bo	/bo/
@@ -596038,12 +596041,12 @@ cifli	/θifli/
 cil	/θil/
 cin	/θin/
 cio	/θjo/
-cir	/uθi/
+cir	/θir/
 cién	/θjen/
 ciéndo	/θjendo/
 ción	/θjon/
 co	/ko/
-cu	/kw/
+cu	/ku/
 cua	/kwa/
 cue	/kwe/
 cuer	/kweɾ/
@@ -596061,7 +596064,8 @@ er	/eɾ/
 et	/et/
 eta	/eta/
 ez	/eθ/
-fi	/fi/
+dez	/deθ/
+fi	/fj/
 fl	/fl/
 fli	/fli/
 ga	/ɡa/
@@ -596133,7 +596137,8 @@ mbia	/mbja/
 mo	/mo/
 mon	/mon/
 mos	/mos/
-nc	/nθ/
+nc	/nk/
+nch	/nk/
 nci	/nθj/
 ncio	/nθjo/
 ndi	/ndj/
@@ -596145,7 +596150,7 @@ ngo	/nɡo/
 nia	/nja/
 nsu	/nsw/
 nt	/nt/
-nu	/nw/
+nu	/nu/
 nz	/nθ/
 nzal	/nθal/
 oa	/oa/
@@ -596161,10 +596166,10 @@ qu	/ki/
 qui	/ki/
 quia	/akja/
 ra	/ɾa/
-rc	/aɾ/
+rc	/ɾk/
 re	/re/
 ren	/ren/
-rg	/te/
+rg	/ɾx/
 ri	/ri/
 ria	/ɾja/
 rio	/rjo/
@@ -596220,3 +596225,13 @@ zi	/θi/
 zo	/θo/
 zu	/θu/
 ño	/ɲo/
+duar	/dwaɾ/
+cillo	/θiʝo/
+chin	/tʃin/
+rreta	/reta/
+lueta	/lweta/
+luarte	/lwaɾte/
+girola	/xiɾola/
+nge	/nxe/
+ngida	/nxida/
+ngido	/nxido/

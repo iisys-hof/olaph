@@ -220502,10 +220502,8 @@ iole	/iˈoʊɫi/
 iole	/iˈoʊli/
 iomega	/ˌaɪoʊˈmeɪɡə/
 iomega	/ˌaɪoʊmˈeɪgə/
-ion	/ˈa‍ɪɒn/
-ion	/ˈaɪən/
-ion	/ˈaɪɒn/	NOUN
-ion	/ˈaɪˌɑn/
+ion	/ən/
+ion	/ˈaɪɒn/	NOUN    
 iona	/aɪˈoʊnə/
 ionarde	/iəˈnɑɹdeɪ/
 ionarde	/iənˈɑɹdeɪ/
