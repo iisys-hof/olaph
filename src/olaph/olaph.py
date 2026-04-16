@@ -31,7 +31,7 @@ TONE_MAP = {
 _TONE_TABLE = str.maketrans(TONE_MAP)
 
 # Remove certain duplicate phones in a row. Cannot be generalize to all (e.g., compounds in german should not be deduplicated)
-_DEDUPLICATE = "ɾi"
+_DEDUPLICATE = "ɾiʁ"
 
 class NoGuessingRefusal(ValueError):
     """Raised by phonemize_word(..., guessing=False) when the word cannot be
@@ -224,15 +224,14 @@ class Olaph:
         source = self.all_lang_word_source.get(word)
         if source is None or (source != base and source != lang and source != "general"):
             return None
-        return self._lookup(word, self.all_lang_word_dict, pos, tense)
+        return self._lookup(word, self.all_lang_word_dict, pos, tense, None)
 
-    def _lookup(self, word: str, dictionary: dict, pos: Optional[str], tense: Optional[str]) -> Optional[str]:
+    def _lookup(self, word: str, dictionary: dict, pos: Optional[str], tense: Optional[str], word_position: Optional[str]) -> Optional[str]:
         entry = dictionary.get(word)
-        #print(word, entry, pos, tense)
         if not entry:
             return None
         key = (pos or "") + (tense or "")
-        return entry.get(key) or entry.get(pos) or entry.get("base")
+        return entry.get(word_position) or entry.get(key) or entry.get(pos) or entry.get("base")
 
     def _transformations(self, word: str):
         """Generate common word variants for fallback lookups."""
@@ -347,12 +346,12 @@ class Olaph:
             return (phoneme, source) if return_source else phoneme
 
         for candidate in self._transformations(word):
-            phoneme = self._lookup(candidate, self.lang_dict[lang], pos, tense)
+            phoneme = self._lookup(candidate, self.lang_dict[lang], pos, tense, None)
             if phoneme:
                 return _ret(phoneme, "dict")
 
         cleaned = re.sub(r"[^\w\s]", "", word)
-        phoneme = self._lookup(cleaned, self.lang_dict[lang], pos, tense)
+        phoneme = self._lookup(cleaned, self.lang_dict[lang], pos, tense, None)
         if phoneme:
             return _ret(phoneme, "dict")
 
@@ -376,7 +375,7 @@ class Olaph:
                         return _ret(phoneme, "all_lang")
                 if detected_lang in self.lang_dict:
                     for candidate in self._transformations(word):
-                        phoneme = self._lookup(candidate, self.lang_dict[detected_lang], pos, tense)
+                        phoneme = self._lookup(candidate, self.lang_dict[detected_lang], pos, tense, None)
                         if phoneme:
                             return _ret(phoneme, "lang_detect")
 
@@ -394,8 +393,15 @@ class Olaph:
             raise ValueError(f"Phonemization failed for word: {word}")
         word_phonemized = ""
 
-        for part_word in part_words:
-            part_lookup = self._lookup(part_word, self.lang_dict[lang], None, None)
+        for idx, part_word in enumerate(part_words):
+            part_word_position = None
+            if idx == 0:
+                part_word_position = "START"
+            elif idx == len(part_words) -1:
+                part_word_position = "END"
+            else:
+                part_word_position = "MIDDLE"
+            part_lookup = self._lookup(part_word, self.lang_dict[lang], None, None, word_position=part_word_position)
             if not part_lookup and guessing:
                 part_lookup = self._lookup_all_lang(part_word, None, None, lang)
             if not part_lookup:

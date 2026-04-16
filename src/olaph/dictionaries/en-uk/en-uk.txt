@@ -218644,8 +218644,7 @@ ghuloum	/ˌɡuˈɫoʊm/
 ghuloum	/gˌulˈoʊm/
 ghusl	/gˈuːsəl/
 ghyll	/ɡˈɪl/
-gi	/gˈi/
-gi	/gˈiː/
+gi	/ʒɪ/
 gia's	/dʒˈiəz/
 giacalone	/ˈdʒɑkɑˌɫoʊˌni/
 giacalone	/dʒˈiəkælˌoʊni/
@@ -482224,7 +482223,7 @@ róisín	/ɹˈoʊʃin/
 röntgen	/ˈɹɜːnt.ɡən/
 rösti	/ˈɹɜːstɪ/
 rösti	/ˈɹɒstɪ/
-s	/s/
+s	/z/
 s'more	/smˈɔɹ/
 s'more	/smˈɔː/
 s'more	/ˈsmɔː/

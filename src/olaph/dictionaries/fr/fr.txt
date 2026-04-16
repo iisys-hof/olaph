@@ -11446,6 +11446,7 @@ anormaux	/anɔʁmo/
 anovulatoire	/anɔvylatwaʁ/
 anoxie	/anɔksi/
 ans	/ɑ̃/
+ans	/ɑ̃s/	START
 anse	/ɑ̃s/
 anses	/ɑ̃s/
 antagonique	/ɑ̃tagɔnik/
@@ -24660,7 +24661,7 @@ binomiales	/binomjal/
 binomiaux	/binomjo/
 binons	/binɔ̃/
 bintje	/bintʃ/
-bio	/bjo/
+bio	/bjɔ/
 bio-feedback	/bjɔfidbak/
 biocarburant	/bjɔkaʁbyʁɑ̃/
 biochimie	/bjɔʃimi/
@@ -116132,7 +116133,7 @@ franchiriez	/fʁɑ̃ʃiʁje/
 franchirions	/fʁɑ̃ʃiʁjɔ̃/
 franchirons	/fʁɑ̃ʃiʁɔ̃/
 franchiront	/fʁɑ̃ʃiʁɔ̃/
-franchis	/fʁɑ̃ʃi/
+franchi	/fʁɑ̃ʃi/
 franchisage	/fʁɑ̃ʃizaʒ/
 franchisages	/fʁɑ̃ʃizaʒ/
 franchise	/fʁɑ̃ʃiz/
@@ -129825,12 +129826,12 @@ il	/il/
 Iliade	/iljad/
 iliaque	/iljak/
 iliaques	/iljak/
-illégal	/ilegal/
-illégale	/ilegal/
-illégalement	/ilegalmɑ̃/
-illégales	/ilegal/
-illégalité	/ilegalite/
-illégalités	/ilegalite/
+illégal	/ileɡal/
+illégale	/ileɡal/
+illégalement	/ileɡalmɑ̃/
+illégales	/ileɡal/
+illégalité	/ileɡalite/
+illégalités	/ileɡalite/
 illégaux	/ilego/
 illégitime	/ileʒitim/
 illégitimement	/ileʒitimmɑ̃/
@@ -143146,57 +143147,57 @@ lectrices	/lɛktʁis/
 lecture	/lɛktyʁ/
 lectures	/lɛktyʁ/
 ledit	/lədi/
-légal	/legal/
-légale	/legal/
-légalement	/legalmɑ̃/
-légales	/legal/
-légalisa	/legaliza/
-légalisai	/legalizɛ/
-légalisaient	/legalizɛ/
-légalisais	/legalizɛ/
-légalisait	/legalizɛ/
-légalisâmes	/legalizam/
-légalisant	/legalizɑ̃/
-légalisas	/legaliza/
-légalisasse	/legalizas/
-légalisassent	/legalizas/
-légalisasses	/legalizas/
-légalisassiez	/legalizasje/
-légalisassions	/legalizasjɔ̃/
-légalisât	/legaliza/
-légalisâtes	/legalizat/
-légalisation	/legalizasjɔ̃/
-légalisations	/legalizasjɔ̃/
-légalise	/legaliz/
-légalisé	/legalize/
-légalisée	/legalize/
-légalisées	/legalize/
-légalisent	/legaliz/
-légaliser	/legalize/
-légalisera	/legalizəʁa/
-légaliserai	/legalizəʁɛ/
-légaliseraient	/legalizəʁɛ/
-légaliserais	/legalizəʁɛ/
-légaliserait	/legalizəʁɛ/
-légaliseras	/legalizəʁa/
-légalisèrent	/legalizɛʁ/
-légaliserez	/legalizəʁe/
-légaliseriez	/legalizəʁje/
-légaliserions	/legalizəʁjɔ̃/
-légaliserons	/legalizəʁɔ̃/
-légaliseront	/legalizəʁɔ̃/
-légalises	/legaliz/
-légalisés	/legalize/
-légalisez	/legalize/
-légalisiez	/legalizje/
-légalisions	/legalizjɔ̃/
-légalisme	/legalism/
-légalismes	/legalism/
-légalisons	/legalizɔ̃/
-légaliste	/legalist/
-légalistes	/legalist/
-légalité	/legalite/
-légalités	/legalite/
+légal	/ileɡal/
+légale	/ileɡal/
+légalement	/ileɡalmɑ̃/
+légales	/ileɡal/
+légalisa	/ileɡaliza/
+légalisai	/ileɡalizɛ/
+légalisaient	/ileɡalizɛ/
+légalisais	/ileɡalizɛ/
+légalisait	/ileɡalizɛ/
+légalisâmes	/ileɡalizam/
+légalisant	/ileɡalizɑ̃/
+légalisas	/ileɡaliza/
+légalisasse	/ileɡalizas/
+légalisassent	/ileɡalizas/
+légalisasses	/ileɡalizas/
+légalisassiez	/ileɡalizasje/
+légalisassions	/ileɡalizasjɔ̃/
+légalisât	/ileɡaliza/
+légalisâtes	/ileɡalizat/
+légalisation	/ileɡalizasjɔ̃/
+légalisations	/ileɡalizasjɔ̃/
+légalise	/ileɡaliz/
+légalisé	/ileɡalize/
+légalisée	/ileɡalize/
+légalisées	/ileɡalize/
+légalisent	/ileɡaliz/
+légaliser	/ileɡalize/
+légalisera	/ileɡalizəʁa/
+légaliserai	/ileɡalizəʁɛ/
+légaliseraient	/ileɡalizəʁɛ/
+légaliserais	/ileɡalizəʁɛ/
+légaliserait	/ileɡalizəʁɛ/
+légaliseras	/ileɡalizəʁa/
+légalisèrent	/ileɡalizɛʁ/
+légaliserez	/ileɡalizəʁe/
+légaliseriez	/ileɡalizəʁje/
+légaliserions	/ileɡalizəʁjɔ̃/
+légaliserons	/ileɡalizəʁɔ̃/
+légaliseront	/ileɡalizəʁɔ̃/
+légalises	/ileɡaliz/
+légalisés	/ileɡalize/
+légalisez	/ileɡalize/
+légalisiez	/ileɡalizje/
+légalisions	/ileɡalizjɔ̃/
+légalisme	/ileɡalism/
+légalismes	/ileɡalism/
+légalisons	/ileɡalizɔ̃/
+légaliste	/ileɡalist/
+légalistes	/ileɡalist/
+légalité	/ileɡalite/
+légalités	/ileɡalite/
 légat	/lega/
 légataire	/legatɛʁ/
 légataires	/legatɛʁ/
@@ -148851,7 +148852,7 @@ maquisardes	/makizaʁd/
 maquisards	/makizaʁ/
 maquons	/makɔ̃/
 marabout	/maʁabu/
-marabouter	/maʁabute/
+marabout	/maʁabut/	START
 marabouts	/maʁabu/
 maraîchage	/maʁɛʃaʒ/
 maraîchages	/maʁɛʃaʒ/
@@ -151165,9 +151166,9 @@ médicinale	/medisinal/
 médicinales	/medisinal/
 médicinaux	/medisino/
 Médicis	/medisis/
-médico-légal	/medikɔlegal/
-médico-légale	/medikɔlegal/
-médico-légales	/medikɔlegal/
+médico-légal	/medikɔileɡal/
+médico-légale	/medikɔileɡal/
+médico-légales	/medikɔileɡal/
 médico-légaux	/medikɔlego/
 médico-pédagogique	/medikɔpedagɔʒik/
 médico-pédagogiques	/medikɔpedagɔʒik/
@@ -172657,7 +172658,7 @@ phosphorez	/fɔsfɔʁe/
 phosphoriez	/fɔsfɔʁje/
 phosphorions	/fɔsfɔʁjɔ̃/
 phosphorons	/fɔsfɔʁɔ̃/
-photo	/fɔto/
+photo	/fɔtɔ/
 photo-finish	/fɔtɔfiniʃ/
 photo-journalisme	/fɔtɔʒuʁnalism/
 photochimie	/fɔtɔʃimi/
@@ -211855,7 +211856,7 @@ saisonnière	/sɛzɔnjɛʁ/
 saisonnières	/sɛzɔnjɛʁ/
 saisonniers	/sɛzɔnje/
 saisons	/sɛzɔ̃/
-sait	/sɛ/
+sait	/zɛ/
 saké	/sake/
 sakés	/sake/
 sala	/sala/
@@ -214382,6 +214383,8 @@ sculpturaux	/skyltyʁo/
 sculpture	/skyltyʁ/
 sculptures	/skyltyʁ/
 se	/sə/
+se	/sə/	MIDDLE
+sement	/smɑ/
 se compter	/səkɔ̃te/
 se dépêcher	/sədepeʃe/
 se donner	/sədɔne/
@@ -215535,6 +215538,7 @@ sensuelle	/sɑ̃sɥɛl/
 sensuelles	/sɑ̃sɥɛl/
 sensuels	/sɑ̃sɥɛl/
 sent	/sɑ̃/
+sent	/z/	END
 sentaient	/sɑ̃tɛ/
 sentais	/sɑ̃tɛ/
 sentait	/sɑ̃tɛ/
@@ -239317,7 +239321,7 @@ usassiez	/yzasje/
 usassions	/yzasjɔ̃/
 usât	/yza/
 usâtes	/yzat/
-use	/yz/
+use	/øz/
 usé	/yze/
 usée	/yze/
 usées	/yze/
@@ -241995,6 +241999,7 @@ verruqueuse	/vɛʁykøz/
 verruqueuses	/vɛʁykøz/
 verruqueux	/vɛʁykø/
 vers	/vɛʁ/
+versiste	/vɛʁsist/
 versa	/vɛʁsa/
 versai	/vɛʁsɛ/
 versaient	/vɛʁsɛ/
@@ -245896,7 +245901,6 @@ anti	/ɑti/
 antipou	/ɑtipu/
 antipout	/ɑtiput/
 antipoutin	/ɑtiputin/
-antipoutini	/ɑtiputi/
 aou	/aw/
 ap	/ap/
 ape	/ap/
@@ -245909,6 +245913,7 @@ arach	/aʁakn/
 arachn	/aʁakn/
 arachno	/aʁaknɔ/
 arcbout	/aʁkbu/
+arcbout	/aʁkbut/	START
 arcboute	/aʁkbut/
 ard	/aʁ/
 arg	/aʁʒ/
@@ -245986,7 +245991,7 @@ bilité	/bilite/
 bl	/bl/
 bla	/bla/
 blab	/blab/
-blabla	/bla/
+blabla	/blabla/
 blablater	/blablat/
 blater	/blat/
 ble	/bl/
@@ -246182,6 +246187,7 @@ dy	/di/
 dys	/dis/
 déb	/de/
 débras	/debʁa/
+débras	/debʁaz/	START
 dée	/de/
 déf	/def/
 défla	/defla/
@@ -246316,8 +246322,7 @@ fu	/f/
 fun	/fɔ/
 fé	/fe/
 fér	/feʁ/
-fétic	/feti/
-fétichi	/fetiʃi/
+fétic	/fetiʃ/
 ga	/a/
 gab	/gab/
 gan	/gan/
@@ -246711,10 +246716,9 @@ mag	/maɡ/
 maile	/mɛl/
 male	/mal/
 mar	/maʁ/
-maternalis	/matɛʁnali/
+maternali	/matɛʁnali/
 mathé	/matem/
 mathémati	/matemati/
-mathématis	/matemati/
 matique	/matik/
 matise	/matize/
 matisme	/matism/
@@ -246745,7 +246749,7 @@ mor	/mɔ/
 morp	/mɔʁ/
 morph	/mɔʁf/
 morphi	/mɔʁfi/
-morpho	/mɔʁfɔf/
+morpho	/mɔʁfɔ/
 mousque	/muskə/
 mousquetonne	/muskətɔnʁ/
 mp	/p/
@@ -246827,7 +246831,7 @@ nou	/nu/
 noï	/nɔi/
 noïque	/nɔik/
 ns	/s/
-nt	/ʁ/
+nt	/jɑ/
 nti	/ɑt/
 ny	/ni/
 néo	/neɔ/
@@ -246883,7 +246887,7 @@ olog	/inɔl/
 ologi	/ɔlɔʒi/
 ologie	/tɔlɔʒi/
 ologique	/ɔlɔʒik/
-ologiquement	/aʁksɔlɔʒikmɑ/
+ologiquement	/ɔlɔʒikmɑ/
 ologiques	/minɔlɔʒik/
 ologis	/ɔlɔʒis/
 ologiste	/pɔlɔʒist/
@@ -246974,17 +246978,17 @@ ost	/ɔst/
 osté	/ɔste/
 ot	/o/
 ote	/ɔt/
-oter	/zɔt/
-oth	/eɔt/
+oter	/ɔt/
+oth	/ɔt/
 oti	/ɔti/
 oua	/wa/
-ouan	/ka/
-oug	/buɡ/
+ouan	/wa/
+oug	/uɡ/
 ouil	/uj/
-ouk	/nuk/
-oul	/tul/
-our	/buʁ/
-ous	/ʁus/
+ouk	/uk/
+oul	/ul/
+our	/uʁ/
+ous	/us/
 outa	/uta/
 oute	/ut/
 outer	/vut/
@@ -247067,10 +247071,8 @@ professionnalis	/pʁɔfɛsjɔnaliz/
 prot	/pʁɔt/
 proto	/pʁɔtɔ/
 prémat	/pʁemat/
-prématu	/pʁemat/
-prémature	/pʁemat/
-préput	/pʁep/
-préputi	/pʁep/
+prémature	/pʁematyʁ/
+préput	/pʁepy/
 pse	/psø/
 pseu	/psød/
 psie	/psi/
@@ -247078,7 +247080,6 @@ pt	/pt/
 pto	/ptɔ/
 ptère	/ptɛʁ/
 pul	/pyl/
-puti	/pys/
 py	/pi/
 pyr	/piʁ/
 pé	/pe/
@@ -247110,7 +247111,7 @@ ranslater	/tʁɑslat/
 rassiez	/ʁasje/
 rati	/ʁati/
 ratie	/kʁasi/
-ratigraphie	/stʁatiɡʁafi/
+ratigraphie	/ʁatiɡʁafi/
 rau	/ʁo/
 ray	/ʁɛj/
 rb	/ʁb/
@@ -247123,7 +247124,7 @@ rd	/aʁ/
 rde	/aʁd/
 re	/ʁə/
 reb	/ʁə/
-rebouillir	/ʁəbuji/
+rebouilli	/ʁəbuji/
 ren	/fʁ/
 rencher	/fʁɑtʃə/
 rent	/ɔfeʁ/
@@ -247216,25 +247217,24 @@ récis	/etʁes/
 réf	/ʁef/
 rég	/ʁe/
 réislam	/ʁeislam/
-réislami	/ʁeislam/
 réo	/aʁe/
 rés	/kʁe/
 rét	/ʁet/
 sabbati	/sabati/
-sai	/ize/
-saient	/inizɛ/
-san	/sɑk/
-sant	/sɑ/
+sai	/ze/
+saient	/zɛ/
+san	/zɑ/
+sant	/zɑ/
 sar	/saʁ/
 sass	/sas/
-sasse	/nizas/
-sassent	/inizas/
+sasse	/zas/
+sassent	/zas/
 sasses	/sas/
-sassi	/nizas/
+sassi	/zas/
 sassie	/sje/
-sassiez	/nizasje/
-sassion	/sasjɔ/
-sassions	/sasjɔ/
+sassiez	/zasje/
+sassion	/zasjɔ/
+sassions	/zasjɔ/
 sat	/zas/
 sation	/sjɔ/
 saure	/ɔzɔʁ/
@@ -247275,7 +247275,6 @@ sor	/sɔʁ/
 sp	/sp/
 spa	/sp/
 squattéri	/skwateʁi/
-squattéris	/skwateʁi/
 ss	/s/
 ssa	/sa/
 sse	/nis/
@@ -247341,13 +247340,13 @@ tine	/tin/
 tini	/ti/
 tinien	/tin/
 tio	/tjɔ/
-tion	/asjɔ/
-tions	/izas/
+tion	/sjɔ/
+tions	/sjɔ/
 tip	/ti/
 tipou	/tipu/
 tipout	/tiput/
 tipoutin	/tiputin/
-tipoutini	/tiputi/
+tipoutini	/tiputini/
 tiquement	/tikmɑ/
 tis	/tis/
 tise	/tize/
@@ -247463,9 +247462,8 @@ vec	/vɛk/
 vect	/vɛkt/
 vecto	/vɛktɔ/
 vector	/vɛktɔʁ/
-vectori	/vɛktɔʁ/
-vectoris	/vɛktɔʁi/
-verlani	/vɛʁlan/
+vectori	/vɛktɔʁi/
+verlani	/vɛʁlani/
 vi	/vi/
 vic	/vik/
 vien	/vjɛ/
@@ -247549,7 +247547,7 @@ zape	/zap/
 zaï	/zai/
 zaïri	/zai/
 zaïria	/zaiʁja/
-zaïriani	/zaiʁ/
+zaïriani	/zaiʁjani/
 ze	/z/
 zer	/zɛʁ/
 zet	/zɛ/
@@ -247671,3 +247669,86 @@ geat	/ʒea/
 raine	/ʁɛn/
 nant	/nɑ/
 doné	/dɔn/
+dimensionnelles	/dimɑsjɔnɛl/
+ient	/jɑ/
+dimensionnelle	/dimɑsjɔnɛl/
+anthropomorphi	/ɑtʁɔpɔmɔʁfi/
+circonférentie	/siʁkɔfeʁɑsjɛ/
+trichloroéthan	/tʁiklɔʁɔetan/
+graphiquement	/ɡʁafikmɑ/
+dimensionnels	/dimɑsjɔnɛl/
+interculturelle	/ɛtɛʁkyltyʁɛl/
+multiculturelle	/myltikyltyʁɛl/
+multiculturelles	/myltikyltyʁɛl/
+multiculturels	/myltikyltyʁɛl/
+nt	//	END
+rai	/ʁe/	END
+controversent	/kɔtʁɔvɛʁs/
+controversera	/kɔtʁɔvɛʁsəʁa/
+controverserai	/kɔtʁɔvɛʁsəʁe/
+controverseraient	/kɔtʁɔvɛʁsəʁɛ/
+controverserais	/kɔtʁɔvɛʁsəʁɛ/
+controverserait	/kɔtʁɔvɛʁsəʁɛ/
+controverseras	/kɔtʁɔvɛʁsəʁa/
+controverseriez	/kɔtʁɔvɛʁsəʁje/
+controverserions	/kɔtʁɔvɛʁsəʁjɔ/
+controverserons	/kɔtʁɔvɛʁsəʁɔ/
+controverseront	/kɔtʁɔvɛʁsəʁɔ/
+controversez	/kɔtʁɔvɛʁse/
+sousprépu	/supʁepy/
+rafraichi	/ʁafʁeʃi/
+blablate	/blablat/
+te	/t/	END
+tent	/t/	END
+tera	/tʁa/	END
+terai	/tʁe/	END
+teraient	/tʁɛ/	END
+terais	/tʁɛ/	END
+terait	/ʁɛ/	END
+teras	/ʁa/	END
+terez	/ʁe/	END
+teriez	/təʁje/	END
+terions	/təʁjɔ/	END
+terons	/tʁɔ/	END
+teront	/tʁɔ/	END
+tes	/t/	END
+tez	/te/	END
+tiez	/tje/	END
+tions	/tjɔ/	END
+tons	/tɔ/	END
+tâmes	/tam/	END
+tâtes	/tat/	END
+té	/te/	END
+Franconien	/fʁɑkɔnjɛ/
+Franconienne	/fʁɑkɔnjɛn/
+Franconiennes	/fʁɑkɔnjɛn/
+Franconiens	/fʁɑkɔnjɛ/
+a	/a/	END
+aient	/ɛ/	END
+ais	/ɛ/	END
+ait	/ɛ/	END
+ant	/ɑ/	END
+as	/a/	END
+asse	/as/	END
+assent	/as/	END
+asses	/as/	END
+assiez	/asje/	END
+assions	/asjɔ/	END
+e	//	END
+ent	//	END
+era	/ʁa/	END
+erai	/ʁe/	END
+eraient	/ʁɛ/	END
+erais	/ʁɛ/	END
+erait	/ʁɛ/	END
+erez	/ʁe/	END
+eriez	/əʁje/	END
+erions	/əʁjɔ/	END
+erons	/ʁɔ/	END
+eront	/ʁɔ/	END
+iez	/je/	END
+ions	/jɔ/	END
+ons	/ɔ/	END
+âmes	/am/	END
+èrent	/ɛʁ/	END
+é	/e/	END
