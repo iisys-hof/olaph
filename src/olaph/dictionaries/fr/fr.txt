@@ -7226,6 +7226,7 @@ airelles	/ɛʁɛl/
 aires	/ɛʁ/
 airs	/ɛʁ/
 aïs	/ai/
+ais	/ɛz/	START
 ais	/ɛ/
 aisance	/ɛzɑ̃s/
 aisances	/ɛzɑ̃s/
@@ -11461,6 +11462,9 @@ antan	/ɑ̃tɑ̃/
 antarctique	/ɑ̃taʁktik/
 antarctiques	/ɑ̃taʁktik/
 antécédence	/ɑ̃tesedɑ̃s/
+anté	/ɑ̃te/
+antéc	/ɑtes/
+antécé	/ɑtese/
 antécédences	/ɑ̃tesedɑ̃s/
 antécédent	/ɑ̃tesedɑ̃/
 antécédente	/ɑ̃tesedɑ̃t/
@@ -36121,6 +36125,8 @@ cavités	/kavite/
 Cayenne	/kajɛn/
 CD-Rom	/sedeʁɔm/
 ce	/ə/
+ce	/se/	START
+ce	/se/	MIDDLE
 céans	/seɑ̃/
 ceci	/səsi/
 cécité	/sesite/
@@ -58135,6 +58141,7 @@ Davis	/devis/
 Dawha	/dɔa/
 dé	/de/
 de	/də/
+de	/d/	END
 de bon cœur	/dəbɔ̃kœʁ/
 de bonne composition	/dbɔnkɔ̃pozisjɔ̃/
 de bonne heure	/dbɔnœʁ/
@@ -82825,7 +82832,7 @@ Djibouti	/dʒibuti/
 djihad	/dʒiad/
 djinn	/dʒin/
 djinns	/dʒin/
-do	/do/
+do	/dɔ/
 doberman	/dɔbɛʁman/
 dobermans	/dɔbɛʁman/
 doc	/dɔk/
@@ -84788,6 +84795,7 @@ dystrophie	/dystʁɔfi/
 dystrophies	/dystʁɔfi/
 e-mail	/imel/
 eau	/o/
+teau	/to/
 eau-de-vie	/odvi/
 eau-forte	/ofɔʁt/
 eaux	/o/
@@ -125971,6 +125979,8 @@ haïrions	/ʼaiʁjɔ̃/
 haïrons	/ʼaiʁɔ̃/
 haïront	/ʼaiʁɔ̃/
 hais	/ʼai/
+hais	/ɛ/	END
+hait	/ɛ/	END
 haïs	/ʼai/
 haïssable	/ʼaisabl/
 haïssables	/ʼaisabl/
@@ -141845,6 +141855,7 @@ lainiez	/lɛnje/
 lainions	/lɛnjɔ̃/
 lainons	/lɛnɔ̃/
 lais	/lɛ/
+llais	/jɛ/
 laissa	/lɛsa/
 laissai	/lɛsɛ/
 laissaient	/lɛsɛ/
@@ -143147,57 +143158,57 @@ lectrices	/lɛktʁis/
 lecture	/lɛktyʁ/
 lectures	/lɛktyʁ/
 ledit	/lədi/
-légal	/ileɡal/
-légale	/ileɡal/
-légalement	/ileɡalmɑ̃/
-légales	/ileɡal/
-légalisa	/ileɡaliza/
-légalisai	/ileɡalizɛ/
-légalisaient	/ileɡalizɛ/
-légalisais	/ileɡalizɛ/
-légalisait	/ileɡalizɛ/
-légalisâmes	/ileɡalizam/
-légalisant	/ileɡalizɑ̃/
-légalisas	/ileɡaliza/
-légalisasse	/ileɡalizas/
-légalisassent	/ileɡalizas/
-légalisasses	/ileɡalizas/
-légalisassiez	/ileɡalizasje/
-légalisassions	/ileɡalizasjɔ̃/
-légalisât	/ileɡaliza/
-légalisâtes	/ileɡalizat/
-légalisation	/ileɡalizasjɔ̃/
-légalisations	/ileɡalizasjɔ̃/
-légalise	/ileɡaliz/
-légalisé	/ileɡalize/
-légalisée	/ileɡalize/
-légalisées	/ileɡalize/
-légalisent	/ileɡaliz/
-légaliser	/ileɡalize/
-légalisera	/ileɡalizəʁa/
-légaliserai	/ileɡalizəʁɛ/
-légaliseraient	/ileɡalizəʁɛ/
-légaliserais	/ileɡalizəʁɛ/
-légaliserait	/ileɡalizəʁɛ/
-légaliseras	/ileɡalizəʁa/
-légalisèrent	/ileɡalizɛʁ/
-légaliserez	/ileɡalizəʁe/
-légaliseriez	/ileɡalizəʁje/
-légaliserions	/ileɡalizəʁjɔ̃/
-légaliserons	/ileɡalizəʁɔ̃/
-légaliseront	/ileɡalizəʁɔ̃/
-légalises	/ileɡaliz/
-légalisés	/ileɡalize/
-légalisez	/ileɡalize/
-légalisiez	/ileɡalizje/
-légalisions	/ileɡalizjɔ̃/
-légalisme	/ileɡalism/
-légalismes	/ileɡalism/
-légalisons	/ileɡalizɔ̃/
-légaliste	/ileɡalist/
-légalistes	/ileɡalist/
-légalité	/ileɡalite/
-légalités	/ileɡalite/
+légal	/leɡal/
+légale	/leɡal/
+légalement	/leɡalmɑ̃/
+légales	/leɡal/
+légalisa	/leɡaliza/
+légalisai	/leɡalizɛ/
+légalisaient	/leɡalizɛ/
+légalisais	/leɡalizɛ/
+légalisait	/leɡalizɛ/
+légalisâmes	/leɡalizam/
+légalisant	/leɡalizɑ̃/
+légalisas	/leɡaliza/
+légalisasse	/leɡalizas/
+légalisassent	/leɡalizas/
+légalisasses	/leɡalizas/
+légalisassiez	/leɡalizasje/
+légalisassions	/leɡalizasjɔ̃/
+légalisât	/leɡaliza/
+légalisâtes	/leɡalizat/
+légalisation	/leɡalizasjɔ̃/
+légalisations	/leɡalizasjɔ̃/
+légalise	/leɡaliz/
+légalisé	/leɡalize/
+légalisée	/leɡalize/
+légalisées	/leɡalize/
+légalisent	/leɡaliz/
+légaliser	/leɡalize/
+légalisera	/leɡalizəʁa/
+légaliserai	/leɡalizəʁɛ/
+légaliseraient	/leɡalizəʁɛ/
+légaliserais	/leɡalizəʁɛ/
+légaliserait	/leɡalizəʁɛ/
+légaliseras	/leɡalizəʁa/
+légalisèrent	/leɡalizɛʁ/
+légaliserez	/leɡalizəʁe/
+légaliseriez	/leɡalizəʁje/
+légaliserions	/leɡalizəʁjɔ̃/
+légaliserons	/leɡalizəʁɔ̃/
+légaliseront	/leɡalizəʁɔ̃/
+légalises	/leɡaliz/
+légalisés	/leɡalize/
+légalisez	/leɡalize/
+légalisiez	/leɡalizje/
+légalisions	/leɡalizjɔ̃/
+légalisme	/leɡalism/
+légalismes	/leɡalism/
+légalisons	/leɡalizɔ̃/
+légaliste	/leɡalist/
+légalistes	/leɡalist/
+légalité	/leɡalite/
+légalités	/leɡalite/
 légat	/lega/
 légataire	/legatɛʁ/
 légataires	/legatɛʁ/
@@ -144686,7 +144697,8 @@ linottes	/linɔt/
 linteau	/lɛ̃to/
 linteaux	/lɛ̃to/
 lion	/ljɔ̃/
-Lion	/ljɔ̃/
+Lion	/ljɔ̃n/	MIDDLE
+Lion	/ljɔ̃n/	END
 lionceau	/ljɔ̃so/
 lionceaux	/ljɔ̃so/
 lionne	/ljɔn/
@@ -154447,8 +154459,6 @@ mixtionnes	/miksjɔn/
 mixtions	/miksjɔ̃/
 mixture	/mikstyʁ/
 mixtures	/mikstyʁ/
-Mme	/madam/
-Mmes	/mɛdam/, /medam/
 mnémonique	/mnemɔnik/
 mnémoniques	/mnemɔnik/
 mnémotechnie	/mnemɔtɛkni/
@@ -158671,6 +158681,7 @@ nazisme	/nazism/
 nazismes	/nazism/
 né	/ne/
 ne	/nə/
+ne	/n/	END
 néandertalien	/neɑ̃dɛʁtaljɛ̃/
 néandertalienne	/neɑ̃dɛʁtaljɛn/
 néanmoins	/neɑ̃mwɛ̃/
@@ -159508,6 +159519,7 @@ nidifiions	/nidifijɔ̃/
 nidifions	/nidifjɔ̃/
 nids	/ni/
 nie	/ni/
+nie	/nje/	MIDDLE
 nié	/nje/
 nièce	/njɛs/
 nièces	/njɛs/
@@ -164262,6 +164274,8 @@ Oui-Oui	/wiwi/
 ouïe	/uj/, /wi/
 ouïes	/uj/, /wi/
 ouille	/uj/
+ouille	/uje/	START
+ouille	/uje/	MIDDLE
 ouilles	/uj/
 ouïr	/wiʁ/
 ouistiti	/wistiti/
@@ -165796,6 +165810,7 @@ pampre	/pɑ̃pʁ/
 pampres	/pɑ̃pʁ/
 pan	/pɑ̃/
 Pan	/pɑ̃/
+Pan	/pan/	START
 pan-bagnat	/pɑ̃baɲa/
 pana	/pana/
 panacée	/panase/
@@ -172881,6 +172896,7 @@ phytoplancton	/fitɔplɑ̃ktɔ̃/
 phytothérapeute	/fitɔteʁapøt/
 phytothérapie	/fitɔteʁapi/
 pi	/pi/
+pi	/pj/	START
 piaf	/pjaf/
 piaffa	/pjafa/
 piaffai	/pjafɛ/
@@ -176153,6 +176169,7 @@ plongez	/plɔ̃ʒe/
 plongiez	/plɔ̃ʒje/
 plongions	/plɔ̃ʒjɔ̃/
 plot	/plo/
+plot	/plot/	START
 plots	/plo/
 plouc	/pluk/
 ploucs	/pluk/
@@ -179387,6 +179404,7 @@ poussoir	/puswaʁ/
 poussoirs	/puswaʁ/
 poussons	/pusɔ̃/
 poutre	/putʁ/
+poutre	/putʁə/	START
 poutrelle	/putʁɛl/
 poutrelles	/putʁɛl/
 poutres	/putʁ/
@@ -179453,6 +179471,7 @@ praires	/pʁɛʁ/
 prairie	/pʁeʁi/
 prairies	/pʁeʁi/
 pralin	/pʁalɛ̃/
+praline	/pʁalin/	START
 praline	/pʁalin/
 praliné	/pʁaline/
 pralinée	/pʁaline/
@@ -185720,6 +185739,7 @@ quatrièmes	/katʁijɛm/
 quatuor	/kwatɥɔʁ/
 quatuors	/kwatɥɔʁ/
 que	/kə/
+que	/k/	END
 que ne	/kənə/
 que ou non	/kəunɔ̃/
 Québec	/kebɛk/
@@ -217791,6 +217811,8 @@ smoking	/smɔkiŋ/
 smokings	/smɔkiŋ/
 smurf	/smœʁf/
 smurfer	/smœʁfe/
+smurfer	/smœʁfeʁ/	START
+smurfer	/smœʁfeʁ/	MIDDLE
 smurfs	/smœʁf/
 Smyrne	/smiʁn/
 snack	/snak/
@@ -230681,6 +230703,7 @@ tenus	/təny/
 tequila	/tekila/
 tequilas	/tekila/
 ter	/tɛʁ/
+ter	/te/	END
 tératogène	/teʁatɔʒɛn/
 tératogènes	/teʁatɔʒɛn/
 tératologique	/teʁatɔlɔʒik/
@@ -245139,7 +245162,7 @@ wisigothe	/vizigɔt/
 wisigothes	/vizigɔt/
 wok	/wɔk/
 Wyoming	/wajɔmiŋ/
-x	/gz/
+x	/ks/
 xénon	/gzenɔ̃/
 xénons	/gzenɔ̃/
 xénophobe	/gzenɔfɔb/
@@ -245258,6 +245281,7 @@ yucca	/juka/
 yuccas	/juka/
 yuppie	/jupi/
 z	/z/
+z	//	END
 Zacharie	/zakaʁi/
 Zagreb	/zagʁɛb/
 Zaïre	/zaiʁ/
@@ -245811,7 +245835,7 @@ assent	/as/
 asses	/as/
 rant	/ʁɑ/
 rante	/ʁɑt/
-ll	/j/
+ll	/l/
 aa	/aa/
 ab	/ab/
 abb	/ab/
@@ -245841,7 +245865,7 @@ acée	/ase/
 ad	/ad/
 adas	/ada/
 ade	/ad/
-adi	/ad/
+adi	/adi/
 adien	/adjɛ/
 ads	/ads/
 adé	/ade/
@@ -245859,13 +245883,13 @@ ala	/ala/
 alc	/alk/
 ald	/ald/
 alen	/al/
-alex	/al/
+alex	/alɛks/
 alg	/alʒ/
 all	/al/
 alé	/ale/
 alés	/ale/
 am	/am/
-ama	/am/
+ama	/ama/
 amb	/ɑb/
 ame	/am/
 amin	/amin/
@@ -245894,9 +245918,9 @@ ansla	/sla/
 anslater	/slat/
 ant	/ɑ/
 ante	/ɑt/
-anth	/ɑtʁɔ/
+anth	/ɑt/
 anthr	/ɑtʁɔ/
-anthro	/ɑtʁɔp/
+anthro	/ɑtʁɔ/
 anthrop	/ɑtʁɔp/
 anti	/ɑti/
 antipou	/ɑtipu/
@@ -245928,7 +245952,7 @@ asse	/as/
 assent	/alizas/
 assert	/asɛʁt/
 asses	/ɔkas/
-assi	/as/
+assi	/asi/
 assie	/asje/
 assiez	/asje/
 assion	/asjɔ/
@@ -245937,7 +245961,8 @@ ast	/ast/
 astr	/astʁ/
 astro	/astʁɔ/
 asy	/as/
-at	/a/
+at	/at/
+at	/a/	END
 ata	/ata/
 atal	/atal/
 ate	/at/
@@ -246005,7 +246030,7 @@ bonni	/bɔn/
 bonnis	/bɔni/
 bor	/bɔ/
 bos	/bɔs/
-botanis	/bɔtani/
+botanis	/bɔtaniz/
 botanise	/bɔtaniz/
 bou	/bu/
 boui	/ʁəb/
@@ -246024,8 +246049,7 @@ bule	/byl/
 by	/bi/
 bé	/be/
 ca	/ka/
-cago	/ka/
-can	/ak/
+can	/can/
 cande	/akɑde/
 candela	/dela/
 cant	/ikɑt/
@@ -246035,7 +246059,7 @@ cateu	/fikat/
 cateur	/ikatœʁ/
 catri	/katʁi/
 cau	/ko/
-cc	/ak/
+cc	/k/
 cci	/ksi/
 cen	/sɑ/
 cend	/sɑd/
@@ -246067,9 +246091,9 @@ chromat	/kʁɔmat/
 chromato	/kʁɔmatɔ/
 chromie	/iskʁɔmi/
 chry	/kʁiz/
-cht	/ikt/
-chty	/ikt/
-chtyo	/ikt/
+cht	/ʃt/
+chty	/ʃti/
+chtyo	/ʃtiɔ/
 chy	/ʃi/
 ché	/ke/
 cide	/œsid/
@@ -246105,7 +246129,7 @@ coub	/kub/
 couble	/kublə/
 cr	/kʁ/
 crat	/ɔkʁa/
-crati	/kʁasi/
+crati	/kʁati/
 cro	/akʁ/
 cry	/kʁi/
 cryp	/kʁip/
@@ -246143,7 +246167,8 @@ dela	/dela/
 den	/dɑd/
 dend	/dɑd/
 dex	/dɛk/
-di	/d/
+di	/di/
+di	/dj/	MIDDLE
 dia	/dja/
 diale	/djal/
 dias	/dja/
@@ -246324,7 +246349,7 @@ fun	/fɔ/
 fé	/fe/
 fér	/feʁ/
 fétic	/fetiʃ/
-ga	/a/
+ga	/ga/
 gab	/gab/
 gan	/gan/
 gar	/gaʁ/
@@ -246376,15 +246401,15 @@ guil	/ɡi/
 gy	/ʒi/
 gyr	/ʒiʁ/
 gé	/ʒe/
-génique	/ʁɔʒenik/
+génique	/ʒenik/
 géo	/ʒeɔ/
-gétique	/eʒetik/
+gétique	/ʒetik/
 hac	/ak/
 hag	/ɔfa/
 hage	/ɔfaʒ/
 hal	/fal/
 ham	/am/
-hane	/etan/
+hane	/an/
 hano	/anɔ/
 hanov	/anɔv/
 har	/aʁ/
@@ -246418,9 +246443,9 @@ hor	/ɔfɔ/
 hore	/ɔfɔʁ/
 horizontali	/ɔʁizɔtali/
 hos	/fɔs/
-hr	/tʁ/
-hro	/tʁɔ/
-hrop	/tʁɔp/
+hr	/ʁ/
+hro	/ʁɔ/
+hrop	/ʁɔp/
 hu	/y/
 hut	/y/
 hutt	/yt/
@@ -246452,7 +246477,7 @@ ibi	/ibi/
 ible	/ibl/
 ic	/ik/
 ica	/ika/
-ication	/ifikasjɔ/
+ication	/ikasjɔ/
 ich	/ik/
 icht	/ikt/
 ichty	/ikt/
@@ -246468,7 +246493,7 @@ ie	/i/
 ielle	/sjɛl/
 ien	/jɛ/
 ienne	/jɛn/
-ier	/jeʁ/
+ier	/je/
 ies	/i/
 iez	/je/
 ifi	/ifi/
@@ -246604,7 +246629,7 @@ kk	/k/
 ko	/ko/
 koi	/kwa/
 kou	/ku/
-ku	/ku/
+ku	/ky/
 ké	/ke/
 lab	/lab/
 labla	/labl/
@@ -246616,6 +246641,8 @@ lagre	/efla/
 laire	/lɛʁ/
 lam	/lam/
 lan	/lɑ/
+lan	/lan/	MIDDLE
+lan	/lan/	START
 lant	/lɑt/
 laste	/last/
 lat	/las/
@@ -246664,7 +246691,8 @@ ll	/l/
 lla	/la/
 elle	/ɛl/
 ille	/ij/
-lles	/ɔnɛl/
+lles	/ɛl/
+lle	/ɛl/
 llin	/lin/
 llini	/lini/
 llois	/lwa/
@@ -246672,6 +246700,7 @@ llon	/lajɔ/
 llé	/le/
 lm	/lm/
 lmo	/lmɔ/
+lo	/lɔ/
 lo	/lɔ/
 loc	/lɔk/
 log	/lɔ/
@@ -246812,7 +246841,7 @@ nium	/njɔm/
 nière	/njɛʁ/
 nne	/ɛn/
 nnes	/njɛn/
-no	/nɔ/
+no	/no/
 noc	/nɔk/
 noi	/nw/
 nois	/nwa/
@@ -246871,7 +246900,7 @@ oi	/ʒ/
 oin	/w/
 oir	/aʁ/
 ois	/nwa/
-oise	/az/
+oise	/waz/
 ok	/ɔk/
 oko	/ʁuk/
 ol	/ɔl/
@@ -246957,15 +246986,15 @@ orb	/eɔʁ/
 orbe	/sɔʁb/
 ore	/ɔʁ/
 org	/ɔʁɡ/
-ori	/ktɔ/
+ori	/ɔʁi/
 orique	/ɔʁik/
-oris	/tɔʁi/
+oris	/ɔʁi/
 oro	/ɔʁɔ/
-orp	/ɔmɔ/
-orph	/ɔmɔʁ/
-orphe	/ɔmɔʁf/
-orphi	/mɔʁfi/
-orpho	/mɔʁfɔ/
+orp	/ɔʁp/
+orph	/ɔʁf/
+orphe	/ɔʁf/
+orphi	/ɔʁf/
+orpho	/ɔʁfɔ/
 ort	/ɔʁt/
 ortho	/ɔʁtɔ/
 oru	/ɔʁ/
@@ -246975,7 +247004,8 @@ oso	/ozo/
 ossi	/ɔsi/
 ost	/ɔst/
 osté	/ɔste/
-ot	/o/
+ot	/ɔt/
+ot	/o/	END
 ote	/ɔt/
 oter	/ɔt/
 oth	/ɔt/
@@ -247015,7 +247045,7 @@ pam	/pam/
 pathi	/pati/
 pathie	/pati/
 pe	/p/
-peintu	/pɛt/
+peintu	/pɛty/
 pen	/pe/
 penta	/pɛta/
 per	/pɛʁ/
@@ -247053,14 +247083,12 @@ pom	/pɔm/
 pon	/pɔn/
 ponti	/pɔt/
 poqu	/pɔk/
-poque	/pɔk/
 por	/pɔʁ/
 pos	/pɔs/
 post	/pɔst/
 pout	/put/
 poutin	/putin/
-poutini	/puti/
-poutinien	/putin/
+poutini	/putini/
 pp	/p/
 ppe	/sip/
 pr	/pʁ/
@@ -247135,8 +247163,8 @@ rer	/eʁe/
 res	/ʁɛs/
 ret	/bʁ/
 reu	/ʁœ/
-reus	/itʁø/
-reuse	/itʁøz/
+reus	/ʁø/
+reuse	/ʁøz/
 rez	/əʁe/
 rg	/aʁ/
 rgi	/ʁʒ/
@@ -247163,8 +247191,8 @@ riu	/aʁ/
 rium	/ɔm/
 rk	/ʁk/
 rm	/ʁm/
-rmé	/miʁ/
-ro	/kʁ/
+rmé	/ʁme/
+ro	/ʁɔ/
 rob	/ʁɔb/
 rog	/ʁɔɡ/
 roise	/eʁwaz/
@@ -247260,13 +247288,15 @@ siez	/sje/
 sime	/sim/
 simon	/simɔ/
 sin	/sɛ/
+sin	/sin/	START
+sin	/sin/	MIDDLE
 sions	/sjɔ/
 sière	/sjɛʁ/
 sk	/sk/
 sme	/sm/
 so	/sɔ/
 soci	/sɔs/
-socio	/sɔs/
+socio	/sɔsjɔ/
 sog	/zɔɡ/
 soli	/sɔli/
 som	/sɔm/
@@ -247440,24 +247470,25 @@ ug	/uʒ/
 uge	/uʒ/
 ui	/i/
 uk	/uk/
-ul	/l/
-ule	/id/
-uler	/le/
+ul	/yl/
+ule	/ul/
+uler	/ule/
 um	/ɔm/
 ur	/œʁ/
 uras	/tyʁ/
 ure	/yʁ/
 uren	/oʁ/
-urg	/it/
+urg	/yʁʒ/
 uri	/uʁi/
-urs	/tœʁ/
-urâ	/tyʁ/
-uré	/ʁe/
+urs	/œʁ/
+urâ	/yʁ/
+uré	/yʁe/
 utt	/yt/
 uv	/ov/
 ux	/ø/
 vau	/vo/
-ve	/v/
+ve	/v/	END
+ve	/vɛ/	MIDDLE
 vec	/vɛk/
 vect	/vɛkt/
 vecto	/vɛktɔ/
@@ -247656,7 +247687,7 @@ zé	/ze/
 ïs	/is/
 retz	/ʁɛ/
 abbe	/ab/
-villois	/vilwaz/
+villois	/vilwa/
 lone	/lɔn/
 mey	/mɛ/
 ou	/u/
@@ -247785,8 +247816,8 @@ ité	/ite/	END
 rai	/modiʁe/	END
 rent	/modiʁ/	END
 rez	/ʁe/	END
-saient	/sɛ/	END
-sait	/sɛ/	END
+saient	/zɛ/	END
+sait	/zɛ/	END
 ssait	/sɛ/	END
 sant	/sɑ/	END
 ssez	/se/	END
@@ -247818,7 +247849,7 @@ fère	/fɛʁ/	END
 ère	/ɛʁ/	END
 lien	/jɛ/	END
 got	/ɡo/	END
-on	/mənɔ/	END
+on	/ɔ/	END
 se	/s/	END
 ses	/s/	END
 versaire	/vɛʁsɛʁ/	END
@@ -247839,5 +247870,69 @@ at	/at/	START
 at	/at/	MIDDLE
 bin	/bɛ/	END
 in	/ɛ/	END
+in	/ɛ/	START
+in	/ɛ/	MIDDLE
 ronne	/ʁɔn/	END
 onne	/ɔn/	END
+sein	/sɛ/	START
+zape	/zapə/	START
+sasse	/sas/	START
+ouel	/wɛl/
+doine	/dwan/
+oine	/wan/
+ouaise	/wɛz/
+kel	/kel/
+tesla	/tesla/
+ha	/a/	END
+haient	/ɛ/	END
+hais	/ɛ/	END
+hait	/ɛ/	END
+hant	/ɑ/	END
+has	/a/	END
+hasse	/as/	END
+hassent	/as/	END
+hasses	/as/	END
+hassiez	/asje/	END
+hassions	/asjɔ/	END
+hai	/e/	END
+hiez	/je/	END
+hisa	/iza/	END
+hisai	/ize/	END
+hisaient	/izɛ/	END
+hisais	/izɛ/	END
+hisait	/izɛ/	END
+hisant	/izɑ/	END
+hisas	/iza/	END
+hisasse	/izas/	END
+hisassent	/izas/	END
+hisasses	/izas/	END
+hisassiez	/izasje/	END
+hisassions	/izasjɔ/	END
+hise	/iz/	END
+hisent	/iz/	END
+hiser	/ize/	END
+hisera	/izʁa/	END
+hiserai	/izʁe/	END
+hiseraient	/izʁɛ/	END
+hiserais	/izʁɛ/	END
+hiserait	/izʁɛ/	END
+hiseras	/izʁa/	END
+hiserez	/izʁe/	END
+hiseriez	/izəʁje/	END
+hiserions	/izəʁjɔ/	END
+hiserons	/izʁɔ/	END
+hiseront	/izʁɔ/	END
+hises	/iz/	END
+hisez	/ize/	END
+hisiez	/izje/	END
+hisions	/izjɔ/	END
+hisons	/izɔ/	END
+hisâmes	/izam/	END
+hisèrent	/izɛʁ/	END
+hisé	/ize/	END
+hions	/jɔ/	END
+hons	/ɔ/	END
+hâtes	/at/	END
+hèrent	/ɛʁ/	END
+hé	/e/	END
+ide	/id/	END
