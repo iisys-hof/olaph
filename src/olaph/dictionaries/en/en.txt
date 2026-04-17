@@ -76306,7 +76306,7 @@ lindstrand	/ˈɫɪndstɹənd/
 lindstrom	/ˈɫɪndstɹəm/
 lindvall	/ˈɫɪndvəɫ/
 lindy	/lˈɪndi/
-line	/liːn/  END
+line	/liːn/	END
 lines	/ˈɫaɪnz/
 line-up	/ˈɫaɪˌnəp/
 lineage	/ˈɫɪniədʒ/
