@@ -211207,10 +211207,10 @@ rythmiques	/ʁitmik/
 rythmons	/ʁitmɔ̃/
 s'	/s/
 s	/s/
-s	//    END
+s	//	END
 s'en prendre à	/sɑ̃pʁɑ̃dʁa/
 sa	/sa/
-sa	/za/    END
+sa	/za/	END
 sabayon	/sabajɔ̃/
 sabayons	/sabajɔ̃/
 sabbat	/saba/
@@ -247349,7 +247349,7 @@ sère	/sɛ/
 sèren	/aliz/
 sèrent	/sɛʁ/
 sé	/se/
-sé	/ze/    END
+sé	/ze/	END
 sée	/ize/
 ség	/seʒ/
 tabu	/tab/
