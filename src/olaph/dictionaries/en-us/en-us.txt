@@ -14802,7 +14802,6 @@ amin	/ɑˈmin/
 amin	/ɑmˈin/
 aminating	/ˈæmᵻnˌeɪɾɪŋ/
 amination	/ˌæmᵻnˈeɪʃən/
-amine	/ˈæma‍ɪn/
 amine	/əmˈin/
 amine	/əˈmiːn/	NOUN
 amine	/ˌeɪmˈin/
@@ -21654,9 +21653,7 @@ arcement	/ɑɹˈseɪmənt/
 arcement	/ɑɹsˈeɪmənt/
 arceneaux	/ˈɑɹsɪnoʊ/
 arceo	/ˈɑɹsioʊ/
-arch	/ˈɑːt‍ʃ/
-arch	/ˈɑɹtʃ/
-arch	/ɑːtʃ/
+arch	/ˈɑːtʃ/	NOUN
 arch	/ɑɹk/
 archaea	/ɑɹkˈiə/
 archaea	/ɑrˈkiə/
@@ -69976,10 +69973,7 @@ catino	/kɑˈtinoʊ/
 catino	/kɑtˈinoʊ/
 catio	/ˈkæt.i.oʊ/
 catio	/ˈkæɾ.i.oʊ/
-cation	/kˈæta‍ɪən/
-cation	/kˈædˌaɪən/
-cation	/kˈætˌaɪən/
-cation	/ˈkætaɪən/	NOUN
+cation	/keɪʃən/
 cationic	/kˌæta‍ɪˈɒnɪk/
 cationic	/kˌædaɪˈɑnɪk/
 cations	/kˈæta‍ɪənz/
@@ -143244,6 +143238,7 @@ esber	/ˈɛsbɚ/
 esbjerg	/ˈɛsbjɝ/
 esbjerg	/ˈɛsbjɝɡ/
 esc	/ˈɛsk/
+escence	/ɛsəns/
 esc key	/ɪsk ki/
 esca	/ˈɛskə/
 escabeche	/ˌɛskəbˈɛtʃeɪ/
@@ -217385,14 +217380,7 @@ intently	/ɪntˈɛntli/
 intently	/ɪnˈtentlɪ/	ADV
 intentness	/ɪntˈɛntnəs/
 intents	/ɪntˈɛnts/
-inter	/ˌɪnˈtɝ/
-inter	/ɪntˈɜɹ/
 inter	/ɪntˈɚ/
-inter	/ɪnˈtɜːɹ/	VERB
-inter	/ɪnˈtɚ/
-inter-	/ɪntɚ/
-inter-	/ɪ̃ɾ̃ɚ/
-inter-	/ɪ̃n(ɾ̃)ɚ/
 interabsorption	/ˌɪntəɹəbsˈɔɹpʃən/
 interacademic	/ˌɪntəɹˌækədˈɛmɪk/
 interacademically	/ˌɪntəɹˌækədˈɛmɪkli/
@@ -220503,7 +220491,7 @@ iole	/iˈoʊli/
 iomega	/ˌaɪoʊˈmeɪɡə/
 iomega	/ˌaɪoʊmˈeɪgə/
 ion	/ən/
-ion	/ˈaɪɒn/	NOUN    
+ion	/ˈaɪɒn/	NOUN
 iona	/aɪˈoʊnə/
 ionarde	/iəˈnɑɹdeɪ/
 ionarde	/iənˈɑɹdeɪ/
@@ -246183,7 +246171,6 @@ lesperance	/ɫɛspɝˈɑns/
 lesperance	/lɛspɚˈɑns/
 lespinasse	/ˈɫɛspɪnæs/
 lespinasse	/lˈɛspɪnæs/
-less	/lˈɛs/
 less	/les/
 less is more	/lɛs ɪz ˈmɔɹ/
 less-than-stellar	/ˈlɛs ðən ˈstɛl.ɚ/
@@ -248878,8 +248865,7 @@ lindvall	/lˈɪndvəl/
 lindy	/lˈɪndi/
 lindying	/lˈɪndiɪŋ/
 line	/lˈa‍ɪn/
-line	/lˈaɪn/
-line	/laɪn/
+line	/liːn/	END
 line up	/laɪnˈʌp/	VERB
 line up	/lɑenˈɐp/	VERB
 line up	/laɪnˈɐp/	VERB
@@ -251738,10 +251724,6 @@ loguidice	/loʊgˈaɪdɪs/
 logwood	/ˈɫɑˌɡwʊd/
 logwood	/lˈɔgwˌʊd/
 logwood	/lˈɑgwˌʊd/
-logy	/lˈə‍ʊɡi/
-logy	/lˈoʊgi/
-logy	/ˈləʊgɪ/	ADJ
-logy	/ˈloʊɡi/	ADJECTIVE
 logy	/lədʒɪ/	NOUN
 loh	/ˈɫoʊ/
 loh	/lˈoʊ/
@@ -290894,7 +290876,6 @@ nesler's	/nˈɛsəlɚz/
 neslers	/ˈnɛsəɫɝz/, /ˈnɛsɫɝz/
 nesmith	/ˈnɛzmɪθ/
 nesmith	/nˈɛzmɪθ/
-ness	/nˈɛs/
 ness	/nes/	NOUN
 nessa	/ˈnɛsə/
 nessa	/nˈɛsə/
@@ -327225,8 +327206,7 @@ phelps	/ˈfɛɫps/
 phelps	/fˈɛlps/
 phelps's	/fˈɛlpsɪz/
 phelpss	/ˈfɛɫpsɪz/
-phen	/ˈfɛn/
-phen	/fˈɛn/
+phen	/fən/
 phenacetin	/finˈæsəɾən/
 phenanthrene	/fənˈænθɹˌin/
 phencyclidine	/fɛnsˈaɪklədˌin/
@@ -334948,9 +334928,7 @@ poliorcetics	/-ɾɪks/
 poliovirus	/pˈoʊlioʊvˌaɪɹəs/
 poliquin	/poʊɫiˈkwin/
 poliquin	/poʊlikwˈin/
-polis	/pˈə‍ʊliz/
-polis	/pˈoʊləs/
-polis	/pˈoʊlaɪz/
+polis	/pəlɪs/
 polis	/ˈpəʊlɪs/	NOUN
 polisario	/ˌpoʊɫɪˈsɛɹioʊ/
 polisario	/pˌɔləsˈɑɹioʊ/
@@ -335358,10 +335336,7 @@ poltroon	/polˈtɹun/
 poltroonery	/pɑltɹˈunəɹi/
 polus	/ˈpoʊɫəs/
 polus	/pˈoʊləs/
-poly	/pˈɒli/
-poly	/pˈɑli/
-poly	/ˈpɒlɪ/
-poly	/ˈpoʊli/
+poly	/pəlɪ/
 poly's	/pˈɑliz/
 poly-	/ˈpɑ.li-/
 poly-	/pəˈlɪ-/
@@ -370977,7 +370952,7 @@ rhythms	/ɹˈɪðəmz/
 rhytina	/ɹaɪtˈinə/
 rhyton	/ɹˈaɪtˌɑn/
 rhyton	/ˈɹaɪtɒn/	NOUN
-ria	/ɹˈa‍ɪɐ/
+ria	/ɹˈa‍ɪɐ/	NOUN
 ria	/ɹˈiə/
 riad	/ɹiˈɑd/
 riady	/ɹiˈɑdi/
@@ -426953,11 +426928,7 @@ supan	/ˈsupən/
 supan	/sˈupən/
 supari	/sʊpˈɑɹi/
 supe	/sup/
-super	/sˈuːpɐ/
 super	/sˈupəɹ/
-super	/sˈupɚ/
-super	/ˈsu.pɚ/
-super	/ˈsʉu̯.pɚ/
 super bowl	/ˈsupəɹ boʊl/
 super-	/ˌsupəɹ/
 super-duper	/sˌupəɹdˈupəɹ/
@@ -438689,7 +438660,6 @@ tetons	/ˈtitɑnz/, /ˈtitənz/
 tetons	/tˈitɑnz/
 tetons	/tˈitənz/
 tetovo	/ˈtɛtə.voʊ/
-tetra	/tˈɛtɹɐ/
 tetra	/tˈɛtɹə/
 tetrabarium	/ˌtɛtɹəˈbɛɹi.əm/
 tetrabasic	/tˌɛtɹəbˈeɪsɪk/
@@ -445031,6 +445001,7 @@ tomtato	/təmˈteɪ.toʊ/
 tomtit	/tˈɑmtˌɪt/
 ton	/tˈʌn/
 ton	/tʌn/	NOUN
+ton	/tən/	END
 tonada	/tənˈɑdə/
 tonal	/tˈə‍ʊnə‍l/
 tonal	/tˈoʊnəl/
@@ -499557,15 +499528,16 @@ iform	/ɪfɔːm/
 ify	/tɪf/
 ig	/ɪɡ/
 ii	/i/
-inate	/uməne/
-ious	/iəs/
+inate	/ɪneɪt/
+ious	/əs/
+tious	/ʃəs/
 ir	/ɪɹ/
 iraceta	/mɪɹæsɪt/
 iracetam	/ɪɹæsɪtæm/
 isation	/aɪzeɪʃən/
 ite	/aɪt/
-itic	/nɪtɪ/
-itis	/ɪtɪs/
+itic	/ɪtɪk/
+itis	/aɪtɪs/
 ity	/ɪti/
 ium	/iəm/
 ius	/iəs/
@@ -499579,7 +499551,7 @@ ize	/aɪz/
 kro	/kɹɒ/
 ky	/ki/
 lic	/lɪk/
-mithr	/mɪθɹɪ/
+mithri	/mɪθɹɪ/
 mus	/məs/
 nc	/ns/
 nce	/ns/
@@ -499590,7 +499562,7 @@ ntan	/ntæn/
 ny	/ni/
 oc	/ʊk/
 oid	/ɔɪd/
-olatry	/piɒlət/
+olatry	/ɒlətɹi/
 omab	/əmæb/
 ome	/nɒm/
 omy	/təm/
@@ -499600,14 +499572,14 @@ ophy	/æksə/
 ophyte	/əʊfaɪt/
 osis	/ɹəʊs/
 osteo	/ɒstiə/
-ous	/ʃəs/
+ous	/əs/
 panen	/pænɛn/
 pau	/pɔː/
 ph	/fl/
 phae	/fɪdɹ/
 phos	/əfɒs/
 phr	/juː/
-phyte	/əfaɪt/
+phyte	/faɪt/
 ple	/pəl/
 polises	/pɒlɪs/
 psy	/saɪ/
@@ -499617,7 +499589,7 @@ rhy	/ɹɪt/
 ri	/ɹi/
 rian	/ɹiən/
 rif	/ɹɪf/
-rous	/əɹəs/
+rous	/ɹʌs/
 ry	/ɡɹ/
 sch	/ɛtʃ/
 ses	/sɛs/
@@ -499627,7 +499599,7 @@ stic	/stɪk/
 suf	/səf/
 tas	/tæs/
 tastic	/tæstɪk/
-tion	/ɪʃən/
+tion	/ʃən/
 tive	/tɪv/
 tte	/nɛt/
 tus	/təs/
@@ -499652,7 +499624,11 @@ zati	/zeɪʃ/
 zation	/zeɪʃən/
 zh	/əɹ/
 zhi	/dʒi/
-zhong	/ʒɪndʒ/
+zhong	/ʒɒŋ/
 zole	/zoʊl/
 zy	/za/
 zz	/z/
+astic	/æstɪk/
+ectomy	/ɛktəmi/
+phile	/faɪl/
+ation	/eɪʃən/

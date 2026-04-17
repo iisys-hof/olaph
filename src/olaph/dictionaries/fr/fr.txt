@@ -151572,7 +151572,7 @@ mêliez	/melje/
 mêlions	/meljɔ̃/
 mélisse	/melis/
 mélisses	/melis/
-mélo	/melo/
+mélo	/melɔ/
 mélodie	/melɔdi/
 mélodies	/melɔdi/
 mélodieuse	/melɔdjøz/
@@ -211173,6 +211173,7 @@ s'	/s/
 s	/s/
 s'en prendre à	/sɑ̃pʁɑ̃dʁa/
 sa	/sa/
+sa	/za/    END
 sabayon	/sabajɔ̃/
 sabayons	/sabajɔ̃/
 sabbat	/saba/
@@ -245877,7 +245878,7 @@ anam	/anam/
 ance	/eɑs/
 and	/eɑd/
 ande	/de/
-andela	/dela/
+andela	/adela/
 andi	/ɑd/
 ando	/dɔ/
 andr	/me/
@@ -246500,8 +246501,7 @@ inis	/inis/
 ino	/inɔ/
 ins	/ɛs/
 int	/ɛt/
-io	/d/
-ioc	/ɔk/
+io	/jo/
 ip	/ip/
 ipo	/ipɔ/
 ipou	/ipu/
@@ -246509,7 +246509,7 @@ ipout	/iput/
 ipoutin	/iputin/
 ipoutini	/iputi/
 ique	/ik/
-iques	/idik/
+iques	/ik/
 ir	/iʁ/
 iro	/iʁɔ/
 irré	/iʁe/
@@ -246726,9 +246726,8 @@ mato	/matɔ/
 matu	/mat/
 mau	/mo/
 maï	/ma/
-mb	/b/
+mb	/mb/
 mbe	/ɑb/
-mbi	/bi/
 mel	/mɛl/
 men	/mɛn/
 ments	/mɑ/
@@ -246737,7 +246736,7 @@ mino	/minɔ/
 mique	/mik/
 miu	/mjɔ/
 mm	/m/
-mment	/amɑ/
+mment	/mɑ/
 mo	/mɔ/
 mol	/mɔl/
 molo	/mɔlɔ/
@@ -247297,6 +247296,7 @@ sère	/sɛ/
 sèren	/aliz/
 sèrent	/sɛʁ/
 sé	/se/
+sé	/ze/    END
 sée	/ize/
 ség	/seʒ/
 tabu	/tab/
@@ -247752,3 +247752,92 @@ ons	/ɔ/	END
 âmes	/am/	END
 èrent	/ɛʁ/	END
 é	/e/	END
+sa	/za/	END
+sais	/zɛ/	END
+sas	/za/	END
+sasses	/zas/	END
+se	/z/	END
+sera	/zʁa/	END
+serai	/zʁe/	END
+seraient	/zʁɛ/	END
+serais	/zʁɛ/	END
+serait	/zʁɛ/	END
+seras	/zʁa/	END
+serez	/zʁe/	END
+seriez	/zəʁje/	END
+serions	/zəʁjɔ/	END
+serons	/zʁɔ/	END
+seront	/zʁɔ/	END
+siez	/zje/	END
+sions	/zjɔ/	END
+sons	/zɔ/	END
+sâmes	/zam/	END
+sèrent	/zɛʁ/	END
+sé	/ze/	END
+me	/m/	END
+che	/ʃ/	END
+er	/e/	END
+ment	/mɑ/	END
+ément	/emɑ/	END
+nal	/nal/	END
+lité	/lite/	END
+ité	/ite/	END
+rai	/modiʁe/	END
+rent	/modiʁ/	END
+rez	/ʁe/	END
+saient	/sɛ/	END
+sait	/sɛ/	END
+ssait	/sɛ/	END
+sant	/sɑ/	END
+ssez	/se/	END
+sez	/se/	END
+tion	/sjɔ/	END
+ion	/jɔ/	END
+eu	/moɡʁəblø/	END
+en	/moʁetanjɛ/	END
+enne	/mɔʁetanjɛn/	END
+r	//	END
+kien	/jɛ/	END
+cien	/sjɛ/	END
+ien	/jɛ/	END
+ral	/ʁal/	END
+al	/al/	END
+rat	/ʁa/	END
+at	/a/	END
+quer	/ke/	END
+er	/e/	END
+tre	/tʁ/	END
+re	/ʁ/	END
+ium	/jɔm/	END
+um	/ɔm/	END
+cholie	/kɔli/	END
+olie	/ɔli/	END
+lie	/li/	END
+ah	/a/	END
+fère	/fɛʁ/	END
+ère	/ɛʁ/	END
+lien	/jɛ/	END
+got	/ɡo/	END
+on	/mənɔ/	END
+se	/s/	END
+ses	/s/	END
+versaire	/vɛʁsɛʁ/	END
+saire	/sɛʁ/	END
+ruer	/ʁye/	END
+thylé	/tile/	END
+lé	/le/	END
+le	/l/	END
+ise	/iz/	END
+uise	/ɥiz/	END
+uiser	/ɥize/	END
+iser	/ize/	END
+sière	/zjɛʁ/	END
+ière	/jɛʁ/	END
+canti	/kɑti/	END
+athé	/ateʁ/
+at	/at/	START
+at	/at/	MIDDLE
+bin	/bɛ/	END
+in	/ɛ/	END
+ronne	/ʁɔn/	END
+onne	/ɔn/	END

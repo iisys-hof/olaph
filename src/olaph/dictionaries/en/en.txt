@@ -237,6 +237,7 @@ ablate	/ˌəˈbɫeɪt/
 ablation	/ɐblˈeɪtiən/
 ablaze	/ɐblˈeɪz/
 able	/ˈeɪbəl/
+able	/əbl/	END
 able-bodied	/ˈeɪbəɫˈbɑdid/
 abled	/ˈeɪbəɫd/
 abler	/ˈeɪblɐ/
@@ -3773,7 +3774,6 @@ amigo	/ɐmˈiːɡəʊ/
 amigos	/ɐmˈiːɡəʊz/
 amilia	/ɑˈmiɫiə/
 amin	/ɑˈmin/
-amine	/ˈæmaɪn/
 amino	/ɐmˈiːnəʊ/
 aminta	/əˈmɪntə/
 amiot	/ˈeɪmiət/
@@ -5521,7 +5521,8 @@ arced	/ˈɑːkt/
 arcement	/ɑɹˈseɪmənt/
 arceneaux	/ˈɑɹsɪnoʊ/
 arceo	/ˈɑɹsioʊ/
-arch	/ˈɑːtʃ/
+arch	/ˈɑːtʃ/	NOUN
+arch	/ɑɹk/
 archaeological	/ˌɑːkiːəlˈɒdʒɪkəl/
 archaeologically	/ˌɑːkiːəlˈɒdʒɪkli/
 archaeologist	/ˌɑːkiːˈɒlədʒˌɪst/
@@ -20832,7 +20833,7 @@ cathy	/ˈkæθi/
 cathy's	/ˈkæθiz/
 catija	/kəˈtidʒə/
 catino	/kɑˈtinoʊ/
-cation	/kˈætaɪən/
+cation	/keɪʃən/
 cationic	/kˌætaɪˈɒnɪk/
 cations	/kˈætaɪənz/
 catkin	/kˈætkɪn/
@@ -75402,7 +75403,6 @@ lesniewski	/ɫɛsˈnɛfski/, /ɫɛsˈnuski/
 lesotho	/ɫɛˈsoʊθoʊ/
 lesperance	/ɫɛspɝˈɑns/
 lespinasse	/ˈɫɛspɪnæs/
-less	/lˈɛs/
 lessard	/ˈɫɛsɝd/
 lessee	/lˈɛsiː/
 lessees	/ɫɛˈsiz/
@@ -76306,7 +76306,7 @@ lindstrand	/ˈɫɪndstɹənd/
 lindstrom	/ˈɫɪndstɹəm/
 lindvall	/ˈɫɪndvəɫ/
 lindy	/lˈɪndi/
-line	/lˈaɪn/
+line	/liːn/  END
 lines	/ˈɫaɪnz/
 line-up	/ˈɫaɪˌnəp/
 lineage	/ˈɫɪniədʒ/
@@ -99181,7 +99181,7 @@ phegley	/ˈfɛɡɫi/
 phelan	/ˈfɛɫən/
 phelps	/ˈfɛɫps/
 phelpss	/ˈfɛɫpsɪz/
-phen	/ˈfɛn/
+phen	/fən/
 phenfen	/ˈfɛnˈfɛn/
 phenicie	/ˈfɛnəki/
 phenix	/ˈfɛnɪks/
@@ -101338,7 +101338,7 @@ polinsky	/pəˈɫɪnski/
 polio	/pˈəʊlɪˌəʊ/
 poliomyelitis	/pˈəʊlɪˌɒmɪɪlˈaɪtɪs/
 poliquin	/poʊɫiˈkwin/
-polis	/pˈəʊliz/
+polis	/pəlɪs/
 polisario	/ˌpoʊɫɪˈsɛɹioʊ/
 polish	/ˈpɑɫɪʃ/	NOUN
 polish	/ˈpɑɫɪʃ/	VERB
@@ -101475,7 +101475,7 @@ poltergeists	/pˈəʊltəɡˌaɪsts/
 poltrack	/ˈpoʊɫˌtɹæk/
 poltroon	/pəʊltɹˈuːn/
 polus	/ˈpoʊɫəs/
-poly	/pˈɒli/
+poly	/pəlɪ/
 polys	/ˈpɑɫiz/
 polyacetylene	/ˌpɑˌɫiəˈsɛtəˌɫin/
 polyak	/ˈpɑɫjæk/
@@ -110527,7 +110527,8 @@ rhythmic	/ɹˈɪðmɪk/
 rhythmical	/ɹˈɪðmɪkəl/
 rhythmically	/ɹˈɪðmɪkli/
 rhythms	/ɹˈɪðəmz/
-ria	/ɹˈaɪɐ/
+ria	/ɹˈaɪɐ/	NOUN
+ria	/ɹiˈɑ/
 riad	/ɹiˈɑd/
 riady	/ɹiˈɑdi/
 riadys	/ɹiˈɑdiz/
@@ -114685,6 +114686,7 @@ sati	/sˈæti/
 satiate	/sˈeɪʃɪˌeɪt/
 satiated	/sˈeɪʃɪˌeɪtɪd/
 satiation	/sˌeɪʃɪˈeɪʃən/
+ation	/eɪʃən/
 satiety	/sætˈaɪəti/
 satin	/sˈætɪn/
 sating	/sˈeɪtɪŋ/
@@ -128164,7 +128166,7 @@ suon	/ˈsuɔn/
 sup	/sˈʌp/
 supak	/ˈsupək/
 supan	/ˈsupən/
-super	/sˈuːpɐ/
+super	/suːpəɹ/
 super-imposition	/ˌsupɝˌɪmpəˈzɪʃən/
 super-position	/ˌsupɝpəˈzɪʃən/
 superabrasive	/ˌsupɝəˈbɹeɪsɪv/
@@ -147496,11 +147498,12 @@ ification	/ɪfɪkeɪʃən/
 iform	/ɪfɔːm/
 ify	/faɪ/
 ig	/i/
-ious	/iəs/
+ious	/əs/
+tious	/ʃəs/
 ir	/ɪ/
 ite	/aɪt/
 itic	/ɪtɪk/
-itis	/ɪtɪs/
+itis	/aɪtɪs/
 ity	/ɪti/
 ium	/iəm/
 iv	/ɪv/
@@ -147526,14 +147529,14 @@ ous	/əs/
 ph	/f/
 phr	/uːf/
 py	/pa/
-ri	/i/
-rian	/iən/
-rous	/əs/
+ri	/ɹi/
+rian	/ɹiən/
+rous	/ɹʌs/
 ry	/i/
 stic	/stɪk/
 tas	/tæs/
 tastic	/tæstɪk/
-tion	/ɪʃən/
+tion	/ʃən/
 ug	/u/
 vka	/vkə/
 xeno	/zɛnə/
@@ -147546,6 +147549,7 @@ yn	/ɪn/
 zati	/zeɪʃ/
 zation	/zeɪʃən/
 zhi	/dʒi/
-zhong	/dʒɔ/
+zhong	/ʒɒŋ/
 zy	/za/
 zz	/z/
+astic	/æstɪk/

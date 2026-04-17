@@ -16801,7 +16801,6 @@ amin	/ɑmˈin/
 aminating	/ˈamɪnˌeɪtɪŋ/
 aminating	/ˈæmᵻnˌeɪɾɪŋ/
 amination	/ˌæmᵻnˈeɪʃən/
-amine	/ˈæma‍ɪn/
 amine	/əmˈin/
 amine	/ˈeɪmiːn/
 amine	/əˈmiːn/	NOUN
@@ -26141,11 +26140,8 @@ arcement	/ɑɹˈseɪmənt/
 arcement	/ɑɹsˈeɪmənt/
 arceneaux	/ˈɑɹsɪnoʊ/
 arceo	/ˈɑɹsioʊ/
-arch	/ˈɑːt‍ʃ/
-arch	/ˈɑɹtʃ/
-arch	/ˈɑːtʃ/
-arch	/ɑːtʃ/
-arch	/ɑːt͡ʃ/
+arch	/ˈɑːtʃ/	NOUN
+arch	/ɑɹk/
 arch-conservative	/ɑːtʃkənsˈɜːvətɪv/
 arch-enemy	/ˌɑːtʃˈɛnɪmi/
 arch-rival	/ɑːtʃɹˈaɪvəl/
@@ -86665,15 +86661,9 @@ cating	/kˈeɪtɪŋ/
 cating	/kˈeɪɾɪŋ/
 catino	/kɑˈtinoʊ/
 catino	/kɑtˈinoʊ/
-catio	/ˈkæt.i.əʊ/
-cation	/kˈæta‍ɪən/
-cation	/kˈataɪən/
-cation	/kˈædˌaɪən/
-cation	/kˈætˌaɪən/
-cation	/ˈkætaɪən/	NOUN
-cationic	/kˌæta‍ɪˈɒnɪk/
-cationic	/kataɪˈɒnɪk/
-cationic	/kˌædaɪˈɑnɪk/
+catio	/keɪʃəʊ/
+cation	/keɪʃən/
+cationic	/keɪʃənɪk/
 cations	/kˈæta‍ɪənz/
 cations	/kˈataɪənz/
 catkin	/kˈætkɪn/
@@ -272375,13 +272365,7 @@ intently	/ɪntˈɛntli/
 intently	/ɪnˈtentlɪ/	ADV
 intentness	/ɪntˈɛntnəs/
 intents	/ɪntˈɛnts/
-inter	/ˌɪnˈtɝ/
-inter	/ɪntˈɜɹ/
-inter	/ɪntˈɜː/
 inter	/ɪntˈɚ/
-inter	/ɪnˈtɜːɹ/	VERB
-inter	/ɪnˈtɜː/
-inter	/ɪnˈteː/
 inter-	/ɪntə(r)/
 inter-allied	/ɪntəɹˈalaɪd/
 inter-class	/ɪntəklˈɑːs/
@@ -307133,7 +307117,6 @@ lesperance	/ɫɛspɝˈɑns/
 lesperance	/lɛspɚˈɑns/
 lespinasse	/ˈɫɛspɪnæs/
 lespinasse	/lˈɛspɪnæs/
-less	/lˈɛs/
 less	/les/
 less is more	/lɛs ɪz ˈmɔː/
 less-than-stellar	/ˈlɛs ðən ˈstɛ.lə/
@@ -310339,8 +310322,7 @@ lindvall	/lˈɪndvəl/
 lindy	/lˈɪndi/
 lindying	/lˈɪndiɪŋ/
 line	/lˈa‍ɪn/
-line	/lˈaɪn/
-line	/laɪn/
+line	/liːn/	END
 line up	/laɪnˈʌp/	VERB
 line up	/lɑenˈɐp/	VERB
 line up	/laɪnˈɐp/	VERB
@@ -313819,11 +313801,6 @@ logwood	/lˈɒgwʊd/
 logwood	/lˈɔgwˌʊd/
 logwood	/lˈɑgwˌʊd/
 logwoods	/lˈɒgwʊdz/
-logy	/lˈə‍ʊɡi/
-logy	/lˈoʊgi/
-logy	/lˈəʊgi/
-logy	/ˈləʊgɪ/	ADJ
-logy	/ˈloʊɡi/	ADJ
 logy	/lədʒɪ/	NOUN
 loh	/ˈɫoʊ/
 loh	/lˈoʊ/
@@ -362163,7 +362140,6 @@ nesler's	/nˈɛsəlɚz/
 neslers	/ˈnɛsəɫɝz/, /ˈnɛsɫɝz/
 nesmith	/ˈnɛzmɪθ/
 nesmith	/nˈɛzmɪθ/
-ness	/nˈɛs/
 ness	/nes/	NOUN
 nessa	/ˈnɛsə/
 nessa	/nˈɛsə/
@@ -413309,8 +413285,7 @@ phelps	/ˈfɛɫps/
 phelps	/fˈɛlps/
 phelps's	/fˈɛlpsɪz/
 phelpss	/ˈfɛɫpsɪz/
-phen	/ˈfɛn/
-phen	/fˈɛn/
+phen	/fən/
 phenacetin	/finˈæsəɾən/
 phenacetin	/fɪnˈasɪtɪn/
 phenanthrene	/fənˈænθɹˌin/
@@ -423461,10 +423436,7 @@ poliovirus	/pˈoʊlioʊvˌaɪɹəs/
 poliovirus	/pˈəʊlɪəʊvˌaɪɹəs/
 poliquin	/poʊɫiˈkwin/
 poliquin	/poʊlikwˈin/
-polis	/pˈə‍ʊliz/
-polis	/pˈoʊləs/
-polis	/pˈɒlɪs/
-polis	/pˈoʊlaɪz/
+polis	/pəlɪs/
 polis	/ˈpəʊlɪs/	NOUN
 polisario	/ˌpoʊɫɪˈsɛɹioʊ/
 polisario	/pˌɒlɪsˈɑːɹɪəʊ/
@@ -423975,10 +423947,7 @@ poltroonery	/pɑltɹˈunəɹi/
 poltroonery	/pɒltɹˈuːnəɹi/
 polus	/ˈpoʊɫəs/
 polus	/pˈoʊləs/
-poly	/pˈɒli/
-poly	/pˈɑli/
-poly	/ˈpɒlɪ/
-poly	/ˈpəʊli/
+poly	/pəlɪ/
 poly's	/pˈɑliz/
 poly-	/ˈpɒ.li-/
 poly-	/pəˈlɪ-/
@@ -473028,10 +472997,8 @@ rhyton	/ɹˈaɪtɒn/
 rhyton	/ɹˈaɪtˌɑn/
 rhyton	/ˈɹaɪtɒn/	NOUN
 rhyton	/ˈɹʌɪtɒn/
-ria	/ɹˈa‍ɪɐ/
+ria	/ɹˈa‍ɪɐ/	NOUN
 ria	/ɹˈiə/
-ria	/ɹˈiːə/
-ria	/ˈɹiːə/
 riad	/ɹiˈɑd/
 riad	/ɹiːˈad/
 riady	/ɹiˈɑdi/
@@ -543466,12 +543433,7 @@ supan	/ˈsupən/
 supan	/sˈupən/
 supari	/sʊpˈɑɹi/
 supari	/sʊpˈɑːɹi/
-super	/sˈuːpɐ/
-super	/sˈupəɹ/
-super	/sˈuːpə/
-super	/sˈupɚ/
-super	/ˈs(j)uː.pə/
-super	/ˈsypɑ/
+super	/suːpəɹ/
 super bowl	/ˈsuːpə bəʊl/
 super bowl	/ˈsjuːpə -/
 super-	/ˌs(j)upəː/
@@ -558973,7 +558935,6 @@ teton	/ˈtiːtɒn/
 tetons	/ˈtitɑnz/, /ˈtitənz/
 tetons	/tˈitɑnz/
 tetons	/tˈitənz/
-tetra	/tˈɛtɹɐ/
 tetra	/tˈɛtɹə/
 tetrabarium	/ˌtɛtɹəˈbɛəɹi.əm/
 tetrabasic	/tˌɛtɹəbˈeɪsɪk/
@@ -640732,7 +640693,8 @@ ificat	/ɪfɪkeɪ/
 ification	/ɪfɪkeɪʃən/
 iform	/ɪfɔːm/
 ify	/faɪ/
-ious	/iəs/
+ious	/əs/
+tious	/ʃəs/
 ir	/ɪ/
 ite	/aɪt/
 itic	/ɪtɪk/
@@ -640751,7 +640713,7 @@ nt	/nt/
 ny	/ni/
 oc	/k/
 oid	/ɔɪd/
-olatry	/lətɹi/
+olatry	/ɒlətɹi/
 omy	/əmi/
 ony	/ənɪ/
 ophy	/məʊf/
@@ -640762,13 +640724,13 @@ phr	/uːf/
 py	/pa/
 ri	/i/
 rian	/iən/
-rous	/əs/
+rous	/ɹʌs/
 ry	/i/
 sch	/ʃm/
 stic	/stɪk/
 tas	/tæs/
 tastic	/tæstɪk/
-tion	/ɪʃən/
+tion	/ʃən/
 tive	/tɪv/
 ug	/u/
 vibrat	/vaɪb/
@@ -640782,5 +640744,12 @@ ym	/ɪm/
 zati	/zeɪʃ/
 zation	/zeɪʃən/
 zhi	/dʒi/
-zhong	/dʒɔ/
+zhong	/ʒɒŋ/
 zy	/za/
+astic	/æstɪk/
+ectomy	/ɛktəmi/
+phile	/faɪl/
+inate	/ɪneɪt/
+ation	/eɪʃən/
+escence	/ɛsəns/
+itis	/aɪtɪs/
