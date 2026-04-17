@@ -10275,7 +10275,9 @@ amygdalite	/amidalit/
 amygdalites	/amidalit/
 amyotrophie	/amjɔtʁɔfi/
 amyotrophies	/amjɔtʁɔfi/
-an	/ɑ̃/
+an	/ɑ̃/	END
+an	/an/	START
+an	/an/	MIDDLE
 anabaptiste	/anabatist/
 anabaptistes	/anabatist/
 anabolisant	/anabɔlizɑ̃/
@@ -14846,6 +14848,8 @@ arsenics	/aʁsənik/
 arsouille	/aʁsuj/
 arsouilles	/aʁsuj/
 art	/aʁ/
+art	/aʁ/	START
+art	/aʁ/	MIDDLE
 Artaban	/aʁtabɑ̃/
 Arte	/aʁte/
 artefact	/aʁtefakt/
@@ -22045,7 +22049,8 @@ baryum	/baʁjɔm/
 baryums	/baʁjɔm/
 barzoï	/baʁzɔj/
 barzoïs	/baʁzɔj/
-bas	/ba/, /baz/, /bas/
+bas	/bas/
+bas	/ba/	END
 bas-bleu	/bablø/
 bas-bleus	/bablø/
 bas-côté	/bakote/
@@ -56859,6 +56864,8 @@ cuivriez	/kɥivʁje/
 cuivrions	/kɥivʁjɔ̃/
 cuivrons	/kɥivʁɔ̃/
 cul	/ky/
+cul	/kyl/	START
+cul	/kyl/	MIDDLE
 cul-de-jatte	/kydʒat/
 cul-de-lampe	/kydlɑ̃p/
 cul-de-poule	/kydpul/
@@ -102389,7 +102396,9 @@ ersatz	/ɛʁzats/
 érythème	/eʁitɛm/
 érythèmes	/eʁitɛm/
 Érythrée	/eʁitʁe/
-es	/ɛ/
+es	/ɛ/	END
+es	/ɛs/	START
+es	/ɛs/	MIDDLE
 ès	/ɛs/
 esbroufe	/ɛzbʁuf/
 esbroufes	/ɛzbʁuf/
@@ -143477,6 +143486,7 @@ lequel	/ləkɛl/
 lérot	/leʁɔ/
 lérots	/leʁɔ/
 les	/le/
+les	/le/	END
 lés	/le/
 lès	/lɛ/, /lɛz/
 lesbianisme	/lɛsbjanism/
@@ -149780,6 +149790,8 @@ marxiste	/maʁksist/
 marxiste-léniniste	/maʁksistleninist/
 marxistes	/maʁksist/
 mas	/ma/
+mas	/mas/	START
+mas	/mas/	MIDDLE
 mascara	/maskaʁa/
 mascarade	/maskaʁad/
 mascarades	/maskaʁad/
@@ -157942,6 +157954,7 @@ myxomatose	/miksɔmatoz/
 myxomatoses	/miksɔmatoz/
 n'	/n/
 n	/n/
+n	//	END
 n'a	/na/
 n'ai	/ne/
 n'avaient	/navɛ/
@@ -163830,7 +163843,9 @@ ortolan	/ɔʁtɔlɑ̃/
 ortolans	/ɔʁtɔlɑ̃/
 orvet	/ɔʁvɛ/
 orvets	/ɔʁvɛ/
-os	/ɔs/, /o/
+os	/ɔs/	START
+os	/ɔs/	MIDDLE
+os	/o/	END
 osa	/oza/
 osai	/ozɛ/
 osaient	/ozɛ/
@@ -185738,7 +185753,8 @@ quatrièmement	/katʁijɛmmɑ̃/
 quatrièmes	/katʁijɛm/
 quatuor	/kwatɥɔʁ/
 quatuors	/kwatɥɔʁ/
-que	/kə/
+que	/kə/	START
+que	/kə/	MIDDLE
 que	/k/	END
 que ne	/kənə/
 que ou non	/kəunɔ̃/
@@ -211191,6 +211207,7 @@ rythmiques	/ʁitmik/
 rythmons	/ʁitmɔ̃/
 s'	/s/
 s	/s/
+s	//    END
 s'en prendre à	/sɑ̃pʁɑ̃dʁa/
 sa	/sa/
 sa	/za/    END
@@ -245884,7 +245901,7 @@ alc	/alk/
 ald	/ald/
 alen	/al/
 alex	/alɛks/
-alg	/alʒ/
+alg	/alg/
 all	/al/
 alé	/ale/
 alés	/ale/
@@ -245916,7 +245933,8 @@ ano	/anɔ/
 ansas	/sas/
 ansla	/sla/
 anslater	/slat/
-ant	/ɑ/
+ant	/ɑt/	START
+ant	/ɑt/	MIDDLE
 ante	/ɑt/
 anth	/ɑt/
 anthr	/ɑtʁɔ/
@@ -245996,6 +246014,8 @@ ba	/ba/
 back	/bak/
 baiso	/bɛzɔ/
 baisot	/bɛzɔ/
+baisot	/bɛzɔt/	START
+baisot	/bɛzɔt/	MIDDLE
 baisoter	/bɛzɔt/
 baliver	/baliv/
 baudi	/bod/
@@ -246080,7 +246100,7 @@ chloro	/klɔʁɔ/
 chn	/kn/
 chni	/kni/
 chno	/ʁakn/
-cho	/ʃu/
+cho	/ʃɔ/
 chok	/ʃɔk/
 cholé	/kɔle/
 chon	/akɔd/
@@ -246209,8 +246229,8 @@ ds	/ds/
 dua	/dɥa/
 duali	/dɥal/
 duct	/dykt/
-dy	/di/
-dys	/dis/
+dy	/de/
+dys	/de/
 déb	/de/
 débras	/debʁa/
 débras	/debʁaz/	START
@@ -246309,7 +246329,6 @@ ette	/ɛt/
 euf	/œf/
 eug	/øʒ/
 eur	/œʁ/
-euse	/øz/
 ev	/əv/
 ex	/ɛ/
 exa	/za/
@@ -246342,7 +246361,7 @@ fong	/fɔʒ/
 fr	/fʁ/
 fraic	/ʁafʁ/
 franconie	/fʁɑkɔn/
-fren	/fʁ/
+fren	/fʁɑt/
 frencher	/fʁɑtʃə/
 fu	/f/
 fun	/fɔ/
@@ -246487,7 +246506,7 @@ ict	/ikt/
 icul	/ikyl/
 id	/id/
 ide	/id/
-idi	/id/
+idi	/idi/
 idé	/ide/
 ie	/i/
 ielle	/sjɛl/
@@ -246614,7 +246633,7 @@ kaolini	/kaɔli/
 kata	/kata/
 katal	/katal/
 kayake	/kajak/
-ke	/k/
+ke	/ke/
 ken	/kɛn/
 ker	/ke/
 keu	/kœ/
@@ -246688,7 +246707,7 @@ liser	/lize/
 lisme	/lism/
 lite	/lit/
 ll	/l/
-lla	/la/
+lla	/ja/
 elle	/ɛl/
 ille	/ij/
 lles	/ɛl/
@@ -246714,6 +246733,8 @@ lom	/lɔm/
 lomb	/lɔ/
 lon	/lɔn/
 lons	/lɔn/
+lon	/lɔ/	END
+lons	/lɔ/	END
 lor	/lɔʁ/
 lori	/lɔʁ/
 lorique	/lɔʁik/
@@ -246804,7 +246825,8 @@ naire	/nɛʁ/
 nais	/nɛ/
 nal	/nal/
 nalis	/naliz/
-nan	/nan/
+nan	/na/
+gnan	/ɲɑ/
 nant	/nɑ/
 nar	/naʁ/
 nas	/na/
@@ -246859,6 +246881,7 @@ nou	/nu/
 noï	/nɔi/
 noïque	/nɔik/
 ns	/s/
+ns	//	END
 nt	/jɑ/
 nti	/ɑt/
 ny	/ni/
@@ -246869,9 +246892,9 @@ ob	/ɔb/
 obenzène	/ɔʁɔbɛzɛn/
 obi	/ɔb/
 obé	/ɔbe/
-och	/pɔk/
-ocho	/pɔkɔ/
-ochon	/pɔkɔd/
+och	/ɔk/
+ocho	/ɔkɔ/
+ochon	/ɔkɔ/
 ocrat	/ɔkʁas/
 ocrati	/ɔkʁasi/
 oct	/ɔkt/
@@ -246898,8 +246921,8 @@ ogé	/dʁɔ/
 ogénique	/ɔʁɔʒenik/
 oi	/ʒ/
 oin	/w/
-oir	/aʁ/
-ois	/nwa/
+oir	/waʁ/
+ois	/wa/
 oise	/waz/
 ok	/ɔk/
 oko	/ʁuk/
@@ -246942,10 +246965,10 @@ omé	/ʁɔm/
 ométrie	/ʁɔmetʁi/
 ométrique	/ɔmetʁik/
 ona	/ɔna/
-one	/ʁɔn/
-ong	/fɔʒ/
+one	/ɔn/
+ong	/ɔnʒ/
 oni	/ɔni/
-onien	/ntɔn/
+onien	/ɔni/
 onique	/tʁɔnik/
 onis	/ɔnis/
 onne	/ɔn/
@@ -247146,13 +247169,13 @@ rbr	/ʁbʁ/
 rbro	/ʁbʁu/
 rbroo	/ʁbʁu/
 rbrook	/ʁbʁuk/
-rc	/si/
-rd	/aʁ/
+rc	/ʁk/
+rd	/ʁd/
 rde	/aʁd/
 re	/ʁə/
-reb	/ʁə/
+reb	/ʁəb/
 rebouilli	/ʁəbuji/
-ren	/fʁ/
+ren	/ʁɛn/
 rencher	/fʁɑtʃə/
 rent	/ɔfeʁ/
 rep	/ʁəp/
@@ -247182,7 +247205,7 @@ ril	/ʁil/
 rin	/ʁɛ/
 rine	/ʁin/
 rio	/teʁ/
-rique	/teʁik/
+rique	/ʁik/
 rise	/ʁize/
 riser	/eʁize/
 risme	/eʁism/
@@ -247225,7 +247248,7 @@ rr	/aʁ/
 rré	/iʁe/
 rs	/œʁ/
 rt	/ʁ/
-rup	/ʁy/
+rup	/ʁyp/
 rupe	/ʁyp/
 ry	/kʁ/
 ryp	/ʁip/
@@ -247262,8 +247285,8 @@ sassie	/sje/
 sassiez	/zasje/
 sassion	/zasjɔ/
 sassions	/zasjɔ/
-sat	/zas/
-sation	/sjɔ/
+sat	/za/
+sation	/zasjɔ/
 saure	/ɔzɔʁ/
 sc	/sk/
 sch	/ʃm/
@@ -247459,12 +247482,16 @@ ub	/yb/
 uc	/œk/
 uch	/uʃ/
 ud	/od/
-ue	/ɔɡ/
+ue	//	END
 ueil	/kœ/
 ueille	/kœj/
 uen	/aɡn/
 uer	/eɡe/
-ues	/ɔɡ/
+ues	//	END
+trad	/tʁed/	MIDDLE
+trad	/tʁed/	START
+tagu	/taɡ/	START
+tagu	/taɡ/	MIDDLE
 uf	/of/
 ug	/uʒ/
 uge	/uʒ/
@@ -247499,7 +247526,7 @@ vi	/vi/
 vic	/vik/
 vien	/vjɛ/
 vité	/vite/
-vo	/v/
+vo	/vɔ/
 vor	/vɔʁ/
 vou	/vu/
 vout	/vut/
@@ -247509,7 +247536,7 @@ vr	/vʁ/
 vé	/ve/
 wa	/wa/
 wal	/wa/
-we	/w/
+we	/wɛ/
 wi	/wi/
 wil	/wil/
 win	/win/
@@ -247573,7 +247600,7 @@ yu	/ju/
 yé	/je/
 za	/za/
 zan	/zan/
-zap	/za/
+zap	/zap/
 zape	/zap/
 zaï	/zai/
 zaïri	/zai/
@@ -247687,7 +247714,7 @@ zé	/ze/
 ïs	/is/
 retz	/ʁɛ/
 abbe	/ab/
-villois	/vilwa/
+villois	/vijwa/
 lone	/lɔn/
 mey	/mɛ/
 ou	/u/
@@ -247936,3 +247963,19 @@ hâtes	/at/	END
 hèrent	/ɛʁ/	END
 hé	/e/	END
 ide	/id/	END
+châte	/ʃat/	END
+châtes	/ʃat/	END
+châte	/atɛ/	START
+châte	/atɛ/	MIDDLE
+châtes	/atɛ/	START
+châtes	/atɛ/	MIDDLE
+neux	/nø/
+nide	/nid/
+nano	/nanɔ/
+drin	/dʁɛ/
+elier	/əlje/
+igna	/iɲa/
+igni	/iɲi/
+sone	/sɔn/
+quiote	/kjɔt/
+ouet	/wɛ/

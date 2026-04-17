@@ -31,7 +31,7 @@ TONE_MAP = {
 _TONE_TABLE = str.maketrans(TONE_MAP)
 
 # Remove certain duplicate phones in a row. Cannot be generalize to all (e.g., compounds in german should not be deduplicated)
-_DEDUPLICATE = "ɾiʁkp"
+_DEDUPLICATE = "ɾiʁkppdsɔ"
 
 class NoGuessingRefusal(ValueError):
     """Raised by phonemize_word(..., guessing=False) when the word cannot be
