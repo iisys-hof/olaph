@@ -231,7 +231,9 @@ class Olaph:
         if not entry:
             return None
         key = (pos or "") + (tense or "")
-        return entry.get(word_position) or entry.get(key) or entry.get(pos) or entry.get("base")
+        if entry.get(word_position) is not None:
+            return entry.get(word_position)
+        return entry.get(key) or entry.get(pos) or entry.get("base")
 
     def _transformations(self, word: str):
         """Generate common word variants for fallback lookups."""
@@ -402,9 +404,9 @@ class Olaph:
             else:
                 part_word_position = "MIDDLE"
             part_lookup = self._lookup(part_word, self.lang_dict[lang], None, None, word_position=part_word_position)
-            if not part_lookup and guessing:
+            if part_lookup is None and guessing:
                 part_lookup = self._lookup_all_lang(part_word, None, None, lang)
-            if not part_lookup:
+            if part_lookup is None:
                 if not guessing:
                     self.refused_words.append(word)
                     raise NoGuessingRefusal(f"Word not in target-language dictionary: {word}")
