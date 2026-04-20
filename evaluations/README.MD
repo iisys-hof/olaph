@@ -1,10 +1,24 @@
-The evaluations files for mismatches contain columns in the following order:
+Evaluations for OLaPh, Gruut and espeak on the Wikipron dataset: https://github.com/CUNY-CL/wikipron
 
-- OLaPh phonemization
-- Gruut phonemization
-- eSpeak phonemization
-- Which phonemizer made a mistake (1 = olaph, 2 = gruut, 3 = espeak, - = negligible difference, ? = multiple ways of phonemization or unclear)
-- grapheme
+the "cleaned" results try to remove and replace symbols in order to achieve better comparability between the framework outputs. Cleaning was conducted like this:
+
+```python
+
+exclude = "ʔʡʕʢʘǀǂǁǃˌˈʔˈːˈ  \u200B\u200C\u200D\uFEFF"
+
+def clean_text(text, lang):
+    if lang == "es":
+        text = text.replace("β", "b").replace("ð", "d").replace("g", "x").replace("r", "ɾ")
+        text = text.replace("oʊ", "əʊ")
+    elif lang in ["en_uk", "en_us"]:
+        text = text.replace("ɫ", "l").replace("oʊ", "əʊ").replace("aʊ", "ə").replace("ɐ", "ə")
+    elif lang == "de":
+        text = text.replace("əʁ", "l")
+
+    return text
 
 
-The hard corpus file contains 100 examples of sentences, which are considered very hard to phonemize as they contain cross-lingual expressions, names and homographs.
+phonemes = "boˈniːʁən"
+phonemes = "".join(char for char in phonemes) if unicodedata.category(char) != "Cf" and char not in exclude)
+phonemes = clean_text(phonemes, lang="de")
+```
