@@ -220,10 +220,11 @@ class Olaph:
         originated from the target language or from the language-independent general dict.
         This prevents e.g. an English entry for "largent" masking the correct French
         splitting of "l" + "argent"."""
-        base = _LANG_BASE.get(lang, lang)
-        source = self.all_lang_word_source.get(word)
-        if source is None or (source != base and source != lang and source != "general"):
-            return None
+        if lang is not None:
+            base = _LANG_BASE.get(lang, lang)
+            source = self.all_lang_word_source.get(word)
+            if source is None or (source != base and source != lang and source != "general"):
+                return None
         return self._lookup(word, self.all_lang_word_dict, pos, tense, None)
 
     def _lookup(self, word: str, dictionary: dict, pos: Optional[str], tense: Optional[str], word_position: Optional[str]) -> Optional[str]:
@@ -418,6 +419,10 @@ class Olaph:
             if not guessing:
                 self.refused_words.append(word)
                 raise NoGuessingRefusal(f"Word not in target-language dictionary: {word}")
+            #last refuge: assume language is misdetected, try phonemizing via all_lanng
+            all_lang_lookup = self._lookup_all_lang(word, None, None, None)
+            if all_lang_lookup:
+                return _ret(all_lang_lookup, "all_lang_dict")
             raise ValueError(f"Phonemization failed for word: {word}")
         return _ret(word_phonemized, "compound")
 
