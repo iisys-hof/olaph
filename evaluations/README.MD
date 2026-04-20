@@ -1,6 +1,6 @@
 Evaluations for OLaPh, Gruut and espeak on the Wikipron dataset: https://github.com/CUNY-CL/wikipron
 
-the "cleaned" results try to remove and replace symbols in order to achieve better comparability between the framework outputs. Cleaning was conducted like this:
+the "cleaned" results try to remove and replace symbols (for all framework outputs) in order to achieve better comparability between the framework outputs. Cleaning was conducted like this:
 
 ```python
 
@@ -12,8 +12,6 @@ def clean_text(text, lang):
         text = text.replace("oʊ", "əʊ")
     elif lang in ["en_uk", "en_us"]:
         text = text.replace("ɫ", "l").replace("oʊ", "əʊ").replace("aʊ", "ə").replace("ɐ", "ə")
-    elif lang == "de":
-        text = text.replace("əʁ", "l")
 
     return text
 
