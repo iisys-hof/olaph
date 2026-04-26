@@ -36,7 +36,7 @@ Evaluations in **German** and **English** show improved accuracy and robustness 
 - Abbreviation and letter pronunciation dictionaries
 - Number normalization
 - Cross-language acronym detection
-- Compound splitting with probabilistic scoring
+- Compound splitting with statistical scoring
 - Freely available lexica for research and development derived from wiktionary.org.
 
 ## Large Language Model
