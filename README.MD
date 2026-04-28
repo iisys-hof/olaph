@@ -104,13 +104,13 @@ Phonemization is a critical component in text-to-speech synthesis. Traditional a
 If you use OLaPh in academic work, please cite:
 
 ```bibtex
-@misc{wirth2025olaphoptimallanguagephonemizer,
-      title={OLaPh: Optimal Language Phonemizer},
+@misc{wirth2026olaphoptimallanguagephonemizer,
+      title={OLaPh: Optimal Language Phonemizer}, 
       author={Johannes Wirth},
-      year={2025},
+      year={2026},
       eprint={2509.20086},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.20086},
+      url={https://arxiv.org/abs/2509.20086}, 
 }
 ```
