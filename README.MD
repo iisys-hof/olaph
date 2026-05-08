@@ -8,6 +8,12 @@
 
 ---
 
+## NEWS
+
+05/2026: A new version of OLaPhLLM is available [here](https://huggingface.co/iisys-hof/OLaPhLLM_v2)
+
+---
+
 ## Overview
 
 Traditional phonemizers rely on simple rule-based mappings or lexicon lookups.
