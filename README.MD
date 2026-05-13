@@ -32,7 +32,7 @@ Neural and hybrid approaches improve generalization but still struggle with:
 - **Cross-language handling**
 - **NLP-based preprocessing** via [spaCy](https://spacy.io) and [Lingua](https://github.com/pemistahl/lingua-py)
 
-Evaluations in **German** and **English** show improved accuracy and robustness over existing phonemizers, including on challenging multilingual datasets.
+Evaluations on the Wikipron dataset show improved accuracy and robustness over existing phonemizers, including on OOV words.
 
 ---
 
@@ -48,7 +48,7 @@ Evaluations in **German** and **English** show improved accuracy and robustness 
 ## Large Language Model
 A LLM based on OLaPh output is also available. It is a GemmaX 2B Model trained on ~10M sentences derived from the FineWeb Corpus phonemized with the OLaPh framework.
 
-Find it here on [huggingface](https://huggingface.co/iisys-hof/olaph) (Needs to be updated for the additional languages)
+Find it here on [huggingface](https://huggingface.co/iisys-hof/OLaPhLLM_v2) (DE, EN, FR, US. Training for additional languages planned)
 
 ---
 
