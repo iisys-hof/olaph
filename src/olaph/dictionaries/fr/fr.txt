@@ -36129,7 +36129,7 @@ cavité	/kavite/
 cavités	/kavite/
 Cayenne	/kajɛn/
 CD-Rom	/sedeʁɔm/
-ce	/ə/
+ce	/s/	END
 ce	/se/	START
 ce	/se/	MIDDLE
 céans	/seɑ̃/
