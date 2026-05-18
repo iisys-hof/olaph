@@ -10,6 +10,7 @@
 
 ## NEWS
 05/2026: The instruction finetuning dataset for OlaphLLM is available [here](https://huggingface.co/datasets/iisys-hof/olaph-data-v2)
+
 05/2026: A new version of OLaPhLLM is available [here](https://huggingface.co/iisys-hof/OLaPhLLM_v2)
 
 ---
