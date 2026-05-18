@@ -84,7 +84,7 @@ class Olaph:
 
         self.detector = LanguageDetectorBuilder.from_languages(
             Language.ENGLISH, Language.FRENCH, Language.GERMAN, Language.SPANISH,
-            Language.CZECH, Language.DANISH, Language.DUTCH, Language.ITALIAN, Language.SWEDISH,
+            Language.CZECH, Language.DANISH, Language.DUTCH, Language.ITALIAN, Language.SWEDISH, Language.POLISH,
         ).with_minimum_relative_distance(0.6).build()
 
         self._load_dictionaries()
