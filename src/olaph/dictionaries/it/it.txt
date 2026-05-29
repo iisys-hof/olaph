@@ -6859,6 +6859,7 @@ autoironia	/awtoiroˈnia/
 autoirradiante	/aʊtoirɾadiˈante/
 autoirradiante	/,awtoirraˈdjante/
 autolavaggio	/aʊtolavˈadʒːo/
+gg	/dʒ/
 autolavaggio	/awtolaˈvadd͡ʒo/
 autolesionismo	/aʊtolezionˈizmo/
 autolesionismo	/awtolezjoˈnizmo/
@@ -7297,8 +7298,7 @@ azzurrare	/adzːʊrɾˈare/
 azzurrare	/addzurˈrare/
 azzurro	/adzːˈurɾo/
 azzurro	/ad.ˈd͡zur.ro/
-b	/bˈi/
-b	/ˈbi/
+b	/b/
 babaco	/baˈbako/
 babau	/babˈaʊ/
 babau	/baˈbaw/
@@ -9994,6 +9994,7 @@ buscare	/busˈka.re/
 buscemese	/buʃeˈmεze/
 bushido	/bˈuʃido/
 bushido	/buʃˈʃido/
+d	/d/
 business	/bˈɪznəs/
 business	/ˈbiznes/
 bussare	/bʊssˈare/
@@ -10037,10 +10038,8 @@ buzzurro	/budˈdzurro/
 bye	/baɪ/
 byte	/ˈbajt/
 béla	/bela/
-c	/tʃˈi/
 c	/k/
 c	/t͡ʃ/
-c	/ˈt͡ʃi/
 c'era	/tʃˈɛra/
 c'è	/tʃe/
 ca	/ka/
@@ -23955,7 +23954,6 @@ eziologia	/ettsjoloˈd͡ʒia/
 eziopatogenesi	/etsiopatodʒenˈezɪ/
 eziopatogenesi	/ettsjopatoˈd͡ʒɛnezi/
 e’	/e/
-f	/ˈɛffe/
 f	/f/
 fa	/fˈa/
 fabacea	/faˈbaʧea/
@@ -26770,7 +26768,7 @@ futuristico	/fʊtʊrˈistiko/
 futuristico	/futuˈristiko/
 futuro	/fʊtˈuro/
 futuro	/fuˈturo/
-g	/dʒˈi/
+g	/g/
 g'olé	/gˈole/
 gabbano	/gabːˈano/
 gabbano	/ɡabˈbano/
@@ -29061,9 +29059,7 @@ gutturale	/gʊtːʊrˈale/
 gutturale	/ɡuttuˈrale/
 gutturnio	//gutˈturnjo/
 gyertya	/ˈɟɛrcɒ/
-h	/ˈakːa/
-h	/[akka] (lettera)/
-h	/[h] (raro; dentro le parole)/
+h	/h/
 ha	/a/
 habitat	/ˈhabitat/
 hacienda	/aˈθjenda/
@@ -33897,13 +33893,7 @@ kruscioviano	/krʊʃovjˈano/
 kruscioviano	/kruʃʃoˈvjano/
 kvas	/ˈkvas/
 kyrie	/ˈkyrje/
-l	/ˈɛlle/
 l	/l/
-l	/lː/
-l	/ʎ/
-l	/ʎː/
-l	/ɡl/
-l	/ˈɛl.le/
 l'accordo	/lˈakːordo/
 l'acqua	/lˈakːwa/
 l'aia	/ˈlaːja/
@@ -35372,7 +35362,6 @@ livoroso	//livoˈrozo/
 livrea	/liˈvrɛa/
 lizza	/lˈidzːa/
 lizza	/ˈlittsa/
-lo	/la/
 lo	/lo/
 lobato	/loˈbato/
 lobbycrazia	/lobːikratsˈia/
@@ -35852,7 +35841,6 @@ lí	/lˈi/
 lógos	/lˈogos/
 lógos	/ˈlɔɡos/
 l’unico	/lʊniko/
-m	/ˈɛmme/
 m	/m/
 ma	/ma/
 ma	/ˈma/
@@ -39734,8 +39722,7 @@ mutualismo	/mutuaˈlizmo/
 mutuatario	/mutuaˈtarjo/
 mutuo	/mˈutʊo/
 mutuo	/ˈmutwo/
-n	/ˈɛnne/
-n	/ɛnne/
+n	/n/
 nababbo	/nabˈabːo/
 nababbo	/naˈbabbo/
 nabateo	/nabaˈtɛo/
@@ -48956,8 +48943,7 @@ quoto	/ˈkwɔto/
 quoziente	/kwotsiˈɛnte/
 quoziente	/kwoˈtsjɛnte/
 québec	/keˈbɛk/
-r	/ˈɛrɾe/
-r	/ˈɛrre/
+r	/r/
 ra	/ra/
 rabarbaro	/rabˈarbaro/
 rabarbaro	/raˈbarbaro/
@@ -52306,9 +52292,9 @@ ruvido	/ˈruvido/
 ruzzolare	/rʊtsːolˈare/
 ruzzolare	/ruttsoˈlare/
 réclame	//reˈklam/
-s	/ˈɛsse/
-s	/[s] (inizio parola e quando compare doppia)/
-s	/[z] (dentro alle parole)/
+s	/s/	START
+s	/s/	END
+s	/z/	MIDDLE
 sa	/sˈa/
 saarland	/ˈsaːrlant/
 sab	/sˈab/
@@ -63169,11 +63155,7 @@ uxoricida	//uksoriˈt͡ʃida/
 uxoricidio	/ʊksoritʃˈidio/
 uxoricidio	/uksoriˈt͡ʃidjo/
 uzzolo	/ˈuddzolo/
-v	/vˈu/
-v	/[v] (pronuncia moderna)/
-v	/[w], [u] (obsoleta)/
-v	/ˈvi/
-v	/ˈvu/
+v	/v/
 va	/vˈa/
 vacanza	/vakˈantsa/
 vacanza	/vaˈkantsa/
@@ -64874,9 +64856,7 @@ wrestling	/ˈrɛstlinɡ/
 würstel	/wˈurstel/
 würstel	/ˈvurstel/
 würstel	/ˈvyrstel/
-x	/[ks] (dentro alle parole)/
-x	/[iks] (nome lettera)/
-x	/ˈiks/
+x	/ks/
 xantina	/ksantˈina/
 xantina	/ksanˈtina/
 xenartri	/ksenˈartrɪ/
@@ -64903,8 +64883,7 @@ xilografia	/ksiloɡraˈfia/
 xilografo	/ksilˈɔgrafo/
 xilografo	/ksiˈlɔɡrafo/
 xu	/ksu/
-y	/[ipsilon] (nome lettera)/
-y	/[j] (raro, pronuncia parole straniere)/
+y	/j/
 yacht	/ˈjɔt/
 yachtsman	/jˈaktzman/
 yachtsman	/ˈjɔtsmen/
@@ -64929,12 +64908,8 @@ yogurt	/ˈjɔɡurt/
 youtuber	/ˈjuːtjuːbə/
 yucca	/ˈjukka/
 yukon	/ˈjuːkon/
-z	//d͡z/ (Inizio parola)/
-z	//t͡s/ (quando Z è doppia)/
-z	//d͡zɛta/ (nome lettera)/
-z	/[d͡z] (inizio parola)/
-z	/[t͡s] (doppia z)/
-z	/[d͡zeta] (nome lettera)/
+zz	/t͡s/
+z	/d͡z/	START
 zabaglione	/dzabaʎˈone/
 zabaglione	/d͡zabaʎˈʎone/
 zabaione	/dzabajˈone/
@@ -64989,7 +64964,7 @@ zampone	/tsamˈpone/
 zampone	/dzamˈpone/
 zanca	/dzˈanka/
 zanca	/ˈtsanka/
-zanca	//ˈdzanka/
+zanca	/ˈdzanka/
 zanche	/dzˈanke/
 zanche	/ˈtsanke/
 zanna	/dzˈanna/

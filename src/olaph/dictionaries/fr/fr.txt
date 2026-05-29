@@ -18003,6 +18003,7 @@ augustinienne	/ogystinjɛn/
 augustiniennes	/ogystinjɛn/
 augustiniens	/ogystinjɛ̃/
 aujourd'hui	/oʒuʁdɥi/
+aujourd	/oʒuʁd/
 aula	/ola/
 aulne	/on/
 aulnes	/on/
@@ -156931,6 +156932,7 @@ lugubrement	/lygybʁəmɑ̃/
 lugubres	/lygybʁ/
 lui	/lɥi/
 lui-même	/lɥimɛm/
+luimême	/lɥimɛm/
 luire	/lɥiʁ/
 luis	/lɥi/
 luisant	/lɥizɑ̃/
@@ -183114,6 +183116,7 @@ peureux	/pœʁø/
 peurs	/pœʁ/
 peut	/pø/
 peut-être	/pøtɛtʁ/
+peutêtre	/pøtɛtʁ/
 peuvent	/pœv/
 peux	/pø/
 pèze	/pɛz/
