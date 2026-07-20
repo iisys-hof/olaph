@@ -258761,3 +258761,6 @@ igni	/iɲi/
 sone	/sɔn/
 quiote	/kjɔt/
 ouet	/wɛ/
+gonade	/ɡɔnadɛ/
+decto	/dɛktɔ/
+gonadecto	/ɡɔnadɛktɔ/

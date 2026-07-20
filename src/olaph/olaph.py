@@ -64,7 +64,7 @@ class Olaph:
     def __init__(self):
         print("Initializing OLaPh...")
         self.base_dir = Path(__file__).resolve().parent
-        self.langs = ("en", "de", "fr", "es", "pl", "cs", "da", "nl", "it", "sv", "en-us", "en-uk")
+        self.langs = ("en", "de", "fr", "es", "pl", "cs", "da", "nl", "it", "sv", "en-us", "en-uk", "fi")
         self.normalizer = Normalizer()
 
         self.lang_dict: Dict[str, Dict[str, Dict[str, str]]] = {}
@@ -133,21 +133,23 @@ class Olaph:
             with open(dict_path, encoding="utf-8") as rf:
                 for line in rf:
                     parts = line.strip().split("\t")
-                    grapheme, phoneme = parts[:2]
-                    pos = parts[2] if len(parts) > 2 else "base"
-                    phoneme = phoneme.split(",")[0].replace("/", "")
-                    grapheme = unicodedata.normalize("NFC", grapheme.lower())
-                    self.lang_dict[lang].setdefault(grapheme, {})
-                    if pos not in self.lang_dict[lang][grapheme]:
-                        self.lang_dict[lang][grapheme][pos] = phoneme
-                    # set base if only word with POS annotation exists.
-                    if "base" not in self.lang_dict[lang][grapheme]:
-                        self.lang_dict[lang][grapheme]["base"] = phoneme
+                    try:
+                        grapheme, phoneme = parts[:2]
+                        pos = parts[2] if len(parts) > 2 else "base"
+                        phoneme = phoneme.split(",")[0].replace("/", "")
+                        grapheme = unicodedata.normalize("NFC", grapheme.lower())
+                        self.lang_dict[lang].setdefault(grapheme, {})
+                        if pos not in self.lang_dict[lang][grapheme]:
+                            self.lang_dict[lang][grapheme][pos] = phoneme
+                        # set base if only word with POS annotation exists.
+                        if "base" not in self.lang_dict[lang][grapheme]:
+                            self.lang_dict[lang][grapheme]["base"] = phoneme
 
-                    if grapheme not in self.all_lang_word_dict:
-                        self.all_lang_word_dict[grapheme] = {"base": phoneme}
-                        self.all_lang_word_source[grapheme] = lang
-
+                        if grapheme not in self.all_lang_word_dict:
+                            self.all_lang_word_dict[grapheme] = {"base": phoneme}
+                            self.all_lang_word_source[grapheme] = lang
+                    except Exception as ex:
+                        logging.warning(f"Could not load line {line.strip()} in dictionary {dict_path}: {str(ex)}")
     def _load_general(self):
         path = self.base_dir / "dictionaries/general.txt"
         with open(path, encoding="utf-8") as rf:
