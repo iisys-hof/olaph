@@ -103037,8 +103037,8 @@ buzonera	/buθoneɾa/
 buzoneras	/buθoneɾas/
 buzones	/buθones/
 buzos	/buθos/
-byte	/bait/, /'bite/
-bytes	/baits/, /'bites/
+byte	/bait/, /ˈbite/
+bytes	/baits/, /ˈbites/
 ca	/ka/
 cabal	/kaβal/
 cábala	/ˈkaβala/

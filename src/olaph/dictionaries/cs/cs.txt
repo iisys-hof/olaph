@@ -1117,7 +1117,7 @@ adjuvans	/adjʊvans/
 adjuvant	/ˈadjuvant/
 adjuvant	/adjʊvant/
 adler	/aːdlɛr/
-adler	/'aːdlɛr/
+adler	/ˈaːdlɛr/
 administrativa	/admɪnɪstratɪva/
 administrativa	/ʔadmɪnɪstratɪva/
 administrativní	/admɪnɪstratɪvɲiː/
@@ -2397,7 +2397,7 @@ amos	/amɔs/
 amosův	/amosuːf/
 amosův	/amɔsuːf/
 amplituda	/amplɪtuda/
-amplituda	/'amplɪtʊ̯da/
+amplituda	/ˈamplɪtʊ̯da/
 amplitudě	/amplɪtuɟɛ/
 amplitudě	/amplɪtʊɟɛ/
 amplión	/amplɪoːn/
@@ -3592,7 +3592,7 @@ arcimaršálek	/art͡sɪmarʃaːlɛk/
 arcimistr	/art͡sɪmɪstr̩/
 arcinepřítel	/art͡sɪnɛpr̝̊iːtɛl/
 arciosel	/artsɪosɛl/
-arciosel	/'art͡sɪˌɔsɛl/
+arciosel	/ˈart͡sɪˌɔsɛl/
 arcipokladník	/art͡sɪpɔkladɲiːk/
 arcipraporečník	/art͡sɪprapɔrɛt͡ʃɲiːk/
 arcipůvodní	/artsɪpuːvodɲiː/
@@ -3855,7 +3855,7 @@ arzénový	/arzɛːnoviː/
 arzénový	/arzɛːnɔviː/
 arábie	/araːbɪjɛ/
 arés	/arɛːs/
-arších	/'ar̩ʃiːx/
+arších	/ˈar̩ʃiːx/
 arťák	/ˈarcaːk/
 arťák	/arcaːk/
 arů	/ˈaruː/
@@ -4796,7 +4796,7 @@ bagatelizováními	/bagatɛlɪzɔvaːɲiːmɪ/
 bagatelizují	/bagatɛlɪzujiː/
 bagatelizují	/bagatɛlɪzʊjiː/
 bagatelní	/bagatɛlɲiː/
-bagatelní	/'bagatɛlɲiː/
+bagatelní	/ˈbagatɛlɲiː/
 bagdád	/bagdaːt/
 bagdádský	/bagdaːtskiː/
 bageta	/bagɛta/
@@ -5251,7 +5251,7 @@ barelů	/barɛluː/
 barentsovo moře	/barɛnt͡sɔvɔ mɔr̝ɛ/
 baret	/barɛt/
 barev	/barɛf/
-barevná teplota	/'barɛvnaː 'tɛplɔta/
+barevná teplota	/ˈbarɛvnaː ˈtɛplɔta/
 barevné	/barɛvnɛː/
 barevný	/barɛvniː/
 barikádový	/barɪkaːdoviː/
@@ -5613,7 +5613,7 @@ baziliky	/bazɪlɪkɪ/
 bazilikách	/bazɪlɪkaːx/
 bazilikám	/bazɪlɪkaːm/
 bazilišek	/bazɪlɪʃɛk/
-bazilišek	/'bazɪlɪʃɛk/
+bazilišek	/ˈbazɪlɪʃɛk/
 baziliščí	/bazɪlɪʃtʃiː/
 baziliščí	/bazɪlɪʃt͡ʃiː/
 bazmek	/bazmɛk/
@@ -6797,7 +6797,7 @@ blahosklonný	/ˈblaɦɔˌsklɔnniː/
 blahoslav	/blaɦoslaf/
 blahoslav	/ˈblaɦɔslaf/
 blahoslava	/blaɦoslava/
-blahoslava	/'blaɦɔslava/
+blahoslava	/ˈblaɦɔslava/
 blahoslavův	/blaɦoslavuːf/
 blahoslavův	/blaɦɔslavuːf/
 blahovičník	/blaɦovɪtʃɲiːk/
@@ -7694,15 +7694,15 @@ borneo	/bornɛo/
 borneo	/ˈbɔrnɛɔ/
 borovice	/borovɪtsɛ/
 borovice	/bɔrɔvɪt͡sɛ/
-borovice arizonská	/'bɔrɔvɪt͡sɛ arɪzɔnskaː/
-borovice armandova	/'bɔrɔvɪt͡sɛ armandɔva/
-borovice bělokmenná	/'bɔrɔvɪt͡sɛ bjɛlɔkmɛnaː/
-borovice hrbolkatá	/'bɔrɔvɪt͡sɛ ɦr̩bɔlkataː/
-borovice jakušimská	/'bɔrɔvɪt͡sɛ jakʊʃɪmskaː/
-borovice kleč	/'bɔrɔvɪt͡sɛ 'klɛt͡ʃ/
-borovice limba	/'bɔrɔvɪt͡sɛ 'lɪmba/
-borovice osinatá	/'bɔrɔvɪt͡sɛ ɔsɪnataː/
-borovice rumelská	/'bɔrɔvɪt͡sɛ rʊmɛlskaː/
+borovice arizonská	/ˈbɔrɔvɪt͡sɛ arɪzɔnskaː/
+borovice armandova	/ˈbɔrɔvɪt͡sɛ armandɔva/
+borovice bělokmenná	/ˈbɔrɔvɪt͡sɛ bjɛlɔkmɛnaː/
+borovice hrbolkatá	/ˈbɔrɔvɪt͡sɛ ɦr̩bɔlkataː/
+borovice jakušimská	/ˈbɔrɔvɪt͡sɛ jakʊʃɪmskaː/
+borovice kleč	/ˈbɔrɔvɪt͡sɛ ˈklɛt͡ʃ/
+borovice limba	/ˈbɔrɔvɪt͡sɛ ˈlɪmba/
+borovice osinatá	/ˈbɔrɔvɪt͡sɛ ɔsɪnataː/
+borovice rumelská	/ˈbɔrɔvɪt͡sɛ rʊmɛlskaː/
 borovicový	/borovɪtsoviː/
 borovicový	/bɔrɔvɪt͡sɔviː/
 borovička	/borovɪtʃka/
@@ -7918,11 +7918,11 @@ bořivojův	/bɔr̝ɪvɔjuːf/
 boří	/bˈor̝iː/
 boří	/ˈbɔr̝iː/
 boříš	/bor̝iːʃ/
-boříš	/'bɔr̝iːʃ/
+boříš	/ˈbɔr̝iːʃ/
 božek	/boʒɛk/
 božek	/bɔʒɛk/
 božena	/boʒɛna/
-božena	/'bɔʒɛna/
+božena	/ˈbɔʒɛna/
 božetěchův	/boʒɛcɛxuːf/
 božetěchův	/bɔʒɛcɛxuːf/
 božidarův	/boʒɪdaruːf/
@@ -9125,7 +9125,7 @@ bučinový	/bʊt͡ʃɪnɔviː/
 buď	/buc/
 buď	/bʊc/
 buď	/bʊɟ/
-buď jak buď	/'bʊc jag'bʊc/
+buď jak buď	/ˈbʊc jagˈbʊc/
 buďme	/bucmɛ/
 buďme	/bʊcmɛ/
 buďte	/buctɛ/
@@ -9487,14 +9487,14 @@ býlím	/bˈiːliːm/
 býlím	/biːliːm/
 být	/biːt/
 být	/bɨːt/
-být drzý jak opice	/'biːtˌdr̩.ziː 'jaˌkɔ.pɪ.t͡sɛ/
-být drzý jak opice	/'biːtˌdr̩.ziː 'jakˌʔɔ.pɪ.t͡sɛ/
-být drzý jako opice	/'biːtˌdr̩.ziː 'ja.kɔˌɔ.pɪ.t͡sɛ/
-být drzý jako opice	/'biːtˌdr̩.ziː 'ja.kɔˌʔɔ.pɪ.t͡sɛ/
+být drzý jak opice	/ˈbiːtˌdr̩.ziː ˈjaˌkɔ.pɪ.t͡sɛ/
+být drzý jak opice	/ˈbiːtˌdr̩.ziː ˈjakˌʔɔ.pɪ.t͡sɛ/
+být drzý jako opice	/ˈbiːtˌdr̩.ziː ˈja.kɔˌɔ.pɪ.t͡sɛ/
+být drzý jako opice	/ˈbiːtˌdr̩.ziː ˈja.kɔˌʔɔ.pɪ.t͡sɛ/
 být fuč	/ˈbiːtˌfʊt͡ʃ/
-být hubený jak lunt	/'biːt 'ɦʊbɛniː 'jak 'lʊnt/
-být hubený jak vyžle	/'biːt 'ɦʊbɛniː 'jak 'vɪʒlɛ/
-být hubený jako vyžle	/'biːt 'ɦʊbɛniː 'jakɔ 'vɪʒlɛ/
+být hubený jak lunt	/ˈbiːt ˈɦʊbɛniː ˈjak ˈlʊnt/
+být hubený jak vyžle	/ˈbiːt ˈɦʊbɛniː ˈjak ˈvɪʒlɛ/
+být hubený jako vyžle	/ˈbiːt ˈɦʊbɛniː ˈjakɔ ˈvɪʒlɛ/
 být jako oukropeček	/biːt jakɔ ɔʊ̯krɔpɛt͡ʃɛk/
 být jedno velké ucho	/ˈbiːt ˈjɛdnɔ ˈvɛlkɛː ˈʔʊxɔ/
 být jednou nohou v hrobě	/ˈbiːt ˈɪ̯ɛdnɔʊ̯ ˈnɔɦɔʊ̯ ˈvɦrɔbjɛ/
@@ -9523,10 +9523,10 @@ být ta tam	/ˈbiːtˌta tam/
 být tatam	/ˈbiːtˌta.tam/
 být ten tam	/ˈbiːtˌtɛn tam/
 být tentam	/ˈbiːtˌtɛn.tam/
-být tlustý jak prase	/'biːt 'tlʊstiː 'jak 'prasɛ/
-být tlustý jak vepř	/'biːt 'tlʊstiː 'jak 'vɛpr̝̊/
-být tlustý jako prase	/'biːt 'tlʊstiː 'jakɔ 'prasɛ/
-být tlustý jako vepř	/'biːt 'tlʊstiː 'jakɔ 'vɛpr̝̊/
+být tlustý jak prase	/ˈbiːt ˈtlʊstiː ˈjak ˈprasɛ/
+být tlustý jak vepř	/ˈbiːt ˈtlʊstiː ˈjak ˈvɛpr̝̊/
+být tlustý jako prase	/ˈbiːt ˈtlʊstiː ˈjakɔ ˈprasɛ/
+být tlustý jako vepř	/ˈbiːt ˈtlʊstiː ˈjakɔ ˈvɛpr̝̊/
 být v hajzlu	/biːt f ɦajzlʊ/
 být v limbu	/ˈbiːtˌvlɪm.bʊ/
 být v prdeli	/biːt f pr̩dɛlɪ/
@@ -9534,10 +9534,10 @@ být v ráži	/biːt ˈvraːʒɪ/
 být v trapu	/ˈbiːtˌftra.pʊ/
 být z drážďan, ne z berouna	/ˈbiːt ˈzdraːʒɟan ʔˈa ˈnɛ ˈʔɔdbɛrɔʊ̯na/
 být za hranou	/biːt za ɦranɔʊ̯/
-být zvědavý jak opice	/'biːtˌzvjɛ.da.viː 'jaˌkɔ.pɪ.t͡sɛ/
-být zvědavý jak opice	/'biːtˌzvjɛ.da.viː 'jakˌʔɔ.pɪ.t͡sɛ/
-být zvědavý jako opice	/'biːtˌzvjɛ.da.viː 'ja.kɔˌɔ.pɪ.t͡sɛ/
-být zvědavý jako opice	/'biːtˌzvjɛ.da.viː 'ja.kɔˌʔɔ.pɪ.t͡sɛ/
+být zvědavý jak opice	/ˈbiːtˌzvjɛ.da.viː ˈjaˌkɔ.pɪ.t͡sɛ/
+být zvědavý jak opice	/ˈbiːtˌzvjɛ.da.viː ˈjakˌʔɔ.pɪ.t͡sɛ/
+být zvědavý jako opice	/ˈbiːtˌzvjɛ.da.viː ˈja.kɔˌɔ.pɪ.t͡sɛ/
+být zvědavý jako opice	/ˈbiːtˌzvjɛ.da.viː ˈja.kɔˌʔɔ.pɪ.t͡sɛ/
 býti	/biːcɪ/
 býti na jedno brdo	/ˈbiːcɪ ˈnajɛdnɔ ˈbr̩dɔ/
 bývají	/bˈiːvajiː/
@@ -9910,7 +9910,7 @@ c	/t͡sɛː/
 cab	/tsap/
 cab	/t͡sap/
 cabit	/tsabɪt/
-cabit	/'t͡sa.bɪt/
+cabit	/ˈt͡sa.bɪt/
 cache	/kɛʃ/
 cad	/ˈkɛt/
 cadik	/tsaɟɪk/
@@ -10030,9 +10030,9 @@ casnovat	/t͡sasnɔvat/
 casný	/tsˈasniː/
 casný	/t͡sasniː/
 castrismus	/kastrɪzmus/
-castrismus	/'kastrɪzmʊs/
+castrismus	/ˈkastrɪzmʊs/
 castrizmus	/kastrɪzmus/
-castrizmus	/'kastrɪzmʊs/
+castrizmus	/ˈkastrɪzmʊs/
 catering	/kɛtɛrɪnk/
 catering	/kɛtɛrɪŋk/
 caudillismus	/kaudɪlɪzmus/
@@ -11461,7 +11461,7 @@ cider	/ˈsɪːdr/
 cidlina	/tsɪdlɪna/
 cidlina	/t͡sɪdlɪna/
 ciferník	/tsɪfɛrɲiːk/
-ciferník	/'t͡sɪ.fɛr.ɲiːk/
+ciferník	/ˈt͡sɪ.fɛr.ɲiːk/
 cifra	/tsɪfra/
 cifra	/t͡sɪfra/
 cigaret	/tsɪgarɛt/
@@ -11521,7 +11521,7 @@ cikánův	/tsɪkaːnuːf/
 cikánův	/t͡sɪkaːnuːf/
 cil	/tsɪl/
 cimbál	/ˈt͡sɪmbaːl/
-cimprcampr	/'t͡sɪm.prˌt͡sam.pr/
+cimprcampr	/ˈt͡sɪm.prˌt͡sam.pr/
 cimprlich	/t͡sɪmpr̩lɪx/
 cimra	/tsɪmra/
 cimra	/ˈt͡sɪmra/
@@ -13460,7 +13460,7 @@ diaspora	/dɪjaspɔra/
 diastola	/dɪjastola/
 diastola	/dɪjastɔla/
 dick	/dɪk/
-dick	/'dɪk/
+dick	/ˈdɪk/
 diegetický	/dɪjɛgɛtɪtskiː/
 diegetický	/dɪjɛgɛtɪt͡skiː/
 diem	/dɪjɛm/
@@ -13891,12 +13891,12 @@ do	/do/
 do	/dɔ/
 do hajzlu	/dɔ ɦajzlʊ/
 do hrdel a statků	/dɔ ɦr̩dɛl a statkuː/
-do mrtě	/'dɔ.mr̩.cɛ/
+do mrtě	/ˈdɔ.mr̩.cɛ/
 do nebe volající	/ˈdɔ‿nɛbɛ ˌvɔlajiːt͡siː/
 do očí bijící	/ˈdɔ‿ʔɔt͡ʃiː ˌbɪjiːt͡siː/
 do piče	/dɔ pɪt͡ʃe/
 do piči	/dɔ pɪt͡ʃɪ/
-do poslední mrtě	/'dɔ.pɔ.slɛ.dɲiː 'mr̩.cɛ/
+do poslední mrtě	/ˈdɔ.pɔ.slɛ.dɲiː ˈmr̩.cɛ/
 do prčic	/ˈdɔ‿prt͡ʃɪt͡s/
 do píči	/dɔ piːt͡ʃɪ/
 do roztrhání těla	/ˈdɔrɔstr̩ɦaːɲiː ˈcɛla/
@@ -15222,10 +15222,10 @@ dožít	/doʒiːt/
 dožít	/dɔʒiːt/
 dožít se	/ˈdɔʒiːt‿sɛ/
 dph	/dɛːpɛːɦaː/
-dpmb	/'dɛː 'pɛː 'ɛm 'bɛː/
-dpp	/'dɛː 'pɛː 'pɛː/
+dpmb	/ˈdɛː ˈpɛː ˈɛm ˈbɛː/
+dpp	/ˈdɛː ˈpɛː ˈpɛː/
 dps	/ˈdɛː ˈpɛː ˈɛs/
-dpč	/'dəpət͡ʃə/
+dpč	/ˈdəpət͡ʃə/
 dpč	/dɛː pɛː t͡ʃɛː/
 dra	/drˈa/
 dra	/dra/
@@ -15717,7 +15717,7 @@ držíc	/dr̩ʒiːt͡s/
 držící	/ˈdr̩.ʒiː.t͡siː/
 dsky	/tskɪ/
 dsky	/t͡skɪ/
-dsp	/'dɛː 'ɛs 'pɛː/
+dsp	/ˈdɛː ˈɛs ˈpɛː/
 dsps	/ˈdɛː ˈɛs ˈpɛː ˈɛs/
 dtto	/dɛtɔ/
 du	/dˈu/
@@ -16434,7 +16434,7 @@ dycky	/dɪt͡skɪ/
 dyje	/dɪjɛ/
 dyjský	/dɪjskiː/
 dyk	/dɪk/
-dyk	/'dɪk/
+dyk	/ˈdɪk/
 dykyta	/dɪkɪta/
 dylina	/dɪlɪna/
 dylina	/ˈdɪlɪna/
@@ -17280,7 +17280,7 @@ echolokace	/ɛxolokatsɛ/
 echolokace	/ɛxɔlɔkat͡sɛ/
 echový	/ɛxoviː/
 echový	/ɛxɔviː/
-echt	/'ʔɛxt/
+echt	/ˈʔɛxt/
 eco	/ɛko/
 eco	/ɛkɔ/
 eden	/ɛdɛn/
@@ -17308,7 +17308,7 @@ editorku	/ˈʔɛdɪtɔrkʊ/
 edometr	/ɛdomɛtr/
 edometr	/ɛdɔmɛtr/
 edoušek	/ʔɛdouʃɛk/
-edoušek	/'ʔɛdoʊ̯ʃɛk/
+edoušek	/ˈʔɛdoʊ̯ʃɛk/
 eduard	/ɛduart/
 eduard	/ɛdʊart/
 eduardův	/ɛduarduːf/
@@ -17508,7 +17508,7 @@ elativ	/ˈʔɛlatɪf/
 elbrus	/ɛlbrus/
 elbrus	/ɛlbrʊs/
 eldorádo	/ɛldoraːdo/
-eldorádo	/'ɛldɔraːdɔ/
+eldorádo	/ˈɛldɔraːdɔ/
 ele	/ɛlɛ/
 elegický	/ɛlɛgɪtskiː/
 elegický	/ˈɛlɛgɪt͡skiː/
@@ -18956,7 +18956,7 @@ fašánek	/faʃaːnɛk/
 fašírovaný	/fˈaʃiːrˌovaniː/
 fašírovaný	/faʃiːrɔvaniː/
 fc	/ɛftsɛː/
-fc	/'ɛf't͡sɛː/
+fc	/ˈɛfˈt͡sɛː/
 febrilní	/fɛbrɪlɲiː/
 febrilní	/fɛbr̩ɪlɲiː/
 federace	/fɛdɛratsɛ/
@@ -19085,7 +19085,7 @@ feťačce	/fɛcat͡ʃ.t͡sɛ/
 feťák	/fɛcaːk/
 feťák	/ˈfɛcaːk/
 ff	/ɛfɛf/
-fi	/'fɪ/
+fi	/ˈfɪ/
 fiakr	/fɪjakr/
 fiakrista	/fɪja̯krɪsta/
 fiala	/fɪjala/
@@ -19824,21 +19824,21 @@ franský	/frˈanskiː/
 franský	/franskiː/
 franta	/ˈfran.ta/
 františek	/francɪʃɛk/
-františek	/'francɪʃɛk/
+františek	/ˈfrancɪʃɛk/
 františek	/ˈfrancɪʃɛk/
 františka	/francɪʃka/
-františka	/'francɪʃka/
+františka	/ˈfrancɪʃka/
 františkovi	/francɪʃkovɪ/
-františkovi	/'francɪʃkɔvɪ/
+františkovi	/ˈfrancɪʃkɔvɪ/
 františkovy	/francɪʃkovɪ/
-františkovy	/'francɪʃkɔvɪ/
+františkovy	/ˈfrancɪʃkɔvɪ/
 františkovy lázně	/francɪʃkɔvɪ laːzɲɛ/
 františku	/francɪʃku/
-františku	/'francɪʃkʊ/
+františku	/ˈfrancɪʃkʊ/
 františky	/francɪʃkɪ/
-františky	/'francɪʃkɪ/
+františky	/ˈfrancɪʃkɪ/
 františkův	/francɪʃkuːf/
-františkův	/'francɪʃkuːf/
+františkův	/ˈfrancɪʃkuːf/
 františčin	/francɪʃt͡ʃɪn/
 frantovy lázně	/frantɔvɪ laːzɲɛ/
 frantík	/frˈanciːk/
@@ -20971,7 +20971,7 @@ grand	/grant/
 grande	/grandɛ/
 granit	/granɪt/
 grant	/grant/
-grant	/'grant/
+grant	/ˈgrant/
 granulom	/granulom/
 granulom	/granʊlɔm/
 granát	/granaːt/
@@ -21576,7 +21576,7 @@ hanušův	/ɦanuʃuːf/
 hanušův	/ɦanʊʃuːf/
 hanzlíčkův	/ˈɦan.zliːt͡ʃ.kuːf/
 haná	/ɦanaː/
-haná	/'ɦanaː/
+haná	/ˈɦanaː/
 hanák	/ɦanaːk/
 hané	/ɦanɛː/
 haní	/ɦaɲiː/
@@ -22325,7 +22325,7 @@ hitlerův	/ɦɪtlɛruːf/
 hitmaker	/ˈɦɪt.mɛj.kr̩/
 hitmakera	/ɦɪtmɛjkra/
 hiv	/ɦaːiːvɛː/
-hiv	/'ɦaː 'iː 'vɛː/
+hiv	/ˈɦaː ˈiː ˈvɛː/
 hizballáh	/ɦɪzballaːx/
 hiát	/ɦɪjaːt/
 hiát	/ˈɦɪjaːt/
@@ -22578,7 +22578,7 @@ hložek	/ˈɦlɔ.ʒɛk/
 hložinka	/ɦloʒɪnka/
 hložinka	/ɦlɔʒɪŋka/
 hlt	/ɦlt/
-hlt	/'ɦl̩t/
+hlt	/ˈɦl̩t/
 hltan	/ɦltan/
 hltan	/ɦl̩tan/
 hltanový	/ɦltanoviː/
@@ -22735,7 +22735,7 @@ hmoty	/ɦmo.tɪ/
 hmoždinka	/ɦmoʒɟɪnka/
 hmoždinka	/ɦmɔʒɟɪŋka/
 hmu	/ɦaːɛmuː/
-hmu	/'ɦaː'ɛm'uː/
+hmu	/ˈɦaːˈɛmˈuː/
 hmyz	/ɦmɪs/
 hmyzem	/ɦmɪzɛm/
 hmyzozpyt	/ɦmɪzɔspɪt/
@@ -23533,7 +23533,7 @@ horoucí	/ɦɔrɔʊ̯t͡siː/
 horovat	/ɦɔrɔvat/
 horskou	/ɦorskou/
 horskou	/ɦɔrskɔʊ̯/
-horská dráha	/'ɦɔrskaː draːɦa/
+horská dráha	/ˈɦɔrskaː draːɦa/
 horské	/ɦorskɛː/
 horské	/ɦɔrskɛː/
 horský	/ɦorskiː/
@@ -23887,9 +23887,9 @@ hošánkův	/ˈɦɔ.ʃaːŋkuːf/
 hošík	/ɦoʃiːk/
 hošík	/ɦɔʃiːk/
 hpo	/ɦaːpɛoː/
-hpo	/'ɦaː'pɛ'oː/
+hpo	/ˈɦaːˈpɛˈoː/
 hpp	/ɦaːpɛːpɛː/
-hpp	/'ɦaː 'pɛː 'pɛː/
+hpp	/ˈɦaː ˈpɛː ˈpɛː/
 hr	/ɦr/
 hr	/ɦr̩/
 hra	/ɦra/
@@ -24261,7 +24261,7 @@ hrubě	/ɦrubjɛ/
 hrubě	/ɦrʊbjɛ/
 hrubší	/ɦrupʃiː/
 hrubší	/ɦrʊpʃiː/
-hrud	/'ɦrʊt/
+hrud	/ˈɦrʊt/
 hruden	/ˈɦrʊdɛn/
 hrudka	/ɦrutka/
 hrudka	/ɦrʊtka/
@@ -24274,7 +24274,7 @@ hrudní koš	/ɦrʊdɲiː kɔʃ/
 hrudník	/ɦrudɲiːk/
 hrudník	/ɦrʊdɲiːk/
 hruď	/ɦruc/
-hruď	/'ɦrʊc/
+hruď	/ˈɦrʊc/
 hrušeň	/ɦruʃɛɲ/
 hrušeň	/ɦrʊʃɛɲ/
 hrušeň planá	/ɦrʊʃɛɲ planaː/
@@ -24291,7 +24291,7 @@ hruštička	/ɦrʊʃcɪt͡ʃka/
 hrušňový	/ɦruʃɲoviː/
 hrušňový	/ˈɦrʊʃɲɔviː/
 hruť	/ɦruc/
-hruť	/'ɦrʊc/
+hruť	/ˈɦrʊc/
 hrvdm	/ˈɦaː ˈɛr ˈvɛː ˈdɛː ˈɛm/
 hryzot	/ˈɦrɪ.zɔt/
 hrzánová	/ˈɦr̩zaːnɔvaː/
@@ -24307,7 +24307,7 @@ hrál	/ɦraːl/
 hrála	/ɦraːla/
 hrána	/ɦraːna/
 hrát	/ɦraːt/
-hrát druhé housle	/ˈɦraːt 'drʊ.ɦɛː 'ɦɔʊ̯.slɛ/
+hrát druhé housle	/ˈɦraːt ˈdrʊ.ɦɛː ˈɦɔʊ̯.slɛ/
 hrát druhé housle	/ˈɦraː.drʊ.ɦɛːˌɦɔʊ̯.slɛ/
 hrát na honěnou	/ɦraːt ˈnaɦɔɲɛnɔʊ̯/
 hrát na prodávanou	/ɦraːt ˈnaprɔdaːvanɔʊ̯/
@@ -25574,7 +25574,7 @@ inkoust	/ɪŋkɔʊ̯st/
 inkoust	/ɪŋgɔʊ̯st/
 inkoustová kazeta	/ˈɪinkɔʊstɔvaːˈkazɛta/
 inkrementace	/ɪnkrɛmɛntatsɛ/
-inkrementace	/'ɪŋkrɛmɛntat͡sɛ/
+inkrementace	/ˈɪŋkrɛmɛntat͡sɛ/
 inkubace	/ɪnkubatsɛ/
 inkubace	/ɪŋkʊbat͡sɛ/
 inkubátor	/ɪnkubaːtor/
@@ -25916,7 +25916,7 @@ irska	/ɪrska/
 irsko	/ɪrsko/
 irsko	/ɪrskɔ/
 irsky	/ɪrskɪ/
-irská káva	/'ɪrskaː 'kaːva/
+irská káva	/ˈɪrskaː ˈkaːva/
 irské	/ɪrskɛː/
 irské moře	/ɪrskɛː mɔr̝ɛ/
 irský	/ɪrskiː/
@@ -26154,7 +26154,7 @@ jablonecký	/jablonɛtskiː/
 jablonecký	/jablɔnɛt͡skiː/
 jabloň	/jˈabloɲ/
 jabloň	/jablɔɲ/
-jabloň domácí	/'jablɔɲ 'dɔmaːt͡siː/
+jabloň domácí	/ˈjablɔɲ ˈdɔmaːt͡siː/
 jabloňový	/jˈabloɲˌoviː/
 jabloňový	/jablɔɲɔviː/
 jablunkov	/jablunkof/
@@ -26230,7 +26230,7 @@ jako	/ˈjakɔ/
 jako by se nechumelilo	/ˈjakɔbɪ sɛ ˈnɛxʊmɛlɪlɔ/
 jako kdybys to vytáhl krávě z prdele	/ˈjakɔ ˈgdɪbɪs tɔ ˈvɪtaːhl̩ ˈkraːvjɛ ˈspr̩dɛlɛ/
 jako na potvoru	/ˈjakɔ ˈna‿pɔtvɔrʊ/
-jako prase	/'jakɔ 'prasɛ/
+jako prase	/ˈjakɔ ˈprasɛ/
 jako rybička	/ˈjakɔ ˈrɪbɪt͡ʃka/
 jakoby	/jakobɪ/
 jakoby	/jakɔbɪ/
@@ -27495,7 +27495,7 @@ jinonickém	/jɪnɔɲɪt͡skɛːm/
 jinonický	/jɪnoɲɪtskiː/
 jinonický	/jɪnɔɲɪt͡skiː/
 jinovatka	/jɪnovatka/
-jinovatka	/'jɪnɔvatka/
+jinovatka	/ˈjɪnɔvatka/
 jinověrec	/jɪnovjɛrɛts/
 jinověrec	/jɪnɔvjɛrɛt͡s/
 jinošík	/jɪnoʃiːk/
@@ -29725,7 +29725,7 @@ kdo jinému jámu kopá, sám do ní padá	/ˈgdɔ ˈi̯ɪnɛːmʊ ˈɪ̯aːmʊ 
 kdo maže, ten jede	/gdɔ maʒɛ, tɛn jɛdɛ/
 kdo po tobě kamenem, ty po něm chlebem	/ˈgdɔ ˈpɔ‿tɔbjɛ ˈkamɛnɛm, ˈtɪ ˈpɔ‿ɲɛm ˈxlɛbɛm/
 kdo rychle dává, dvakrát dává	/ˈgdɔ ˈrɪxlɛ ˈdaːvaː ˈdvakraːt ˈdaːvaː/
-kdo s koho	/'gdɔ 'skɔɦɔ/
+kdo s koho	/ˈgdɔ ˈskɔɦɔ/
 kdo se jednou spálil, i na studené fouká	/ˈgdɔsɛ ˈjɛdnɔʊ̯ ˈspaːlɪl ˀˈɪ ˈnastʊdɛnɛː ˈfɔʊ̯kaː/
 kdo se ptá, nerad dá	/ˈgdosɛ ˈptaː ˈnɛrat ˈdaː/
 kdo seje vítr, sklízí bouři	/ˈgdɔˌsɛjɛ ˈviːtr ˈskliːziː ˈbɔʊ̯r̝ɪ/
@@ -30172,7 +30172,7 @@ klavír	/klaviːr/
 klavírista	/klaviːrɪsta/
 klavírní	/klˈaviːrɲiː/
 klavírní	/klaviːrɲiː/
-kldr	/'kaː 'ɛl 'dɛː 'ɛr/
+kldr	/ˈkaː ˈɛl ˈdɛː ˈɛr/
 klec	/klɛts/
 klec	/klɛt͡s/
 klece	/klɛtsɛ/
@@ -30508,7 +30508,7 @@ klukovinám	/klʊkɔvɪnaːm/
 klukovině	/klukovɪɲɛ/
 klukovině	/klʊkɔvɪɲɛ/
 kluku	/ˈklʊku/
-klump	/'klʊɱp/
+klump	/ˈklʊɱp/
 klus	/klˈus/
 klus	/ˈklʊs/
 klusák	/klˈusaːk/
@@ -30996,7 +30996,7 @@ kojit	/ˈkɔɪ̯ɪt/
 kojná	/kˈojnaː/
 kojná	/ˈkɔj.naː/
 kojné	/kojnɛː/
-kojné	/'kɔjnɛː/
+kojné	/ˈkɔjnɛː/
 kojot	/kˈojot/
 kojot	/ˈkɔ.jɔt/
 kojotí	/kˈojociː/
@@ -36306,7 +36306,7 @@ legátský	/lɛgaːtskiː/
 legíny	/lɛgiːnɪ/
 legíny	/ˈlɛgiːnɪ/
 leh	/lɛx/
-leh	/'lɛx/
+leh	/ˈlɛx/
 lehajíc	/lɛɦajiːts/
 lehajíc	/lɛɦajiːt͡s/
 lehajíce	/ˈlɛ.ɦa.jiː.t͡sɛ/
@@ -36963,10 +36963,10 @@ libro	/lɪbro/
 libro	/lɪbrɔ/
 libujíce si	/lɪbʊjiːt͡sɛ sɪ/
 libuš	/lɪbuʃ/
-libuš	/'lɪbʊʃ/
+libuš	/ˈlɪbʊʃ/
 libušce	/lɪbʊʃt͡sɛ/
 libuše	/lɪbuʃɛ/
-libuše	/'lɪbʊʃɛ/
+libuše	/ˈlɪbʊʃɛ/
 libušek	/lɪbʊʃɛk/
 libušin	/lɪbuʃɪn/
 libušina	/lɪbuʃɪna/
@@ -37162,7 +37162,7 @@ lilča	/ˈlɪl.t͡ʃa/
 lima	/lɪma/
 limb	/lɪmp/
 limba	/lɪmba/
-limba	/'lɪmba/
+limba	/ˈlɪmba/
 limbursky	/lɪmburskɪ/
 limbursky	/lɪmbʊrskɪ/
 limbus	/lɪmbus/
@@ -37543,7 +37543,7 @@ lojovice	/lojovɪtsɛ/
 lojovice	/lɔjɔvɪt͡sɛ/
 lojzův	/ˈlɔɪ̯zuːf/
 lok	/lˈok/
-lok	/'lɔk/
+lok	/ˈlɔk/
 loka	/lˈoka/
 loka	/ˈlɔka/
 lokace	/lokatsɛ/
@@ -38101,7 +38101,7 @@ lunný	/lʊniː/
 luno	/lˈuno/
 luno	/lʊnɔ/
 lunt	/lˈunt/
-lunt	/'lʊnt/
+lunt	/ˈlʊnt/
 lunula	/lˈunula/
 lunula	/lʊnʊla/
 lunám	/lˈunaːm/
@@ -39601,7 +39601,7 @@ maratónský	/mˈaratˌoːnskiː/
 maratónský	/maratɔːnskiː/
 marcel	/mart͡sɛl/
 marcela	/martsɛla/
-marcela	/'mart͡sɛla/
+marcela	/ˈmart͡sɛla/
 marcelin	/mart͡sɛlɪn/
 marcelův	/mart͡sɛluːf/
 marcipán	/martsɪpaːn/
@@ -40912,7 +40912,7 @@ mihnuvší se	/ˈmɪɦnʊfʃiː‿sɛ/
 mihule potoční	/ˈmiɦʊlɛ ˈpɔtɔt͡ʃɲiː/
 mijazaki	/mɪjazakɪ/
 mike	/majk/
-mike	/'majk/
+mike	/ˈmajk/
 mikina	/mɪkɪna/
 mikloš	/mɪkloʃ/
 mikloš	/mɪklɔʃ/
@@ -41086,7 +41086,7 @@ milodar	/mɪlɔdar/
 miloslav	/mɪloslaf/
 miloslav	/mɪlɔslaf/
 miloslava	/mɪloslava/
-miloslava	/'mɪlɔslava/
+miloslava	/ˈmɪlɔslava/
 miloslavin	/mɪloslavɪn/
 milosrdenství	/mɪlɔsr̩dɛnstviː/
 milosrdný	/mɪlosrdniː/
@@ -42149,7 +42149,7 @@ molů	/mɔluː/
 molům	/mˈoluːm/
 molům	/mɔluːm/
 moment	/momɛnt/
-moment	/'mɔmɛnt/
+moment	/ˈmɔmɛnt/
 momentálně	/momɛntaːlɲɛ/
 momentálně	/mɔmɛntaːlɲɛ/
 momentě	/momɛncɛ/
@@ -42816,7 +42816,7 @@ mrdna	/mrdna/
 mrdna	/mr̩dna/
 mrdnout	/mrdnout/
 mrdnout	/mr̩dnɔʊ̯t/
-mrdnutý	/mrdnuti'/
+mrdnutý	/mrdnutiˈ/
 mrdník	/mrdɲiːk/
 mrdník	/mr̩dɲiːk/
 mrdá	/ˈmr̩.daː/
@@ -42893,7 +42893,7 @@ mrtvých	/mrtviːx/
 mrtvých	/mr̩tviːx/
 mrtvými	/mrtviːmɪ/
 mrtvými	/mr̩tviːmɪ/
-mrtě	/'mr̩.cɛ/
+mrtě	/ˈmr̩.cɛ/
 mručet	/mrutʃɛt/
 mručet	/mrʊtʃɛt/
 mrv	/mrf/
@@ -43964,7 +43964,7 @@ městskou	/mɲɛstskou/
 městskou	/mɲɛst͡skɔʊ̯/
 městská	/mɲɛstskaː/
 městská	/mɲɛst͡skaː/
-městská část	/'mɲɛst͡skaː 't͡ʃaːst/
+městská část	/ˈmɲɛst͡skaː ˈt͡ʃaːst/
 městské	/mɲɛstskɛː/
 městské	/mɲɛst͡skɛː/
 městského	/mɲɛstskɛːɦo/
@@ -43973,7 +43973,7 @@ městský	/mɲɛstskiː/
 městský	/mɲɛst͡skiː/
 městský	/mjɛst͡skiː/
 městský	/mɲɛskiː/
-městský obvod	/'mɲɛst͡skiː 'ɔbvɔt/
+městský obvod	/ˈmɲɛst͡skiː ˈɔbvɔt/
 městský stát vatikán	/mɲɛstskiː staːt vatɪkaːn/
 městský úřad	/mɲɛst͡skiː uːr̝at/
 městu	/mɲɛstʊ/
@@ -44137,7 +44137,7 @@ mžíti	/mʒiːcɪ/
 na	/na/
 na beton	/na bɛtɔn/
 na buben	/na bʊbɛn/
-na cimprcampr	/'na 't͡sɪm.prˌt͡sam.pr/
+na cimprcampr	/ˈna ˈt͡sɪm.prˌt͡sam.pr/
 na cizí útraty	/ˈna‿t͡sɪziː ˈʔuːtratɪ/
 na druhou	/na drʊɦɔʊ̯/
 na hodinu	/na ɦɔɟɪnʊ/
@@ -44162,7 +44162,7 @@ na svatého dyndy	/ˈnasvatɛːɦɔ ˈdɪndɪ/
 na svatého řehoře šelma sedlák, který neoře	/ˈna‿svatɛːɦɔ ˈr̝ɛɦɔr̝ɛ ˈʃɛlma ˈsɛdlaːk ˈktɛriː ˈnɛˀɔr̝ɛ/
 na vlastní pěst	/navlastɲiːpjɛst/
 na zadka	/ˈnazatka/
-na zdraví	/'nazdraviː/
+na zdraví	/ˈnazdraviː/
 na úkor	/ˈna‿ʔuːkɔr/
 naan	/naːn/
 nabagrovat	/nabagrovat/
@@ -45197,7 +45197,7 @@ nať	/nac/
 nažloutlý	/naʒloutliː/
 nažloutlý	/naʒlɔʊ̯tliː/
 ncb	/ɛntsɛːbɛː/
-ncb	/'ɛn 'tsɛː 'bɛː/
+ncb	/ˈɛn ˈtsɛː ˈbɛː/
 ne	/nɛ/
 ne	/ˈnɛ/
 ne asi	/nɛ asɪ/
@@ -45298,7 +45298,7 @@ necelý	/nɛtsɛliː/
 necelý	/nɛt͡sɛliː/
 necelými	/nɛt͡sɛliːmɪ/
 nech	/nɛx/
-nech	/'nɛx/
+nech	/ˈnɛx/
 nechaje	/nɛxajɛ/
 nechají	/ˈnɛxajiː/
 nechajíce	/nɛxajiːtsɛ/
@@ -45488,7 +45488,7 @@ nedůležitost	/nɛduːlɛʒɪtɔst/
 nedůvodné	/nɛduːvodnɛː/
 nedůvodné	/nɛduːvɔdnɛː/
 nedůvěra	/nɛduːvjɛra/
-nedůvěra	/'nɛduːvjɛra/
+nedůvěra	/ˈnɛduːvjɛra/
 nedůvěryhodnost	/nɛduːvjɛrɪɦɔdnɔst/
 neejakulující	/ˈnɛ.ʔɛ.ja.kʊ.lʊ.jiː.t͡siː/
 neejakulující	/ˈnɛ.ɛ.ja.kʊ.lʊ.jiː.t͡siː/
@@ -47006,7 +47006,7 @@ nevoli	/nɛvolɪ/
 nevoli	/ˈnɛ.vɔ.lɪ/
 nevolitelnost	/nɛvolɪtɛlnost/
 nevolitelnost	/nɛvɔlɪtɛlnɔst/
-nevolky	/'vɔl.kɪ/
+nevolky	/ˈvɔl.kɪ/
 nevolnost	/nɛvolnost/
 nevolnost	/nɛvɔlnɔst/
 nevolností	/nɛvolnosciː/
@@ -47362,7 +47362,7 @@ nich	/ɲɪx/
 nichž	/ɲɪxʃ/
 nichž	/ˈɲɪxʃ/
 nick	/nɪk/
-nick	/'nɪk/
+nick	/ˈnɪk/
 nicka	/ɲɪt͡ska/
 nicméně	/ɲɪtsmɛːɲɛ/
 nicméně	/ɲɪt͡smɛːɲɛ/
@@ -47370,7 +47370,7 @@ nicméně	/ɲɪd͡zmɛːɲɛ/
 nicnedělání	/ˈɲɪt͡sˌnɛ.ɟɛ.laː.ɲiː/
 nidace	/nɪdatsɛ/
 niedermayer	/niːdrmajɛr/
-niedermayer	/'niːdr̩majɛr/
+niedermayer	/ˈniːdr̩majɛr/
 niger	/nɪgɛr/
 nigerijec	/nɪgɛrɪjɛt͡s/
 nigerijka	/nɪgɛrɪjka/
@@ -47555,7 +47555,7 @@ nocebo	/ˈnɔt͡sɛbɔ/
 nocemi	/nɔt͡sɛmɪ/
 noci	/notsɪ/
 noci	/nɔt͡sɪ/
-nocleh	/'nɔ.t͡slɛx/
+nocleh	/ˈnɔ.t͡slɛx/
 nocovala	/nˈotsovˌala/
 nocovala	/nɔt͡sɔvala/
 nocoviště	/ˈnɔ.t͡sɔ.vɪ.ʃcɛ/
@@ -50038,7 +50038,7 @@ od	/ˈʔɔːdɛː/
 od	/ˈʔɔt/
 od	/ˈʔɔd/
 od aše až po čiernou nad tisou	/ɔt aʃɛ aʃ pɔ t͡ʃɪjɛrnɔʊ̯ nat cɪsɔʊ̯/
-od cesty	/'ɔt.t͡sɛstɪ/
+od cesty	/ˈɔt.t͡sɛstɪ/
 od hodiny	/ˈɔdˌɦɔɟɪnɪ/
 od mala	/ˈʔɔdmala/
 od té doby	/ˈɔttɛːˌdɔbɪ/
@@ -50277,7 +50277,7 @@ odhadnouti	/ɔdɦadnɔʊ̯cɪ/
 odhadnuta	/odɦadnuta/
 odhadnuta	/ɔdɦadnʊta/
 odhadní	/odɦadɲiː/
-odhadní	/'ɔdɦadɲiː/
+odhadní	/ˈɔdɦadɲiː/
 odhadovali	/ɔdɦadɔvalɪ/
 odhadovaného	/ɔdɦadɔvanɛːɦɔ/
 odhadovaný	/ˈʔɔdɦadɔvaniː/
@@ -51307,7 +51307,7 @@ okurkový	/ˈokurkˌoviː/
 okurkový	/ɔkʊrkɔviː/
 okurčička	/okurtʃɪtʃka/
 okurčička	/ɔkʊrt͡ʃɪt͡ʃka/
-okus	/'ɔkʊs/
+okus	/ˈɔkʊs/
 okvětní	/ɔkvjɛtɲiː/
 okysličitelnost	/ɔkɪslɪt͡ʃɪtɛlnɔst/
 okázalý	/ɔkaːzaliː/
@@ -51802,7 +51802,7 @@ operativní	/ɔpɛracɪvɲiː/
 operační	/opɛratʃɲiː/
 operační	/ɔpɛrat͡ʃɲiː/
 operační paměť	/opɛrat͡ʃɲiːpamɲɛc/
-operační systém	/'ɔpɛrat͡ʃɲiː 'sɪstɛːm/
+operační systém	/ˈɔpɛrat͡ʃɲiː ˈsɪstɛːm/
 operačnímu	/ɔpɛrat͡ʃɲiːmʊ/
 operní	/opɛrɲiː/
 operní	/ɔpɛrɲiː/
@@ -51856,7 +51856,7 @@ opičí	/opɪtʃiː/
 opičí	/ɔpɪt͡ʃiː/
 opičí láska	/ɔpɪt͡ʃiː laːska/
 opiš	/opɪʃ/
-opiš	/'ɔpɪʃ/
+opiš	/ˈɔpɪʃ/
 opkód	/ɔpkɔːt/
 oplachovací	/ɔplaxɔvat͡siː/
 oplatce	/ʔɔplat.t͡sɛ/
@@ -52095,7 +52095,7 @@ opylovač	/ɔpɪlɔvat͡ʃ/
 opyluje	/opɪlujɛ/
 opyluje	/ɔpɪlʊjɛ/
 opyš	/ʔopɪʃ/
-opyš	/'ʔɔpɪʃ/
+opyš	/ˈʔɔpɪʃ/
 opál	/ˈopaːl/
 opál	/ˈʔɔ.paːl/
 opálka	/ˈopaːlka/
@@ -52301,7 +52301,7 @@ orkán	/ɔrkaːn/
 orlice	/orlɪtsɛ/
 orlice	/ɔrlɪt͡sɛ/
 orlickoalbrechtický	/orlɪtskoalbrɛxcɪtskiː/
-orlickoalbrechtický	/'ɔrlɪt͡skɔalbrɛxcɪt͡skiː/
+orlickoalbrechtický	/ˈɔrlɪt͡skɔalbrɛxcɪt͡skiː/
 orlickoústecko	/ʔorlɪtskoʔuːstɛtsko/
 orlickoústecko	/ˈʔɔr.lɪt͡s.kɔˌʔuː.stɛ.t͡skɔ/
 orlickoústecko	/ˈʔɔr.lɪt͡s.kɔˌuː.stɛ.t͡skɔ/
@@ -55635,7 +55635,7 @@ pečení	/ˈpɛt͡ʃɛɲiː/
 pečený	/pɛtʃɛniː/
 pečený	/pɛt͡ʃɛniː/
 pečeně	/pɛtʃɛɲɛ/
-pečeně	/p'ɛt͡ʃɛɲɛ/
+pečeně	/pˈɛt͡ʃɛɲɛ/
 pečetidlo	/pɛtʃɛcɪdlo/
 pečetidlo	/pɛt͡ʃɛcɪdlɔ/
 pečeť	/pɛtʃɛc/
@@ -55685,7 +55685,7 @@ phishingové	/ˈfɪ.ʃɪŋ.gɔ.vɛː/
 phishingový	/ˈfɪ.ʃɪŋ.gɔ.viː/
 phnompenh	/pnompɛn/
 phnompenh	/pnɔmpɛn/
-php	/'pɛː 'ɦaː 'pɛː/
+php	/ˈpɛː ˈɦaː ˈpɛː/
 pianino	/pɪjaniːno/
 pianino	/pɪjaɲɪno/
 pianino	/pɪjaniːnɔ/
@@ -59227,7 +59227,7 @@ poslavše	/poslafʃɛ/
 poslavše	/pɔslafʃɛ/
 posle	/poslɛ/
 posle	/pɔslɛ/
-poslech	/'pɔslɛx/
+poslech	/ˈpɔslɛx/
 poslechnout	/ˈpɔslɛxnɔʊ̯t/
 poslechše	/poslɛxʃɛ/
 poslechše	/pɔslɛxʃɛ/
@@ -59882,7 +59882,7 @@ povalil	/povalɪl/
 povalil	/pɔvalɪl/
 považovaný	/pɔvaʒɔvaniː/
 považovat	/pˈovaʒˌovat/
-považovat	/'pɔvaʒɔvat/
+považovat	/ˈpɔvaʒɔvat/
 považovat si	/pɔvaʒɔvat sɪ/
 považován	/pˈovaʒˌovaːn/
 považován	/pɔvaʒɔvaːn/
@@ -62641,7 +62641,7 @@ prvovolič	/pr̩vɔvɔlɪt͡ʃ/
 prvovýstup	/prvoviːstup/
 prvovýstup	/pr̩vɔviːstʊp/
 prvočíslo	/prvotʃiːslo/
-prvočíslo	/'pr̩vɔt͡ʃiːslɔ/
+prvočíslo	/ˈpr̩vɔt͡ʃiːslɔ/
 prvořadý	/pr̩vɔr̝adiː/
 prvák	/prvaːk/
 prvák	/pr̩vaːk/
@@ -66689,7 +66689,7 @@ randáková	/rˈandaːkˌovaː/
 randáková	/ˈrandaːkɔvaː/
 randál	/rˈandaːl/
 randál	/ˈran.daːl/
-ranec	/'ranɛt͡s/
+ranec	/ˈranɛt͡s/
 ranek	/ranɛk/
 raneček	/ranɛtʃɛk/
 raneček	/ranɛt͡ʃɛk/
@@ -66776,7 +66776,7 @@ rasovně	/rasɔvɲɛ/
 rasový	/rˈasoviː/
 rasový	/rasɔviː/
 rataj	/rataj/
-rataje	/'ratajɛ/
+rataje	/ˈratajɛ/
 rataje	/ratajɛ/
 ratata	/ˈra.ta.ta/
 ratejna	/ˈratɛjna/
@@ -66835,7 +66835,7 @@ rci	/r̩t͡sɪ/
 rdousit	/rdousɪt/
 rdousit	/ˈrdɔʊ̯sɪt/
 rds	/rɛdɛsɛ/
-rds	/'rə 'də 'sə/
+rds	/ˈrə ˈdə ˈsə/
 rdít se	/ˈrɟiːt‿sɛ/
 re-	/rɛ/
 reaganová	/rɛganovaː/
@@ -67878,13 +67878,13 @@ rosnička	/rosɲɪtʃka/
 rosnička	/rɔsɲɪt͡ʃka/
 rosný	/ˈrɔsniː/
 rosol	/rˈosol/
-rosol	/'rɔsɔl/
+rosol	/ˈrɔsɔl/
 rosolka	/rˈosolka/
 rosolka	/rɔsɔlka/
 rosolový	/rˈosolˌoviː/
 rosolový	/rɔsɔlɔviː/
 rosolozub	/rˈosolˌozup/
-rosolozub	/'rɔsɔˌlɔzʊp/
+rosolozub	/ˈrɔsɔˌlɔzʊp/
 rosolozub huspenitý	/ˈrɔsɔˌlɔzʊp ˈɦʊspɛˌɲɪtiː/
 rosomák	/rˈosomaːk/
 rosomák	/rɔsɔmaːk/
@@ -69319,7 +69319,7 @@ rýha	/riːɦa/
 rýhou	/ˈriːɦɔʊ̯/
 rýhy	/riːɦɪ/
 rým	/rˈiːm/
-rým	/'riːm̩/
+rým	/ˈriːm̩/
 rýma	/rˈiːma/
 rýma	/riːma/
 rýmař	/riːmar̝̊/
@@ -69398,7 +69398,7 @@ s	/z/
 s bídou	/zbiːdɔʊ/
 s křížkem po funuse	/ˈskr̝̊iːʃkɛm ˈpɔfʊnʊsɛ/
 s ničím se nemazat	/s ɲɪt͡ʃiːm sɛ nɛmazat/
-s odřenýma ušima	/ˈsʔɔdr̝ɛniːma 'ʔʊʃɪma/
+s odřenýma ušima	/ˈsʔɔdr̝ɛniːma ˈʔʊʃɪma/
 s přehledem	/spr̝̊ɛɦlɛdɛm/
 s to	/stɔ/
 s větrem o závod	/ˈzvjɛtrɛm ʔɔ‿zaːvɔt/
@@ -69685,7 +69685,7 @@ samosličkový	/samɔslɪt͡ʃkɔviː/
 samosprašný	/sˈamosprˌaʃniː/
 samosprašný	/samɔspraʃniː/
 samospráva	/sˈamosprˌaːva/
-samospráva	/'samɔspraːva/
+samospráva	/ˈsamɔspraːva/
 samosprávného	/samospraːvnɛːɦo/
 samosprávný	/sˈamosprˌaːvniː/
 samosprávný	/ˈsamɔspraːvniː/
@@ -71770,7 +71770,7 @@ singapurský	/sɪŋgapʊrskiː/
 singapuřan	/sɪŋgapʊr̝an/
 singapuřanka	/sɪngapur̝anka/
 singapuřanka	/sɪŋgapʊr̝aŋka/
-singulare tantum	/ˈsɪŋgʊlaːrɛ 'tantʊm/
+singulare tantum	/ˈsɪŋgʊlaːrɛ ˈtantʊm/
 singulár	/sɪngulaːr/
 singulár	/sɪŋgulaːr/
 sinice	/sɪɲɪtsɛ/
@@ -73617,9 +73617,9 @@ snahy	/snaɦɪ/
 snažilka	/ˈsna.ʒɪlka/
 snažit se	/ˈsnaʒɪt sɛ/
 snaží se	/snaʒiːsɛ/
-snb	/ʔɛsɛm'bɛː/
-snb	/ʔɛsɛn'bɛː/
-snb	/ʔɛsʔɛn'bɛː/
+snb	/ʔɛsɛmˈbɛː/
+snb	/ʔɛsɛnˈbɛː/
+snb	/ʔɛsʔɛnˈbɛː/
 snesitedlný	/snɛsɪtɛdlniː/
 snesitedlný	/ˈsnɛsɪtɛdl̩niː/
 snesitelný	/snɛsɪtɛlniː/
@@ -75208,7 +75208,7 @@ spíce	/spiːtsɛ/
 spíce	/spiːt͡sɛ/
 spící	/spˈiːtsiː/
 spící	/spiːt͡siː/
-spící agent	/'spiːt͡siː 'agɛnt/
+spící agent	/ˈspiːt͡siː ˈagɛnt/
 spílat	/spˈiːlat/
 spílat	/ˈspiːlat/
 spínač	/spˈiːnatʃ/
@@ -75431,7 +75431,7 @@ ssavčí	/saft͡ʃiː/
 sssr	/ɛsɛsɛsɛr/
 sssr	/ɛs ɛs ɛs ɛr/
 ssz	/ɛsɛszɛt/
-ssz	/'ɛs 'ɛs 'zɛt/
+ssz	/ˈɛs ˈɛs ˈzɛt/
 stabilita	/stabɪlɪta/
 stabilizace	/stabɪlɪzat͡sɛ/
 stabilní	/stabɪlɲiː/
@@ -75651,7 +75651,7 @@ stará bela	/staraː bɛla/
 stará boleslav	/ˈsta.raː ˈbɔ.lɛ.slaf/
 stará rašple	/staraː raʃplɛ/
 staré	/starɛː/
-staré město	/'starɛː 'mɲɛstɔ/
+staré město	/ˈstarɛː ˈmɲɛstɔ/
 starého psa novým kouskům nenaučíš	/starɛːɦɔ psa nɔviːm kɔʊ̯skuːm nɛnaʊ̯t͡ʃiːʃ/
 starý	/stˈariː/
 starý	/stariː/
@@ -76893,7 +76893,7 @@ střelnice	/ˈstr̝̊ɛlɲɪt͡sɛ/
 střelný	/str̝ɛlniː/
 střelný	/str̝̊ɛlniː/
 střemcha	/str̝̊ɛmxa/
-střemcha obecná	/'str̝̊ɛmxa 'ɔbɛt͡snaː/
+střemcha obecná	/ˈstr̝̊ɛmxa ˈɔbɛt͡snaː/
 střemchový	/str̝ɛmxoviː/
 střemchový	/str̝̊ɛmxɔviː/
 střemhlav	/str̝ɛmɦlaf/
@@ -77266,7 +77266,7 @@ superúplňku	/sʊpɛruːpl̩ɲkʊ/
 superúterý	/supɛruːtɛriː/
 superúterý	/ˈsʊperˈuːtɛriː/
 superúředník	/supɛruːr̝ɛdɲiːk/
-superúředník	/sʊpɛr'uːr̝ɛdɲiːk/
+superúředník	/sʊpɛrˈuːr̝ɛdɲiːk/
 supinum	/supiːnum/
 supinum	/sʊpiːnʊm/
 suplent	/suplɛnt/
@@ -77496,7 +77496,7 @@ svaty	/svatɪ/
 svaty	/ˈsvatɪ/
 svatyňka	/svatɪɲka/
 svatá	/ˈsvataː/
-svatá helena	/'svataː 'ɦɛlɛna/
+svatá helena	/ˈsvataː ˈɦɛlɛna/
 svatá lucie	/svataː lʊt͡sɪjɛ/
 svatá válka	/ˈsvataːˈvaːlka/
 svatá říše římská	/svataː r̝iːʃɛ r̝iːmskaː/
@@ -77688,7 +77688,7 @@ svrchovaných	/svr̩xɔvaniːx/
 svrci	/svrtsɪ/
 svrci	/ˈsvr̩t͡sɪ/
 svrh	/svrx/
-svrh	/'svr̩x/
+svrh	/ˈsvr̩x/
 svrhl	/svrɦl/
 svrhl	/svr̩ɦl̩/
 svrhla	/svrɦla/
@@ -77847,7 +77847,7 @@ světem	/svjɛtɛm/
 světit	/svjɛcɪt/
 světla	/svjɛtla/
 světlana	/svjɛtlana/
-světlana	/'svjɛtlana/
+světlana	/ˈsvjɛtlana/
 světlanin	/svjɛtlaɲɪn/
 světlo	/svjɛtlo/
 světlo	/ˈsvjɛtlɔ/
@@ -78319,7 +78319,7 @@ súppop	/ɛːoːpɛː/
 súppop	/ˈɛsˈuːˈpɛːˈpɛːˈɔːˈpɛː/
 súra	/sˈuːra/
 súra	/suːra/
-súrpmo	/'ɛs'uː'ɛr'pɛː'ɛm'ɔː/
+súrpmo	/ˈɛsˈuːˈɛrˈpɛːˈɛmˈɔː/
 sýkora	/sˈiːkora/
 sýkora	/siːkɔra/
 sýkora babka	/siːkɔra bapka/
@@ -78500,8 +78500,8 @@ tajíce	/tajiːtsɛ/
 tajíce	/ˈta.jiː.t͡sɛ/
 tak	/tˈak/
 tak	/ˈtak/
-tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne	/'tagdlɔʊ̯ɦɔ sɛ xɔɟiː sɛd͡ʒbaːnɛm prɔvɔdʊ aʃsɛ ʊxɔ ʊtr̩ɦnɛ/
-tak jako tak	/'tak jakɔ 'tak/
+tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne	/ˈtagdlɔʊ̯ɦɔ sɛ xɔɟiː sɛd͡ʒbaːnɛm prɔvɔdʊ aʃsɛ ʊxɔ ʊtr̩ɦnɛ/
+tak jako tak	/ˈtak jakɔ ˈtak/
 takeláž	/ˈtakɛlaːʃ/
 takhle	/tagɦlɛ/
 takhle	/takɦlɛ/
@@ -78660,7 +78660,7 @@ tanec	/tanɛt͡s/
 tanečnice	/tanɛtʃɲɪtsɛ/
 tanečnice	/tanɛt͡ʃɲɪt͡sɛ/
 taneční	/tanɛtʃɲiː/
-taneční	/'tanɛt͡ʃɲiː/
+taneční	/ˈtanɛt͡ʃɲiː/
 tanečních	/tanɛt͡ʃɲiːx/
 tanečník	/tanɛtʃɲiːk/
 tanečník	/tanɛt͡ʃɲiːk/
@@ -78852,7 +78852,7 @@ tchán	/txaːn/
 tchánech	/txaːnɛx/
 tchýně	/ˈtxiːɲɛ/
 td	/tɛːdɛː/
-td	/'tɛː 'dɛː/
+td	/ˈtɛː ˈdɛː/
 teak	/tiːk/
 teatralita	/tɛatralɪta/
 teatralita	/ˈtɛ.a.tra.lɪ.ta/
@@ -81214,7 +81214,7 @@ tvrdí	/tvrɟiː/
 tvrdí	/tvr̩ɟiː/
 tvrdý	/tvrdiː/
 tvrdý	/tvr̩diː/
-tvrdý jak štolverk	/'tvr̩.diːˌjak 'ʃtɔl.vɛrk/
+tvrdý jak štolverk	/ˈtvr̩.diːˌjak ˈʃtɔl.vɛrk/
 tvrdý luh	/tvr̩diː lʊx/
 tvrdě	/tvrɟɛ/
 tvrdě	/tvr̩ɟɛ/
@@ -82706,7 +82706,7 @@ una	/una/
 unaven	/unavɛn/
 unaven	/ʊnavɛn/
 unavený	/unavɛniː/
-unavený	/'ʊnavɛniː/
+unavený	/ˈʊnavɛniː/
 unavovat	/ʔunavovat/
 unavovat	/ˈʔʊnavɔvat/
 unavuješ	/ʔunavujɛʃ/
@@ -82872,7 +82872,7 @@ uppsala	/ʊpsala/
 upravena	/upravɛna/
 upravena	/ʊpravɛna/
 upravenec	/upravɛnɛts/
-upravenec	/'ʔʊpravɛnɛt͡s/
+upravenec	/ˈʔʊpravɛnɛt͡s/
 upraveno	/upravɛno/
 upraveno	/ʊpravɛnɔ/
 upravený	/upravɛniː/
@@ -83697,7 +83697,7 @@ užovka	/ˈuʒofka/
 užovka	/ʊʒɔfka/
 užovka stromová	/ʊʒɔfka strɔmɔva:/
 užuž	/ˈuʃuʃ/
-užuž	/ʊʃ'ʊʃ/
+užuž	/ʊʃˈʊʃ/
 užít	/ʔuʒiːt/
 užít	/ˈʔʊʒiːt/
 užívají	/ˈuʒiːvˌajiː/
@@ -83728,7 +83728,7 @@ v cukuletu	/ˈft͡sʊ.kʊ.lɛ.tʊ/
 v dobrém	/ˈvdɔbrɛːm/
 v duchu	/ˈv dʊxʊ/
 v hrdlo lhát	/vɦr̩dlɔ lɦaːt/
-v jednom kuse	/ˈvjɛdnɔm 'kʊsɛ/
+v jednom kuse	/ˈvjɛdnɔm ˈkʊsɛ/
 v nouzi poznáš přítele	/vnɔʊ̯zɪ pɔznaːʃ pr̝̊iːtɛlɛ/
 v piči	/ˈfpɪt͡ʃɪ/
 v prdeli	/fpr̩delɪ/
@@ -84156,7 +84156,7 @@ vaší	/vaʃiː/
 važ	/vˈaʃ/
 važ	/vaʃ/
 vb	/vɛːbɛː/
-vb	/'vɛː 'bɛː/
+vb	/ˈvɛː ˈbɛː/
 vbit	/vbɪt/
 vcelku	/ftsɛlku/
 vcelku	/ft͡sɛlkʊ/
@@ -86038,8 +86038,8 @@ voličský	/vɔlɪt͡ʃskiː/
 voličstvo	/vɔlɪt͡ʃstvɔ/
 voličů	/volɪtʃuː/
 voličů	/vɔlɪt͡ʃuː/
-volky	/'vɔlkɪ/
-volky nevolky	/'vɔlkɪ 'nɛvɔlkɪ/
+volky	/ˈvɔlkɪ/
+volky nevolky	/ˈvɔlkɪ ˈnɛvɔlkɪ/
 volna	/vɔlna/
 volno	/vˈolno/
 volno	/vɔlnɔ/
@@ -86149,7 +86149,7 @@ vorvaní	/vɔrvaɲiː/
 vorvaň	/vˈorvaɲ/
 vorvaň	/vɔrvaɲ/
 voršila	/vorʃɪla/
-voršila	/'vɔrʃɪla/
+voršila	/ˈvɔrʃɪla/
 vos	/vˈos/
 vos	/vɔs/
 vosa	/vˈosa/
@@ -86298,7 +86298,7 @@ vpich	/fpɪx/
 vpodvečer	/fpodvɛtʃɛr/
 vpodvečer	/ˈfpɔd.vɛ.t͡ʃɛr/
 vpp	/vɛːpɛːpɛː/
-vpp	/'vɛː 'pɛː 'pɛː/
+vpp	/ˈvɛː ˈpɛː ˈpɛː/
 vpravdě	/fpravɟɛ/
 vpravo	/fprˈavo/
 vpravo	/fpravɔ/
@@ -86407,7 +86407,7 @@ vrboví	/vr̩bɔviː/
 vrbový	/vrboviː/
 vrbový	/vr̩bɔviː/
 vrch	/vrx/
-vrch	/'vr̩x/
+vrch	/ˈvr̩x/
 vrchlická	/vrxlɪtskaː/
 vrchlická	/vr̩xlɪt͡skaː/
 vrchlický	/vrxlɪtskiː/
@@ -86415,7 +86415,7 @@ vrchlický	/vr̩xlɪt͡skiː/
 vrchní	/vrxɲiː/
 vrchní	/vr̩xɲiː/
 vrchol	/vrxol/
-vrchol	/'vr̩xol/
+vrchol	/ˈvr̩xol/
 vrcholcích	/vrxoltsiːx/
 vrcholcích	/vr̩xɔlt͡siːx/
 vrcholek	/vr̩xɔlɛk/
@@ -86424,7 +86424,7 @@ vrcholky	/vr̩xɔlkɪ/
 vrcholné	/vrxolnɛː/
 vrcholné	/vr̩xɔlnɛː/
 vrcholný	/vrxolniː/
-vrcholný	/'vr̩xolniː/
+vrcholný	/ˈvr̩xolniː/
 vrcholový	/vr̩xɔlɔviː/
 vrcholu	/vrxolu/
 vrcholu	/vr̩xɔlʊ/
@@ -86437,7 +86437,7 @@ vrcovice	/vr̩t͡sɔvɪt͡sɛ/
 vrdlouhat	/ˈvr̩dlɔʊ̯ɦat/
 vretka	/vrɛtka/
 vrh	/vrx/
-vrh	/'vr̩x/
+vrh	/ˈvr̩x/
 vrhací	/vr̩ɦat͡siː/
 vrhat	/vrɦat/
 vrhat	/vr̩ɦat/
@@ -86480,11 +86480,11 @@ vrstvy	/vrstvɪ/
 vrstvy	/vr̩stvɪ/
 vrstvě	/vr̩stvjɛ/
 vrt	/vrt/
-vrt	/'vr̩t/
+vrt	/ˈvr̩t/
 vrtat	/vrtat/
 vrtat	/vr̩tat/
 vrtačka	/vrtatʃka/
-vrtačka	/'vr̩tat͡ʃka/
+vrtačka	/ˈvr̩tat͡ʃka/
 vrtačkou	/vr̩tat͡ʃkɔʊ̯/
 vrtkavý	/vr̩tkaviː/
 vrtošivost	/vrtɔʃɪɔst/
@@ -86570,7 +86570,7 @@ vršek	/vr̩ʃɛk/
 vršovice	/vrʃovɪtsɛ/
 vršovice	/vr̩ʃɔvɪt͡sɛ/
 vrších	/vrʃiːx/
-vrších	/'vr̩ʃiːx/
+vrších	/ˈvr̩ʃiːx/
 vršíček	/vrʃiːtʃɛk/
 vršíček	/vr̩ʃiːt͡ʃɛk/
 vrť	/vrc/
@@ -86695,13 +86695,13 @@ vulkán	/ˈvʊl.kaːn/
 vulva	/vˈulva/
 vulva	/vʊlva/
 vuml	/vuml/
-vuml	/'vʊ.ml̩/
+vuml	/ˈvʊ.ml̩/
 vuvuzela	/vuvuzɛla/
 vuvuzela	/vʊvʊzɛla/
 vuřt	/vˈur̝t/
 vuřt	/ˈvʊr̝̊t/
 vv	/vɛːvɛː/
-vv	/'vɛː 'vɛː/
+vv	/ˈvɛː ˈvɛː/
 vy	/vɪ/
 vy	/ˈvɪ/
 vybalme	/ˈvɪbal.mɛ/
@@ -88002,7 +88002,7 @@ vyšehradský	/vɪʃɛɦratskiː/
 vyšetřen	/vɪʃɛtr̝ɛn/
 vyšetřen	/vɪʃɛtr̝̊ɛn/
 vyšetření	/vɪʃɛtr̝ɛɲiː/
-vyšetření	/'vɪʃɛtr̝̊ɛɲiː/
+vyšetření	/ˈvɪʃɛtr̝̊ɛɲiː/
 vyšetřovací	/vɪʃɛtr̝̊ɔvat͡siː/
 vyšetřovat	/vɪʃɛtr̝ovat/
 vyšetřovat	/vɪʃɛtr̝̊ɔvat/
@@ -88015,7 +88015,7 @@ vyšetřovatelů	/vɪʃɛtr̝̊ɔvatɛluː/
 vyšetřována	/vɪʃɛtr̝ovaːna/
 vyšetřována	/ˈvɪʃɛtr̝̊ɔvaːna/
 vyšetřování	/vɪʃɛtr̝ovaːɲiː/
-vyšetřování	/'vɪʃɛtr̝̊ɔvaːɲiː/
+vyšetřování	/ˈvɪʃɛtr̝̊ɔvaːɲiː/
 vyšetřuje	/vɪʃɛtr̝ujɛ/
 vyšetřuje	/vɪʃɛtr̝̊ʊjɛ/
 vyšetřujeme	/vɪʃɛtr̝ujɛmɛ/
@@ -88588,7 +88588,7 @@ vídati	/viːdacɪ/
 vídeň	/viːdɛɲ/
 vídeňan	/viːdɛɲan/
 vídeňanka	/viːdɛɲanka/
-vídeňská káva	/'viːdɛɲskaː 'kaːva/
+vídeňská káva	/ˈviːdɛɲskaː ˈkaːva/
 vídeňské	/viːdɛɲskɛː/
 vídeňský	/viːdɛɲskiː/
 vídeňáctví	/vˈiːdɛɲaːtstviː/
@@ -89349,7 +89349,7 @@ věnec	/vjɛnɛts/
 věnec	/vjɛnɛt͡s/
 věnek	/vjɛnɛk/
 věneček	/vjɛnɛtʃɛk/
-věneček	/'vjɛnɛt͡ʃɛk/
+věneček	/ˈvjɛnɛt͡ʃɛk/
 věnka	/vjɛnka/
 věnka	/vjɛŋka/
 věno	/vjɛno/
@@ -90534,7 +90534,7 @@ zanedbatelnost	/zanɛdbatɛlnɔst/
 zanedbatelný	/ˈzanɛdbatɛlniː/
 zanedbávat	/zanɛdbaːvat/
 zanedlouho	/zanɛdlouɦo/
-zanedlouho	/'zanɛdlɔʊ̯ɦɔ/
+zanedlouho	/ˈzanɛdlɔʊ̯ɦɔ/
 zaneprázdněnost	/zanɛpraːzdɲɛnɔst/
 zaneprázdňovat	/zanɛpraːzdɲovat/
 zaneprázdňovat	/zanɛpraːzdɲɔvat/
@@ -91496,7 +91496,7 @@ zdržovati	/zdrʒovacɪ/
 zdržovati	/zdr̩ʒɔvacɪ/
 zdržím	/zdrʒiːm/
 zdržím	/zdr̩ʒiːm/
-zds	/'z 'd 's/
+zds	/ˈz ˈd ˈs/
 zduř	/zdʊr̝̊/
 zduřet	/zdur̝ɛt/
 zduřet	/ˈzdʊ.r̝ɛt/
@@ -92295,7 +92295,7 @@ zlomený	/zlomɛniː/
 zlomený	/zlɔmɛniː/
 zlomit	/zlomɪt/
 zlomit	/zlɔmɪt/
-zlomit nad někým hůl	/'zlɔmɪd'ɦuːl/
+zlomit nad někým hůl	/ˈzlɔmɪdˈɦuːl/
 zlomiti	/zlomɪcɪ/
 zlomiti	/ˈzlɔmɪcɪ/
 zlomový	/zlˈomoviː/
@@ -93976,7 +93976,7 @@ záporný	/zˈaːporniː/
 záporný	/zaːpɔrniː/
 záporožec	/zaːpɔrɔʒɛt͡s/
 záporoží	/zˈaːporˌoʒiː/
-záporoží	/'zaːpɔrɔʒiː/
+záporoží	/ˈzaːpɔrɔʒiː/
 záporák	/zˈaːporaːk/
 záporák	/zaːpɔraːk/
 zápotočí	/za:pɔtɔt͡ʃiː/
@@ -94838,7 +94838,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 ústupky	/uːstʊpkɪ/
 ústupný	/uːstʊpniː/
 ústí	/ˈuːsciː/
-ústí	/'uːsciː/
+ústí	/ˈuːsciː/
 ústí	/uːsciː/
 ústí nad labem	/ˈʔuː.sciːˌnad.la.bɛm/
 ústí nad orlicí	/ˈʔuː.sciːˌnat.ʔor.lɪ.t͡siː/
@@ -96066,7 +96066,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 čmáranice	/ˈt͡ʃmaːraɲɪt͡sɛ/
 čmýra	/tʃmˈiːra/
 čmýra	/t͡ʃmiːra/
-čnb	/t͡ʃɛːʔɛn'bɛː/
+čnb	/t͡ʃɛːʔɛnˈbɛː/
 čnít	/tʃɲˈiːt/
 čnít	/t͡ʃɲiːt/
 čnělka	/tʃɲɛlka/
@@ -96121,8 +96121,8 @@ zženštilost	/zʒɛnʃcɪlɔst/
 čpět	/t͡ʃpjɛt/
 čr	/tʃɛrɛ/
 čr	/tʃɛːɛr/
-čr	/'t͡ʃə'rə/
-čr	/'t͡ʃɛː 'ɛr/
+čr	/ˈt͡ʃəˈrə/
+čr	/ˈt͡ʃɛː ˈɛr/
 črt	/tʃrt/
 črt	/ˈt͡ʃr̩t/
 črta	/tʃrta/
@@ -96132,9 +96132,9 @@ zženštilost	/zʒɛnʃcɪlɔst/
 črtám	/t͡ʃr̩taːm/
 čsad	/t͡ʃɛː.ɛs.aː.dɛː/
 čsao	/ˈt͡ʃɛːˀɛsˀaːˀɔː/
-čsav	/'t͡ʃɛː 'ɛs 'aː 'vɛː/
-čst	/'t͡ʃɛː 'ɛs 'tɛː/
-čt	/'t͡ʃɛː 'tɛː/
+čsav	/ˈt͡ʃɛː ˈɛs ˈaː ˈvɛː/
+čst	/ˈt͡ʃɛː ˈɛs ˈtɛː/
+čt	/ˈt͡ʃɛː ˈtɛː/
 čte	/t͡ʃtɛ/
 čtenář	/tʃtɛnaːr̝/
 čtenář	/t͡ʃtɛnaːr̝̊/
@@ -97871,7 +97871,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 šetř	/ʃɛtr̝/
 šetř	/ʃɛtr̝̊/
 šetření	/ʃɛtr̝ɛɲiː/
-šetření	/'ʃɛtr̝̊ɛɲiː/
+šetření	/ˈʃɛtr̝̊ɛɲiː/
 šetřit	/ʃɛtr̝ɪt/
 šetřit	/ʃɛtr̝̊ɪt/
 šev	/ʃɛf/
@@ -98593,7 +98593,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 špičák	/ʃpɪt͡ʃaːk/
 špičáky	/ʃpɪtʃaːkɪ/
 šplh	/ʃplx/
-šplh	/'ʃpl̩x/
+šplh	/ˈʃpl̩x/
 šplhadlo	/ˈʃpl̩ɦadlɔ/
 šplhat	/ʃplɦat/
 šplhat	/ʃpl̩ɦat/
@@ -98745,7 +98745,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 štolový	/ʃtɔlɔviː/
 štolu	/ʃtˈolu/
 štolu	/ʃtɔlʊ/
-štolverk	/'ʃtɔl.vɛrk/
+štolverk	/ˈʃtɔl.vɛrk/
 štoudev	/ʃtoudɛf/
 štoudev	/ʃtɔʊ̯dɛf/
 štoček	/ˈʃtot͡ʃɛk/
@@ -98985,7 +98985,7 @@ zženštilost	/zʒɛnʃcɪlɔst/
 šunkový	/ʃunkoviː/
 šunkový	/ʃʊŋkɔviː/
 šunt	/ʃˈunt/
-šunt	/'ʃʊnt/
+šunt	/ˈʃʊnt/
 šunte	/ʃuntɛ/
 šunte	/ˈʃʊn.tɛ/
 šup	/ʃˈup/

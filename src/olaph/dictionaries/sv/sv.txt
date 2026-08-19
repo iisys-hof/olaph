@@ -725,7 +725,7 @@ ap-fonden	/ˈɑːpfˈoːndən/
 apa	/ˈɑːpa/
 apanage	/ˈɑːpanˌagə/
 apart	/ˈɑːpɑːt/
-apart	/'apˌart/
+apart	/ˈapˌart/
 apart	/aˈpart/, /aˈpɑːrt/
 apartheid	/ˈɑːpathəˌiːd/
 apartheid	/aˈpɑːrthejd/
@@ -734,8 +734,8 @@ apatisk	/ˈɑːpatˌɪsk/
 apelsin	/ˌɑːpəlsˈiːn/
 apelsin	/apɛlˈsiːn/
 aperitif	/ˈɑːpərˌiːtiːf/
-aphelium	/ap'heːlɪɵm/
-aphelium	/a'feːlɪɵm/
+aphelium	/apˈheːlɪɵm/
+aphelium	/aˈfeːlɪɵm/
 apokalyptisk	/ˈɑːpuːkˌalyptˌɪsk/
 apokope	/aˈpoːkɔpɛ/
 apostel	/ˈɑːpɔstəl/
@@ -1045,7 +1045,7 @@ attrahera	/ˈatrahərˌa/
 attraherar	/ˈatrahərˌar/
 attraktion	/ˌatraksxˈuːn/
 attraktiv	/ˈatraktˌiːv/
-attraktiv	/atrak'tiːv/
+attraktiv	/atrakˈtiːv/
 attraktivt	/ˈatraktˌɪvt/
 attrapper	/ˈatrapər/
 attribut	/ˈatriːbˌʉt/
@@ -1826,7 +1826,7 @@ behövs	/bəhˈœvs/
 beige	/bˈeːiːjə/
 beige	/beːɕ/
 beige	/bɛːɕ/
-beira	/'beìːra/
+beira	/ˈbeìːra/
 beivra	/bˈeːɪvrˌa/
 beivrar	/bˈeːɪvrˌar/
 bejaka	/bˈɛjakˌa/
@@ -2371,7 +2371,7 @@ biomassa	/bˈiːuːmˌasa/
 biorytm	/bˈiːuːrˌytm/
 biotekniska	/bˈiːuːtˌɛknɪskˌa/
 bira	/bˈiːra/
-bira	/'bìːra/
+bira	/ˈbìːra/
 birger	/bˈɪrjər/
 bisak	/bˈiːsak/
 bisarr	/bˈiːsar/
@@ -3147,7 +3147,7 @@ butelj	/bˈʉtəlj/
 butik	/bˈɵtiːk/
 butiker	/bˈɵtiːkər/
 butter	/bˈɵtːər/
-butter	/'bɵter/
+butter	/ˈbɵter/
 by	/bˈyː/
 byffé	/byfˈeː/
 bygd	/bˈygd/
@@ -3421,7 +3421,7 @@ chilen	/ʃˈiːlən/
 chilensk	/ʃˈiːlənsk/
 chimär	/ʃˈiːmɛːr/
 chips	/ʃˈɪps/
-chips	/ɕɪp's/
+chips	/ɕɪpˈs/
 chișinău	/kiʃiˈnəw/
 chock	/ʃˈɔk/
 chock	/ɧɔk/
@@ -3848,7 +3848,7 @@ detonerar	/dˈeːtuːnˌeːrar/
 detsamma	/dˈɛtsamˌa/
 detta	/dˈɛtːa/
 detta	/ˈdèta/
-deuce	/djo's/
+deuce	/djoˈs/
 devalvera	/dˈeːvalvərˌa/
 devalverar	/dˈeːvalvərˌar/
 devis	/dˈeːviːs/
@@ -4472,7 +4472,7 @@ dövstumma	/dˈœvstɵmˌa/
 e	/ˈeː/
 e-post	/ˈeːpˈɔst/
 e-postadress	/ˈeːpˈɔstadrˌɛs/
-eagle	/'i:gɛl/
+eagle	/ˈi:gɛl/
 ebb	/ˈɛb/
 ed	/ˈeːd/
 edda	/ˈɛda/
@@ -4683,7 +4683,7 @@ elmätare	/ˈɛlmɛːtˌarə/
 eloge	/eːlˈoːjə/
 elsits	/ˈɛlsɪts/
 elva	/ˈɛlva/
-elva	/'el.va/
+elva	/ˈel.va/
 elverk	/ˈɛlvərk/
 elände	/ˈeːləndə/
 eländig	/ˈeːləndˌɪg/
@@ -4913,7 +4913,7 @@ etablerad	/ˈɛtablˌeːrad/
 etablerar	/ˈɛtablˌeːrar/
 etablissemang	/ˈɛtablˌɪsəmˌaŋ/
 etagevåning	/ˈɛtɑːgəvˌoːnɪŋ/
-etagär	/e'taʃæ:r/
+etagär	/eˈtaʃæ:r/
 etapp	/ˈɛtap/
 etapper	/ˈɛtapər/
 etc	/ˌeːteːsˈeː/
@@ -4937,9 +4937,9 @@ ettrig	/ˈɛtrɪg/
 ettårig	/ˈɛtːoːrˌɪg/
 etui	/ˈeːtʉˌiː/
 etymologi	/etʏmʊlʊˈgiː/
-euro	/'ɛɵrʊ/
-euro	/'ɛvːrʊ/
-euro	/'juːrʊ/
+euro	/ˈɛɵrʊ/
+euro	/ˈɛvːrʊ/
+euro	/ˈjuːrʊ/
 euroatom	/ˈeːʉrˌuːatˌɔm/
 europa	/ˈeːʉrˌuːpa/
 europas	/ˈeːʉrˌuːpas/
@@ -5241,7 +5241,7 @@ faskist	/faˈɧɪst/
 faslig	/fˈaslɪg/
 fason	/fˈɑːsuːn/
 fast	/fˈast/
-fast	/'fast/
+fast	/ˈfast/
 fasta	/fˈasta/
 fastar	/fˈastar/
 faster	/fˈastər/
@@ -5290,8 +5290,8 @@ februari	/fˈɛbrʉˌariː/
 federal	/fˈeːdeːrˌal/
 federation	/fˌeːdeːrasxˈuːn/
 feedback	/fˈeːədbˌak/
-feedback	/fi'dbäk/
-feedback	/fi'dbak/
+feedback	/fiˈdbäk/
+feedback	/fiˈdbak/
 feg	/fˈeːg/
 feghet	/fˈɛgheːt/
 feja	/fˈɛja/
@@ -6149,7 +6149,7 @@ fröjd	/frˈœjd/
 fröken	/frˈøːkən/
 frölunda	/frˈøːlɵndˌa/
 frös	/frˈøːs/
-fubbick	/'fɵbɪk, 'fɒbek/
+fubbick	/ˈfɵbɪk, ˈfɒbek/
 fuffens	/fˈɵfəns/
 fukt	/fˈɵkt/
 fukt	/fɵkt/
@@ -6547,7 +6547,7 @@ föresvävar	/fˈøːrəsvˌɛːvar/
 företa	/fˈøːreːtˌa/
 företag	/fˈøːreːtˌɑːg/
 företag	/ˈfœːr.ɛˌtɑːg/
-företaga	/fœrˈeː'tɑːga/
+företaga	/fœrˈeːˈtɑːga/
 företagare	/fˈøːreːtˌɑːgarə/
 företagen	/fˈøːreːtˌɑːgən/
 företagens	/fˈøːreːtˌɑːgəns/
@@ -7042,9 +7042,9 @@ förunderlig	/fˈøːrɵndˌɛrlɪg/
 förundersökning	/fˌøːrɵndəʂˈœknɪŋ/
 förundersökningarna	/fˌøːrɵndəʂˈœknɪŋˌarna/
 förut	/fˈøːrʉt/
-förut	/'fø̀ːrˌʉːt/
-förut	/før'ʉːt/
-förut	/'føːrˌʉːt/
+förut	/ˈfø̀ːrˌʉːt/
+förut	/førˈʉːt/
+förut	/ˈføːrˌʉːt/
 förutfattad	/fˈøːrʉtfˌatːad/
 förutom	/fˈøːrʉtˌɔm/
 förutsatt	/fˈøːrʉtsˌat/
@@ -7275,7 +7275,7 @@ gatukontoret	/gˌɑːtʉkɔntˈuːrət/
 gav	/gˈɑːv/
 gavel	/gˈɑːvəl/
 ge	/jˈeː/
-ge bort	/ge 'bɔʈː, 'geː bɔʈ/
+ge bort	/ge ˈbɔʈː, ˈgeː bɔʈ/
 ge upp	/je ɵp/
 gebit	/jˈeːbiːt/
 gebit	/geˈbiːt/
@@ -7283,7 +7283,7 @@ gebit	/jeˈbiːt/
 gedigen	/jˈeːdiːjən/
 geggig	/jˈɛgɪg/
 gehör	/jˈeːhøːr/
-gelatin	/ʃe.la.'ti:n/
+gelatin	/ʃe.la.ˈti:n/
 gelike	/jˈeːliːkə/
 gelé	/jeːlˈeː/
 gem	/jˈeːm/
@@ -7317,7 +7317,7 @@ generationen	/jənˌeːrasxˈuːnən/
 generationer	/jənˌeːrasxˈuːnər/
 generator	/jənˈeːratˌɔr/
 generell	/jənˈeːrəl/
-generell	/ɧεnεr'εl/
+generell	/ɧεnεrˈεl/
 generella	/jənˈeːrəlˌa/
 generositet	/jənˈeːruːsˌɪteːt/
 generös	/jənˈeːrøːs/
@@ -7385,7 +7385,7 @@ gerilla	/jˈeːrɪlˌa/
 gerilla	/geˈrɪ̀la/
 geront	/gɛˈrɔnt/
 ges	/jˈeːs/
-geschwint	/geʃvin't/
+geschwint	/geʃvinˈt/
 geschäft	/jˈɛʃəft/
 gest	/jˈɛst/
 gestalt	/jˈɛstɑːlt/
@@ -7439,7 +7439,7 @@ gipsar	/jˈɪpsar/
 gir	/jˈiːr/
 gira	/jˈiːra/
 giraff	/jˈiːraf/
-giraff	/ɧir'af/
+giraff	/ɧirˈaf/
 girar	/jˈiːrar/
 girera	/jˈiːreːrˌa/
 girerar	/jˈiːreːrˌar/
@@ -7627,7 +7627,7 @@ grad	/grˈɑːd/
 graden	/grˈadən/
 graderad	/gradˈeːrad/
 gradvis	/grˈadviːs/
-grafen	/gra'feːn/
+grafen	/graˈfeːn/
 graffiti	/grˈafiːtˌiː/
 grafik	/grafˈiːk/
 grafisk	/grˈɑːfɪsk/
@@ -7992,7 +7992,7 @@ gök	/jˈøːk/
 göka	/ˈjø̀ːka/
 gömma	/jˈœma/
 gömställe	/jˈœmstələ/
-göpe	/'gøːpɛ/
+göpe	/ˈgøːpɛ/
 gör	/jˈøːr/
 gör-	/ˈgœːrˌ/
 göra	/jˈøːra/
@@ -8009,10 +8009,10 @@ gösta	/jˈœsta/
 göt	/jˈøːt/
 götaland	/jˈøːtalˌand/
 göteborg	/jˈøːtəbˌɔrj/
-göteborg	/ˌjœt:ɛ'bɔrj/
+göteborg	/ˌjœt:ɛˈbɔrj/
 göteborgare	/jˈøːtəbˌɔrjarə/
 göteborgs	/jˈøːtəbˌɔrgs/
-göteborgs	/jœt:ɛ'bɔʂ/
+göteborgs	/jœt:ɛˈbɔʂ/
 göttig	/ˈɡœtːɪɡ/
 h	/hˈoː/
 ha	/hˈɑː/
@@ -8046,7 +8046,7 @@ hakkors	/hˈakkɔʂ/
 haklapp	/hˈaklap/
 hakparentes	/hˈakparəntˌeːs/
 hal	/hˈɑːl/
-hal	/'hɑːl/
+hal	/ˈhɑːl/
 hala	/hˈɑːla/
 halar	/hˈɑːlar/
 halfpipe	/hɑ:fpaɪp/
@@ -8054,7 +8054,7 @@ halka	/hˈalka/
 halkar	/hˈalkar/
 halkig	/hˈalkɪg/
 hall	/hˈal/
-hall	/'hal/
+hall	/ˈhal/
 halland	/hˈaland/
 hallick	/hˈalɪk/
 hallon	/hˈalɔn/
@@ -8211,19 +8211,19 @@ hasa	/hˈɑːsa/
 hasar	/hˈɑːsar/
 hasard	/hˈɑːsard/
 hasch	/hˈaʃ/
-hassa	/'hàsa/
+hassa	/ˈhàsa/
 hasselnöt	/hˈasəlnˌøːt/
 hast	/hˈast/
 hastig	/hˈastɪg/
 hastighet	/hˈastɪghˌeːt/
 hastigt	/ˈhasˌtɪ(g)t/
 hat	/hˈat/
-hat	/'hɑːt/
+hat	/ˈhɑːt/
 hat trick	/ˈhætɹɪk/
 hata	/hˈɑːta/
 hatar	/hˈɑːtar/
 hatt	/hˈat/
-hatt	/'hat/
+hatt	/ˈhat/
 hattrick	/ˈhætɹɪk/
 hav	/hˈɑːv/
 hava	/hˈava/
@@ -9544,8 +9544,8 @@ interiör	/ˈɪntərˌiːøːr/
 intermezzo	/ˈɪntərmˌɛzuː/
 intern	/ˈɪntərn/
 internat	/ˈɪntərnˌat/
-internationalism	/ɪnternatɧuna'lɪsm/
-internationalist	/ɪnternatɧuna'lɪst/
+internationalism	/ɪnternatɧunaˈlɪsm/
+internationalist	/ɪnternatɧunaˈlɪst/
 internationell	/ˌɪntərnasxˈuːnəl/
 internationella	/ˌɪntərnasxˈuːnəlˌa/
 internationellt	/ˌɪntərnasxˈuːnəlt/
@@ -10096,8 +10096,8 @@ kanonmusik	/kaˈnuːnmɵˌsiːk/
 kanot	/kˈanuːt/
 kanske	/kˈansxə/
 kanske	/ˈkànʃɛ/
-kanske	/'kànɧɛ/
-kanske	/'kàɳʂɛ/
+kanske	/ˈkànɧɛ/
+kanske	/ˈkàɳʂɛ/
 kansler	/kˈanslər/
 kansli	/kˈansliː/
 kanslihuset	/kˈansliːhˌʉsət/
@@ -10335,7 +10335,7 @@ kinesisk	/ɕˈiːnəsˌɪsk/
 kinesiska	/ɕˈiːnəsˌɪska/
 kinkig	/ɕˈɪŋkɪg/
 kiosk	/ɕˈiːɔsk/
-kiosk	/tj(i)'ås:k el. ki'ås:k/
+kiosk	/tj(i)ˈås:k el. kiˈås:k/
 kiosklitteratur	/ɕˈiːɔsklˌɪtːeːrˌatʉr/
 kippa	/kˈɪpa/
 kippar	/kˈɪpar/
@@ -10981,7 +10981,7 @@ konsul	/ˈkɔnˌsɵl/
 konsulat	/kˈɔnsʉlˌat/
 konsulent	/kˈɔnsʉlˌɛnt/
 konsult	/kˈɔnsɵlt/
-konsult	/kɔn'sɵlt/
+konsult	/kɔnˈsɵlt/
 konsultera	/kˈɔnsɵltˌeːra/
 konsulterar	/kˈɔnsɵltˌeːrar/
 konsum	/kˈɔnsʉm/
@@ -11154,7 +11154,7 @@ kosmonaut	/kˈɔsmuːnˌaʉt/
 kosmopolitisk	/kˈɔsmuːpˌuːliːtˌɪsk/
 kosmos	/kˈɔsmuːs/
 kossa	/kˈɔsa/
-kossa	/'kʊsːˌa/
+kossa	/ˈkʊsːˌa/
 kost	/kˈɔst/
 kosta	/kˈɔsta/
 kostar	/kˈɔstar/
@@ -11390,7 +11390,7 @@ krävde	/krˈɛvdə/
 kräver	/krˈɛːvər/
 krävs	/krˈɛvs/
 kråka	/krˈoːka/
-kråka	/'kroːˌka/
+kråka	/ˈkroːˌka/
 kråkfötter	/kroːkfˈœtːər/
 krångel	/krˈɔŋəl/
 krångla	/krˈɔŋla/
@@ -11513,7 +11513,7 @@ kuvar	/kˈʉvar/
 kuvert	/kˈʉvət/
 kuvös	/kˈʉvøːs/
 kvacka	/kvˈakːa/
-kvacka	/'kvaˌka/
+kvacka	/ˈkvaˌka/
 kvackar	/kvˈakːar/
 kvacksalvare	/kvˈaksalvˌarə/
 kvadda	/kvˈada/
@@ -11607,7 +11607,7 @@ kväsa	/kvˈɛːsa/
 kväva	/kvˈɛːva/
 kvävas	/kvˈɛːvas/
 kväve	/kvˈɛːvə/
-kwedu	/'kwèːdɵ/
+kwedu	/ˈkwèːdɵ/
 kwid	/kwiːd/
 kyckling	/ɕˈyklɪŋ/
 kycklingmamma	/ɕˈyklɪŋmˌama/
@@ -12053,7 +12053,7 @@ len	/lˈeːn/
 leopard	/lˈeːuːpˌard/
 ler	/leːr/
 lera	/lˈeːra/
-lera	/'leːˌra/
+lera	/ˈleːˌra/
 lergods	/lˈɛrguːds/
 lesbisk	/lˈɛsbɪsk/
 leta	/lˈeːta/
@@ -12080,7 +12080,7 @@ lias	/ˈlaj.as/
 libanes	/lˈiːbanəs/
 liberal	/lˈiːbərˌal/
 liberalism	/lˈiːbərˌalɪsm/
-libertin	/lɪber'tiːn/
+libertin	/lɪberˈtiːn/
 libyer	/lˈiːbyːər/
 lic	/lˈɪk/
 licens	/lˈɪsəns/
@@ -12505,7 +12505,7 @@ läkare	/lˈɛːkarə/
 läkaren	/lˈɛːkarən/
 läkarintyg	/lˌɛːkarɪntˈyːg/
 läkarna	/lˈɛːkarnˌa/
-läkarstudent	/lε:karstu'dent/
+läkarstudent	/lε:karstuˈdent/
 läkarundersökning	/lˌɛːkarˌɵndəʂˈœknɪŋ/
 läkarvård	/lˌɛːkarvˈoːrd/
 läkarvårdstaxa	/lˌɛːkarvˈoːrdstaksˌa/
@@ -12827,7 +12827,7 @@ malign	/mˈɑːlɪŋn/
 malign	/malɪŋn/
 malin	/mɑːlˈiːn/
 mall	/mˈal/
-mall	/'mal/
+mall	/ˈmal/
 mallig	/mˈalɪg/
 malm	/mˈalm/
 malm	/ˈmalm/
@@ -12996,7 +12996,7 @@ mastodont-	/mˈastuːdˌɔnt/
 masturbera	/mˈastɵrbərˌa/
 masturberar	/mˈastɵrbərˌar/
 mat	/mˈɑːt/
-mat	/'mɑːt/
+mat	/ˈmɑːt/
 mata	/mˈɑːta/
 matar	/mˈɑːtar/
 matarbuss	/mˈɑːtarbˌɵs/
@@ -13038,7 +13038,7 @@ matsäck	/mˈatsək/
 matsäck	/ˈmàsɛk/
 matsäcken	/mˈatsəkːən/
 matt	/mˈat/
-matt	/'mat/
+matt	/ˈmat/
 matta	/mˈatːa/
 mattas	/mˈatːas/
 matte	/mˈatːə/
@@ -13980,7 +13980,7 @@ måsar	/mˈoːsar/
 måsfåglar	/mˈoːsfoːglˌar/
 måste	/mˈɔstə/
 mått	/mˈɔt/
-mått	/'mɔtː/
+mått	/ˈmɔtː/
 mått-johanssons	/mˈɔtjˈuːhansˌɔns/
 måtta	/mˈɔtːa/
 måttband	/mˈɔtband/
@@ -14371,7 +14371,7 @@ njuta	/njˈʉta/
 njutning	/njˈʉtnɪŋ/
 nobba	/nˈɔba/
 nobbar	/nˈɔbar/
-nobel	/'noːbɛl/
+nobel	/ˈnoːbɛl/
 nobelpris	/nˈuːbəlprˌiːs/
 nock	/nˈɔk/
 nod	/nˈuːd/
@@ -15467,7 +15467,7 @@ organist	/ˌɔrganˈɪst/
 organization	/ˌɔrganˈɪsasxˈuːn/
 orgasm	/ˈɔrgasm/
 orgel	/ˈɔrjəl/
-orgel	/'orˌjɛl/
+orgel	/ˈorˌjɛl/
 orgie	/ˈɔrjiːə/
 orientalisk	/ˈuːriːˌɛntalˌɪsk/
 orienten	/ˈuːriːˌɛntən/
@@ -16000,7 +16000,7 @@ patriarkat	/pˈatriːˌarkat/
 patricierstad	/pˈatriːsˌɪəʂtˌad/
 patriot	/pˈatriːˌuːt/
 patron	/pˈatruːn/
-patron	/pa'tro:n/
+patron	/paˈtro:n/
 patrull	/pˈatrɵl/
 patrullera	/pˈatrɵlˌeːra/
 patrullerar	/pˈatrɵlˌeːrar/
@@ -16533,7 +16533,7 @@ pommes	/pɔmːɛs/
 pommes frites	/pɔmːfrɪtː/
 pomp	/pˈɔmp/
 pompa	/pˈɔmpa/
-pompelmus	/'pɔmpəlmʉ:s/
+pompelmus	/ˈpɔmpəlmʉ:s/
 pomrare	/ˈpɔ̀mrare/
 pondus	/pˈɔndʉs/
 ponke	/pˈɔŋkə/
@@ -17399,7 +17399,7 @@ påtänd	/pˈoːtənd/
 påtår	/pˈoːtoːr/
 påtår	/ˈpoːˌtoːr/
 påve	/pˈoːvə/
-påve	/'poːˌve/
+påve	/ˈpoːˌve/
 påver	/pˈoːvər/
 påverka	/pˈoːvərkˌa/
 påverkade	/pˈoːvərkˌadə/
@@ -18554,7 +18554,7 @@ ryckig	/rˈykːɪg/
 ryding	/rˈyːdɪŋ/
 rygg	/rˈyg/
 rygga	/rˈyga/
-rygga	/'ry.ga/
+rygga	/ˈry.ga/
 ryggar	/rˈygar/
 ryggen	/rˈygən/
 ryggmärg	/rˈygmərj/
@@ -18911,10 +18911,10 @@ sabbat	/sˈabat/
 sabbatsår	/sˈabatsˌoːr/
 sabel	/sˈɑːbəl/
 sabla	/sˈabla/
-sabla	/'sɑːbˌla/
-sabla	/sa:bla'ne:r/
+sabla	/ˈsɑːbˌla/
+sabla	/sa:blaˈne:r/
 sablar	/sˈablar/
-sablar	/'sɑːbˌlar/
+sablar	/ˈsɑːbˌlar/
 sabotage	/sˈabuːtˌɑːgə/
 sabotera	/sˈabuːtˌeːra/
 saboterar	/sˈabuːtˌeːrar/
@@ -19410,7 +19410,7 @@ sektorn	/səktˈuːrn/
 sekulariserad	/səkˈʉlarˌiːseːrˌad/
 sekularisering	/səkˈʉlarˌiːseːrˌɪŋ/
 sekund	/səkˈɵnd/
-sekund	/səˈkʰɵnd/ ''eller'' /sɛˈkʰɵnd/
+sekund	/səˈkʰɵnd/ ˈˈellerˈˈ /sɛˈkʰɵnd/
 sekunda	/səkˈɵnda/
 sekunds	/səkˈɵnds/
 sekundär	/səkˈɵndɛːr/
@@ -20103,7 +20103,7 @@ skeppsbruten	/sxˈɛpsbrʉtən/
 skeppsholmen	/sxˈɛpshɔlmən/
 skepsis	/sxˈɛpsiːs/
 skepsis	/ˈskɛps.ɪs/
-skeptiker	/'skeptiker/
+skeptiker	/ˈskeptiker/
 skeptisk	/sxˈɛptɪsk/
 sker	/sxˈeːr/
 sketch	/sxˈɛtʃ/
@@ -20207,10 +20207,10 @@ skjutit	/ɕˈʉtiːt/
 skjutning	/ɕˈʉtnɪŋ/
 skjutningar	/ɕˈʉtnɪŋˌar/
 skjuts	/ɕˈʉts/
-skjuts	/ˈɧɵsː/ ''eller'' /ˈʃɵsː/
-skjuts	/ˈɧʉːts/ ''eller'' /ˈʃʉːts/
+skjuts	/ˈɧɵsː/ ˈˈellerˈˈ /ˈʃɵsː/
+skjuts	/ˈɧʉːts/ ˈˈellerˈˈ /ˈʃʉːts/
 skjutsa	/ɕˈʉtsa/
-skjutsa	/ˈɧɵˌsːa/ ''eller'' /ˈʃɵˌsːa/
+skjutsa	/ˈɧɵˌsːa/ ˈˈellerˈˈ /ˈʃɵˌsːa/
 skjutsar	/ɕˈʉtsar/
 skjutvapen	/ɕˈʉtvapən/
 sko	/skˈuː/
@@ -21130,7 +21130,7 @@ småningom	/smˈoːnɪŋˌɔm/
 småpaket	/smˌoːpakˈeːt/
 småpengar	/smˈoːpəŋˌar/
 småpotatis	/smˌoːpɔtˈɑːtɪs/
-småpåve	/'smoːˌpoːve/
+småpåve	/ˈsmoːˌpoːve/
 småsak	/smˈoːsak/
 småsint	/smˈoːsɪnt/
 småskalig	/smˈoːskalˌɪg/
@@ -21431,7 +21431,7 @@ solbadar	/sˈɔlbadˌar/
 solbränd	/sˈɔlbrənd/
 solbränna	/sˈɔlbrənˌa/
 soldat	/sˈɔldat/
-soldat	/'sɔlˌdɑːt/
+soldat	/ˈsɔlˌdɑːt/
 soldatens	/sˈɔldatəns/
 soldater	/sˈɔldatər/
 soldaterna	/sˈɔldatˌɛrna/
@@ -21691,7 +21691,7 @@ spetsig	/spˈɛtsɪg/
 spett	/spˈɛt/
 spettkaka	/spˈɛtkɑːkˌa/
 spetälska	/spˈeːtəlskˌa/
-spetälska	/'spe:tˌælska/
+spetälska	/ˈspe:tˌælska/
 spex	/spˈɛks/
 spex	/speks/
 spexa	/spˈɛksa/
@@ -22525,7 +22525,7 @@ stuckatur	/stˈɵkːatˌʉr/
 stuckit	/stˈɵkːiːt/
 stud	/stˈʉd/
 student	/stˈʉdənt/
-student	/stɵ'dent/
+student	/stɵˈdent/
 studentbetyg	/stˌʉdəntbətˈyːg/
 studentbostad	/stˈʉdəntbˌuːstad/
 studenten	/stˈʉdəntən/
@@ -23250,7 +23250,7 @@ sysslolös	/syslˈuːløːs/
 sysslor	/syslˈuːr/
 sysslorna	/syslˈuːrna/
 system	/systˈeːm/
-system	/syst'e:m/
+system	/systˈe:m/
 systematisering	/systˈeːmatˌɪseːrˌɪŋ/
 systematisk	/systˈeːmatˌɪsk/
 systematiskt	/systˈeːmatˌɪskt/
@@ -23540,7 +23540,7 @@ tafsa	/tˈafsa/
 tafsar	/tˈafsar/
 taft	/taft/
 tag	/tˈɑːg/
-taga	/'tɑːga/
+taga	/ˈtɑːga/
 tagel	/tˈɑːgəl/
 tagen	/tˈɑːgən/
 tager	/tˈɑːgər/
@@ -23870,7 +23870,7 @@ testet	/tˈɛstət/
 testikel	/tˈɛstiːkəl/
 testmetoderna	/tˈɛstmətˌuːdərnˌa/
 teve	/tˈɛvə/
-teve	/'te:.ve:/
+teve	/ˈte:.ve:/
 teverum	/tˈɛvərˌɵːm/
 tex	/tˈeː/
 texaco	/tˈɛksakˌuː/
@@ -24292,7 +24292,7 @@ tjuta	/ɕˈʉta/
 tjuv	/ɕˈʉv/
 tjuv	/ɕʉːv/
 tjuvnyp	/ɕˈɵvnyːp/
-tjuvsena	/'tju:v,se:na/
+tjuvsena	/ˈtju:v,se:na/
 tjuvstart	/ɕˈɵvstɑːt/
 tjäder	/ɕˈɛːdər/
 tjäle	/ɕˈɛːlə/
@@ -24499,7 +24499,7 @@ traditioner	/trˌɑːdiːsxˈuːnər/
 traditionsmönster	/trˌɑːdiːsxˈʊnsmˈœnstər/
 traditionstänkande	/trˌɑːdiːsxˈʊnstəŋkˌandə/
 trafik	/trafˈiːk/
-trafik	/tra'fiːk/
+trafik	/traˈfiːk/
 trafikant	/trafˈiːkant/
 trafikanten	/trafˈiːkantən/
 trafikantens	/trafˈiːkantəns/
@@ -24950,7 +24950,7 @@ tunghäfta	/tˈɵŋhəftˌa/
 tungomål	/tˈɵŋuːmˌoːl/
 tungrodd	/tˈɵŋrɔd/
 tungsinne	/tˈɵŋsɪnə/
-tungsint	/'tung.sint/
+tungsint	/ˈtung.sint/
 tungt	/tˈɵŋt/
 tunisien	/tˈɵniːsˌiːən/
 tunisisk	/tˈɵniːsˌɪsk/
@@ -25008,7 +25008,7 @@ tutar	/tˈʉtar/
 tuva	/tˈʉva/
 tv	/tˈeː/
 tv	/tˌeːvˈeː/
-tv	/'te:.ve:/
+tv	/ˈte:.ve:/
 tv-avgift	/tˌeːvˈeːˈɑːvjɪft/
 tv-kampanj	/tˌeːvˈeːkˈampanj/
 tv-kunskap	/tˌeːvˈeːkˈɵnskɑːp/
@@ -25115,7 +25115,7 @@ tvåöringarna	/tvˈoːøːrˌɪŋarnˌa/
 tvåöringen	/tvˈoːøːrˌɪŋən/
 ty	/tˈyː/
 tycka	/tˈykːa/
-tycka om	/ˌtʏka.'ɔm/
+tycka om	/ˌtʏka.ˈɔm/
 tyckas	/tˈykːas/
 tycke	/tˈykːə/
 tycker	/tˈykːər/
@@ -25190,7 +25190,7 @@ tält	/tˈɛlt/
 tälta	/tˈɛlta/
 tältar	/tˈɛltar/
 tämja	/tˈɛmja/
-tämja	/'tɛmja/
+tämja	/ˈtɛmja/
 tämligen	/tˈɛmlɪgˌɛn/
 tända	/tˈɛnda/
 tändande	/tˈɛndandə/
@@ -26037,7 +26037,7 @@ utbildningsåret	/ˈʉtbɪldnˌɪŋsoːrət/
 utblick	/ˈʉtblɪk/
 utblottad	/ˈʉtblɔtːˌad/
 utbredd	/ˈʉtbrəd/
-utbredning	/'ʉːtbreːdnɪŋ/
+utbredning	/ˈʉːtbreːdnɪŋ/
 utbringa	/ˈʉtbrɪŋˌa/
 utbringar	/ˈʉtbrɪŋˌar/
 utbrista	/ˈʉtbrɪstˌa/
@@ -28662,7 +28662,7 @@ zygot	/sʏgˈoːt/
 överbringa	/ˈøːvərbrˌɪŋa/
 överbringar	/ˈøːvərbrˌɪŋar/
 överbrygga	/ˈøːvərbrˌyga/
-överbrygga	/'øːverˌbrʏga/
+överbrygga	/ˈøːverˌbrʏga/
 överbryggar	/ˈøːvərbrˌygar/
 överbyggnad	/ˈøːvərbˌygnad/
 överbyggnader	/ˈøːvərbˌygnadər/

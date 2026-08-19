@@ -2336,8 +2336,8 @@ abstract	/əbstɹˈakt/	VERB
 abstract	/əbstɹˈækt/	VERB
 abstract	/ˈabstɹakt/
 abstract	/ˈæbstɹˌækt/
-abstract	/'æbˌstɹækt/
-abstract	/əb'stɹækt/	VERB
+abstract	/ˈæbˌstɹækt/
+abstract	/əbˈstɹækt/	VERB
 abstract	/ˈæbˌstɹækt/	NOUN
 abstract	/ˌæbˈstɹækt/	VERB
 abstract	/əbˈstɹækt/	VERB
@@ -2571,8 +2571,8 @@ abuse	/əbjˈus/	NOUN
 abuse	/əbjˈuz/
 abuse	/əbjˈuːs/	NOUN
 abuse	/əbjˈuːz/
-abuse	/ə'bjuːs/	NOUN
-abuse	/ə'bjuːz/	VERB
+abuse	/əˈbjuːs/	NOUN
+abuse	/əˈbjuːz/	VERB
 abuse	/əˈbjuːs/	NOUN
 abuse	/əˈbjus/	NOUN
 abuse	/əˈbjʉs/	NOUN
@@ -2599,8 +2599,8 @@ abuses	/əbjˈusᵻz/	NOUN
 abuses	/əbjˈuzᵻz/
 abuses	/əbjˈuːsɪz/	NOUN
 abuses	/əbjˈuːzɪz/
-abuses	/ə'bjuːsəz/	NOUN
-abuses	/ə'bjuːzə/	VERB
+abuses	/əˈbjuːsəz/	NOUN
+abuses	/əˈbjuːzə/	VERB
 abush	/əbˈʊʃ/
 abusing	/ɐbjˈuːsɪŋ/
 abusing	/əbjˈuzɪŋ/
@@ -5634,8 +5634,8 @@ addict	/ˈæˌdɪkt/, /əˈdɪkt/
 addict	/ədˈɪkt/	VERB
 addict	/ˈadɪkt/
 addict	/ˈædɪkt/
-addict	/'ædəkt/	NOUN
-addict	/ə'dɪkt/	VERB
+addict	/ˈædəkt/	NOUN
+addict	/əˈdɪkt/	VERB
 addict's	/ˈadɪkts/
 addict's	/ˈædɪkts/
 addicted	/ɐdˈɪktɪd/
@@ -7571,8 +7571,8 @@ advocate	/ˈadvəkeɪt/	VERB
 advocate	/ˈadvəkət/
 advocate	/ˈædvəkət/
 advocate	/ˈædvəkˌeɪt/	VERB
-advocate	/'ædvəkət/	NOUN
-advocate	/'ædvəˌkeɪt/	VERB
+advocate	/ˈædvəkət/	NOUN
+advocate	/ˈædvəˌkeɪt/	VERB
 advocate's	/ˈadvəkəts/
 advocate's	/ˈædvəkəts/
 advocate's	/ˈædvəkɪts/
@@ -8256,8 +8256,8 @@ affect	/əˈfɛkt/	VERB
 affect	/əfˈɛkt/	VERB
 affect	/ˈafɛkt/
 affect	/ˈæfˌɛkt/
-affect	/'æˌfɛkt/	NOUN
-affect	/ə'fɛkt/	VERB
+affect	/ˈæˌfɛkt/	NOUN
+affect	/əˈfɛkt/	VERB
 affect	/ˈæ.fɛkt/	NOUN
 affect's	/ˈafɛkts/
 affect's	/ˈæfˌɛkts/
@@ -8356,8 +8356,8 @@ affiliate	/əfˈɪliət/
 affiliate	/əfˈɪliˌeɪt/	VERB
 affiliate	/əfˈɪlɪeɪt/	VERB
 affiliate	/əfˈɪlɪət/
-affiliate	/ə'fɪˌliːət/	NOUN
-affiliate	/ə0'fɪˌliːˌeɪt/	VERB
+affiliate	/əˈfɪˌliːət/	NOUN
+affiliate	/ə0ˈfɪˌliːˌeɪt/	VERB
 affiliate	/əˈfɪl.i.ət/
 affiliate	/əˈfɪl.i.eɪt/
 affiliate's	/əfˈɪliəts/
@@ -9331,8 +9331,8 @@ age-old	/ˈeɪdʒˌoʊld/
 age-old	/ˌeɪdʒˈəʊld/
 aged	/ˈeɪdʒd/, /ˈeɪdʒɪd/
 aged	/ˈeɪdʒd/
-aged	/'eɪdʒd/
-aged	/'eɪdʒəd/
+aged	/ˈeɪdʒd/
+aged	/ˈeɪdʒəd/
 agee	/ˈæd‍ʒiː/
 agee	/ˈeɪdʒˈi/
 agee's	/ˈeɪdʒiz/
@@ -9542,8 +9542,8 @@ aggregate	/ˈagɹɪgeɪt/	VERB
 aggregate	/ˈagɹɪgət/
 aggregate	/ˈægɹəgət/
 aggregate	/ˈægɹəgˌeɪt/	VERB
-aggregate	/'ægɹəgət/
-aggregate	/'ægɹəˌgeɪt/	VERB
+aggregate	/ˈægɹəgət/
+aggregate	/ˈægɹəˌgeɪt/	VERB
 aggregate's	/ˈagɹɪgəts/
 aggregate's	/ˈægɹəgəts/
 aggregated	/ˈæɡɹɪɡˌe‍ɪtɪd/
@@ -15100,8 +15100,8 @@ alternate	/ɔːltˈɜːnɪt/
 alternate	/ˈɔltəɹnət/
 alternate	/ˈɔltəɹnˌeɪt/	VERB
 alternate	/ˈɔːltəneɪt/	VERB
-alternate	/'ɑːltɚnət/
-alternate	/'ɑːltɚˌneɪt/	VERB
+alternate	/ˈɑːltɚnət/
+alternate	/ˈɑːltɚˌneɪt/	VERB
 alternate	/ɒlˈtɜː(ɹ).nət/
 alternate	/ɔːlˈtɜː(ɹ).nət/
 alternate	/ˈɒl.tə(ɹ)ˌneɪt/
@@ -18076,8 +18076,8 @@ analyses	/ənˈalɪsiːz/
 analyses	/ənˈæləsˌiz/
 analyses	/ˈanəlaɪzɪz/	VERB
 analyses	/ˈænəlˌaɪzᵻz/	VERB
-analyses	/'ænəˌlaɪzəz/
-analyses	/ə'næləˌsiːz/
+analyses	/ˈænəˌlaɪzəz/
+analyses	/əˈnæləˌsiːz/
 analyses	/əˈnæl.ɪ.siːz/	NOUN
 analyses	/əˈnæl.ə.siːz/	NOUN
 analyses	/ˈæn.ə.laɪ.zɪz/	VERB
@@ -19755,8 +19755,8 @@ animate	/ˈanɪmeɪt/
 animate	/ˈanɪmət/
 animate	/ˈænəmət/
 animate	/ˈænəmˌeɪt/
-animate	/'ænəmət/
-animate	/'ænəˌmeɪt/	VERB
+animate	/ˈænəmət/
+animate	/ˈænəˌmeɪt/	VERB
 animated	/ˈænɪmˌe‍ɪtɪd/
 animated	/ˈanɪmeɪtɪd/
 animated	/ˈænəmˌeɪɾᵻd/
@@ -25133,8 +25133,8 @@ appropriate	/əpɹˈoʊpɹiət/
 appropriate	/əpɹˈoʊpɹiˌeɪt/	VERB
 appropriate	/əpɹˈəʊpɹɪeɪt/	VERB
 appropriate	/əpɹˈəʊpɹɪət/
-appropriate	/ə'pɹoʊˌpɹiːət/	ADJ
-appropriate	/ə'pɹoʊˌpɹiːˌeɪt/	VERB
+appropriate	/əˈpɹoʊˌpɹiːət/	ADJ
+appropriate	/əˈpɹoʊˌpɹiːˌeɪt/	VERB
 appropriate	/əˈpɹəʊ.pɹi.eɪt/	VERB
 appropriate	/əˈpɹoʊ.pɹi.eɪt/	VERB
 appropriate	/əˈpɾɔpɾɪeʈ/	VERB
@@ -25230,8 +25230,8 @@ approximate	/əpɹˈɑksəmət/
 approximate	/əpɹˈɑksəmˌeɪt/	VERB
 approximate	/əpɹˈɒksɪmeɪt/	VERB
 approximate	/əpɹˈɒksɪmət/
-approximate	/ə'pɹɑːksəmət/	ADJ
-approximate	/ə'pɹɑːsəˌmeɪt/	VERB
+approximate	/əˈpɹɑːksəmət/	ADJ
+approximate	/əˈpɹɑːsəˌmeɪt/	VERB
 approximate	/əˈpɹɒk.sɪ.mət/	ADJ
 approximate	/əˈpɹɑk.sə.mət/	ADJ
 approximate	/əˈpɹɑk.sɪ.mət/	ADJ
@@ -28870,8 +28870,8 @@ articulate	/ɑɹtˈɪkjələt/
 articulate	/ɑɹtˈɪkjəlˌeɪt/	VERB
 articulate	/ɑːtˈɪkjʊleɪt/	VERB
 articulate	/ɑːtˈɪkjʊlət/
-articulate	/ɑːɹ'tɪkjələt/	ADJ
-articulate	/ˌɑːɹ'tɪkjəˌleɪt/	VERB
+articulate	/ɑːɹˈtɪkjələt/	ADJ
+articulate	/ˌɑːɹˈtɪkjəˌleɪt/	VERB
 articulated	/ɑːtˈɪkjʊlˌe‍ɪtɪd/
 articulated	/ɑɹtˈɪkjəlˌeɪɾᵻd/
 articulated	/ɑːtˈɪkjʊleɪtɪd/
@@ -30692,8 +30692,8 @@ associate	/əsˈoʊsiət/
 associate	/əsˈoʊsiˌeɪt/	VERB
 associate	/əsˈəʊʃɪeɪt/	VERB
 associate	/əsˈəʊʃɪət/
-associate	/ə'soʊˌsiːət/
-associate	/ə'soʊˌsiːˌeɪt/	VERB
+associate	/əˈsoʊˌsiːət/
+associate	/əˈsoʊˌsiːˌeɪt/	VERB
 associate's	/əsˈoʊsiəts/
 associate's	/əsˈəʊʃɪəts/
 associate's	/əsˈoʊʃiɪts/
@@ -32659,8 +32659,8 @@ attribute	/ətɹˈɪbjuːt/	VERB
 attribute	/ətɹˈɪbjˌut/	VERB
 attribute	/ˈatɹɪbjuːt/
 attribute	/ˈætɹəbjˌut/
-attribute	/'ætɹəˌbjuːt/	NOUN
-attribute	/ə'tɹɪˌbjuːt/	VERB
+attribute	/ˈætɹəˌbjuːt/	NOUN
+attribute	/əˈtɹɪˌbjuːt/	VERB
 attribute	/ˈæt.ɹɪ.bjuːt/
 attribute	/əˈtɹɪb.juːt/
 attribute's	/ˈatɹɪbjuːts/
@@ -33191,9 +33191,9 @@ august	/ɔgˈʌst/
 august	/ɔːgˈʌst/
 august	/ˈɔgəst/
 august	/ˈɔːgəst/
-august	/'aʊˌgʊst/
-august	/'ɑːgəst/
-august	/ˌɑː'gʌst/	ADJ
+august	/ˈaʊˌgʊst/
+august	/ˈɑːgəst/
+august	/ˌɑːˈgʌst/	ADJ
 august	/ɔːˈɡʌst/
 august's	/ˈɔgəsts/
 augusta	/əˈɡəstə/
@@ -35651,8 +35651,8 @@ axes	/ˈaksiːz/
 axes	/ˈaksɪz/	VERB
 axes	/ˈæksˌiz/
 axes	/ˈæksᵻz/	VERB
-axes	/'æksəz/
-axes	/'ækˌsiːz/
+axes	/ˈæksəz/
+axes	/ˈækˌsiːz/
 axford	/æksˈfɔɹd/
 axford	/æksfˈɔɹd/
 axial	/ˈæksɪəl/
@@ -50900,8 +50900,8 @@ bass	/ˈbæs/, /ˈbeɪs/
 bass	/bˈas/
 bass	/bˈeɪs/
 bass	/bˈæs/
-bass	/'beɪs/
-bass	/'bæs/
+bass	/ˈbeɪs/
+bass	/ˈbæs/
 bass	/beɪs/	ADJ
 bass	/bæs/	NOUN
 bass's	/bˈeɪsɪz/
@@ -65990,8 +65990,8 @@ bless	/blˈɛs/
 bless	/bles/	VERB
 blessed	/ˈbɫɛst/
 blessed	/blˈɛst/
-blessed	/'blɛst/	VERB
-blessed	/'blɛsəd/	ADJ
+blessed	/ˈblɛst/	VERB
+blessed	/ˈblɛsəd/	ADJ
 blesseder	/blˈɛstə/
 blesseder	/blˈɛstəɹ/
 blessedly	/blˈɛsɪdli/
@@ -69497,8 +69497,8 @@ bolo	/ˈbəʊ.ləʊ/
 bologna	/bəlˈə‍ʊni/
 bologna	/bəlˈoʊnjə/
 bologna	/bəlˈɒnjə/
-bologna	/bə'loʊnjə/
-bologna	/bə'loʊˌniː/
+bologna	/bəˈloʊnjə/
+bologna	/bəˈloʊˌniː/
 bologna	/bəˈlɒnjə/
 bologna	/bəˈləʊnjə/
 bolognese	/boʊɫoʊɡˈneɪzi/
@@ -73044,8 +73044,8 @@ bow	/ˈboʊ/	NOUN
 bow	/bˈaʊ/	VERB
 bow	/bˈoʊ/
 bow	/bˈəʊ/
-bow	/'baʊ/
-bow	/'boʊ/
+bow	/ˈbaʊ/
+bow	/ˈboʊ/
 bow	/bəʊ/	NOUN
 bow	/boʊ/	NOUN
 bow	/baʊ/	VERB
@@ -80512,8 +80512,8 @@ buffet	/bʊfˈeɪ/
 buffet	/bˈʌfeɪ/
 buffet	/bˈʌfət/	VERB
 buffet	/bˈʌfɪt/	VERB
-buffet	/'bʌfət/
-buffet	/ˌbʌ'feɪ/
+buffet	/ˈbʌfət/
+buffet	/ˌbʌˈfeɪ/
 buffet	/ˈbʊf.eɪ/	NOUN
 buffet	/ˈbʌf.eɪ/	NOUN
 buffet	/bʌˈfeɪ/	NOUN
@@ -95887,8 +95887,8 @@ celtiberian	/kˌɛltəbˈɪɹiən/
 celtiberian	/kˌɛltɪbˈɪəɹɪən/
 celtic	/ˈkɛɫtɪk/, /ˈsɛɫtɪk/
 celtic	/kˈɛltɪk/
-celtic	/'kɛltək/
-celtic	/'sɛltək/
+celtic	/ˈkɛltək/
+celtic	/ˈsɛltək/
 celtically	/kˈɛltɪkli/
 celticism	/kˈɛltəsˌɪzəm/
 celticism	/kˈɛltɪsɪzəm/
@@ -109656,8 +109656,8 @@ close	/klˈoʊs/
 close	/klˈoʊz/	NOUN
 close	/klˈəʊs/
 close	/klˈəʊz/	NOUN
-close	/'kloʊs/
-close	/'kloʊz/	VERB
+close	/ˈkloʊs/
+close	/ˈkloʊz/	VERB
 close	/kləʊs/	ADJ
 close	/kləʊz/	VERB
 close	/kloʊz/	VERB
@@ -114904,8 +114904,8 @@ combine	/ˈkɑmbaɪn/, /kəmˈbaɪn/
 combine	/kəmbˈaɪn/
 combine	/kˈɑmbˌaɪn/	NOUN
 combine	/kˈɒmbaɪn/	NOUN
-combine	/'kɑːmˌbaɪn/	NOUN
-combine	/kəm'baɪn/	VERB
+combine	/ˈkɑːmˌbaɪn/	NOUN
+combine	/kəmˈbaɪn/	VERB
 combine	/ˈkɒm.baɪn/	NOUN
 combine	/kəmˈbaɪn/	VERB
 combine	/ˈkɑm.baɪn/	NOUN
@@ -116233,8 +116233,8 @@ compact	/kəmpˈakt/
 compact	/kəmpˈækt/	VERB
 compact	/kˈɑmpˌækt/
 compact	/kˈɒmpakt/
-compact	/'kɑːmˌpækt/
-compact	/kəm'pækt/	VERB
+compact	/ˈkɑːmˌpækt/
+compact	/kəmˈpækt/	VERB
 compact	/ˈkɒmˌpækt/
 compact	/kəmˈpækt/
 compact's	/kˈɑmpˌækts/
@@ -117172,8 +117172,8 @@ compound	/ˈkɑmpaʊnd/, /kəmˈpaʊnd/
 compound	/kəmpˈaʊnd/	VERB
 compound	/kˈɑmpˌaʊnd/
 compound	/kˈɒmpaʊnd/
-compound	/'kɑːmˌpaʊnd/
-compound	/kəm'paʊnd/	VERB
+compound	/ˈkɑːmˌpaʊnd/
+compound	/kəmˈpaʊnd/	VERB
 compound	/ˈkɒmˈpaʊnd/	NOUN
 compound	/ˈkɑmˈpaʊnd/	NOUN
 compound	/ˈkɒmpaʊnd/	NOUN
@@ -117256,8 +117256,8 @@ compress	/ˈkɑmpɹɛs/, /kəmˈpɹɛs/
 compress	/kəmpɹˈɛs/
 compress	/kˈɑmpɹˌɛs/	NOUN
 compress	/kˈɒmpɹɛs/	NOUN
-compress	/'kɑːmˌpɹɛs/	NOUN
-compress	/kəm'pɹɛs/	VERB
+compress	/ˈkɑːmˌpɹɛs/	NOUN
+compress	/kəmˈpɹɛs/	VERB
 compress	/kəmˈpɹɛs/	VERB
 compress	/ˈkɒmpɹɛs/	NOUN
 compress	/ˈkɑmpɹɛs/	NOUN
@@ -118671,8 +118671,8 @@ conduct	/kɑnˈdəkt/	VERB
 conduct	/kəndˈʌkt/	VERB
 conduct	/kˈɑndˌʌkt/
 conduct	/kˈɒndʌkt/
-conduct	/'kɑːnˌdʌkt/	NOUN
-conduct	/kən'dʌkt/	VERB
+conduct	/ˈkɑːnˌdʌkt/	NOUN
+conduct	/kənˈdʌkt/	VERB
 conduct	/ˈkɒndʌkt/
 conduct's	/kˈɑndˌʌkts/
 conduct's	/kˈɒndʌkts/
@@ -119103,8 +119103,8 @@ confines	/ˈkɑnˌfaɪnz/, /kənˈfaɪnz/
 confines	/kənfˈaɪnz/
 confines	/kˈɑnfaɪnz/	NOUN
 confines	/kˈɒnfaɪnz/	NOUN
-confines	/'kɑːnˌfaɪnz/	NOUN
-confines	/kən'faɪnz/	VERB
+confines	/ˈkɑːnˌfaɪnz/	NOUN
+confines	/kənˈfaɪnz/	VERB
 confines	/ˈkɒnfaɪnz/
 confining	/kənfˈa‍ɪnɪŋ/
 confining	/kənfˈaɪnɪŋ/
@@ -119232,8 +119232,8 @@ conflict	/kənˈfɫɪkt/	VERB
 conflict	/kənflˈɪkt/	VERB
 conflict	/kˈɑnflˌɪkt/
 conflict	/kˈɒnflɪkt/
-conflict	/'kɑːnfləkt/	NOUN
-conflict	/kən'flɪkt/	VERB
+conflict	/ˈkɑːnfləkt/	NOUN
+conflict	/kənˈflɪkt/	VERB
 conflict	/ˈkɒn.flɪkt/
 conflict	/kənˈflɪkt/
 conflict's	/kˈɑnflˌɪkts/
@@ -119610,8 +119610,8 @@ conglomerate	/kənglˈɑməɹət/
 conglomerate	/kənglˈɑməɹˌeɪt/	VERB
 conglomerate	/kənglˈɒməɹeɪt/	VERB
 conglomerate	/kənglˈɒməɹət/
-conglomerate	/kən'glɑːmɚət/
-conglomerate	/kən'glɑːmɚˌeɪt/	VERB
+conglomerate	/kənˈglɑːmɚət/
+conglomerate	/kənˈglɑːmɚˌeɪt/	VERB
 conglomerate	/kənˈɡlɒm.(ə.)ɹət/
 conglomerate	/kənˈɡlɒm.əˌɹeɪt/
 conglomerate's	/kənglˈɑməɹəts/
@@ -119930,8 +119930,8 @@ conjugate	/kˈɑndʒəgət/
 conjugate	/kˈɑndʒəgˌeɪt/	VERB
 conjugate	/kˈɒndʒʊgeɪt/	VERB
 conjugate	/kˈɒndʒʊgət/
-conjugate	/'kɑːndʒəgət/
-conjugate	/'kɑːndʒəˌgeɪt/	VERB
+conjugate	/ˈkɑːndʒəgət/
+conjugate	/ˈkɑːndʒəˌgeɪt/	VERB
 conjugate	/ˈkɒn.d͡ʒə.ɡeɪt/
 conjugate	/ˈkɒn.d͡ʒə.ɡət/
 conjugate's	/kˈɑndʒəgəts/
@@ -120531,8 +120531,8 @@ conscript	/ˈkɑnsˌkɹɪpt/, /kənsˈkɹɪpt/
 conscript	/kənskɹˈɪpt/	VERB
 conscript	/kˈɑnskɹˌɪpt/
 conscript	/kˈɒnskɹɪpt/
-conscript	/'kɑːnˌskɹɪpt/	NOUN
-conscript	/kən'skɹɪpt/	VERB
+conscript	/ˈkɑːnˌskɹɪpt/	NOUN
+conscript	/kənˈskɹɪpt/	VERB
 conscript	/ˈkɒnskɹɪpt/
 conscript's	/kˈɑnskɹˌɪpts/
 conscript's	/kˈɒnskɹɪpts/
@@ -120939,8 +120939,8 @@ console	/kənsˈoʊl/	VERB
 console	/kənsˈəʊl/	VERB
 console	/kˈɑnsˌoʊl/
 console	/kˈɒnsəʊl/
-console	/'kɑːnˌsoʊl/	NOUN
-console	/kən'soʊl/	VERB
+console	/ˈkɑːnˌsoʊl/	NOUN
+console	/kənˈsoʊl/	VERB
 console	/ˈkɒn.səʊl/	NOUN
 console	/ˈkɑn.soʊl/	NOUN
 console	/ˈkɒn.soʊl/	NOUN
@@ -121039,8 +121039,8 @@ consort	/kənsˈɔɹt/	VERB
 consort	/kənsˈɔːt/	VERB
 consort	/kˈɑnsɔɹt/
 consort	/kˈɒnsɔːt/
-consort	/'kɑːnˌsɔːɹt/	NOUN
-consort	/kən'sɔːɹt/	VERB
+consort	/ˈkɑːnˌsɔːɹt/	NOUN
+consort	/kənˈsɔːɹt/	VERB
 consort's	/kˈɑnsɔɹts/
 consort's	/kˈɒnsɔːts/
 consortable	/kənsˈɔɹɾəbəl/
@@ -121394,8 +121394,8 @@ construct	/ˈkɑnstɹəkt/, /kənˈstɹəkt/
 construct	/kənstɹˈʌkt/
 construct	/kˈɑnstɹˌʌkt/	NOUN
 construct	/kˈɒnstɹʌkt/	NOUN
-construct	/'kɑːnˌstɹʌkt/	NOUN
-construct	/kən'stɹʌkt/	VERB
+construct	/ˈkɑːnˌstɹʌkt/	NOUN
+construct	/kənˈstɹʌkt/	VERB
 construct's	/kˈɑnstɹˌʌkts/
 construct's	/kˈɒnstɹʌkts/
 constructed	/kənstɹˈʌktɪd/
@@ -121615,8 +121615,8 @@ consummate	/kˈɑnsəmət/
 consummate	/kˈɑnsəmˌeɪt/
 consummate	/kˈɒnsjʊmeɪt/
 consummate	/kˈɒnsjʊmət/
-consummate	/'kɑːnsəmət/	ADJ
-consummate	/'kɑːnsəˌmeɪt/	VERB
+consummate	/ˈkɑːnsəmət/	ADJ
+consummate	/ˈkɑːnsəˌmeɪt/	VERB
 consummate	/ˈkɒnsəmət/	ADJ
 consummate	/ˈkɒnsjʊmət/	ADJ
 consummate	/kənˈsʌmɪt/	ADJ
@@ -121958,8 +121958,8 @@ content	/kənˈtɛnt/	ADJ
 content	/kəntˈɛnt/
 content	/kˈɑntɛnt/	NOUN
 content	/kˈɒntɛnt/	NOUN
-content	/'kɑːnˌtɛnt/	NOUN
-content	/kən'tɛnt/
+content	/ˈkɑːnˌtɛnt/	NOUN
+content	/kənˈtɛnt/
 content	/ˈkɒn.tɛnt/
 content	/ˈkɔn.tɛnt/
 content management system	/ˈkɒntɛnt ˈmænɪdʒmənt ˈsɪstəm/
@@ -122016,8 +122016,8 @@ contest	/ˈkɑntɛst/, /kənˈtɛst/
 contest	/kəntˈɛst/	VERB
 contest	/kˈɑntˌɛst/
 contest	/kˈɒntɛst/
-contest	/'kɑːnˌtɛst/	NOUN
-contest	/kən'tɛst/	VERB
+contest	/ˈkɑːnˌtɛst/	NOUN
+contest	/kənˈtɛst/	VERB
 contest	/ˈkɒn.tɛst/
 contest shape	/ˈkɒntɛst ˌʃeɪp/
 contest's	/ˈkɑntɛsts/
@@ -122311,8 +122311,8 @@ contract	/kəntɹˈakt/	VERB
 contract	/kəntɹˈækt/	VERB
 contract	/kˈɑntɹˌækt/
 contract	/kˈɒntɹakt/
-contract	/'kɑːnˌtɹækt/	NOUN
-contract	/kən'tɹækt/	VERB
+contract	/ˈkɑːnˌtɹækt/	NOUN
+contract	/kənˈtɹækt/	VERB
 contract	/ˈkɒntɹækt/	NOUN
 contract	/ˈkɑntɹækt/	NOUN
 contract	/kənˈtɹækt/	VERB
@@ -122572,8 +122572,8 @@ contrast	/kəntɹˈæst/	VERB
 contrast	/kəntɹˈɑːst/	VERB
 contrast	/kˈɑntɹˌæst/
 contrast	/kˈɒntɹɑːst/
-contrast	/'kɑːnˌtɹæst/	NOUN
-contrast	/kən'tɹæst/	VERB
+contrast	/ˈkɑːnˌtɹæst/	NOUN
+contrast	/kənˈtɹæst/	VERB
 contrast	/ˈkɒntɹɑːst/
 contrast	/ˈkɒntɹast/
 contrast	/kənˈtɹɑːst/
@@ -123083,8 +123083,8 @@ converse	/kənvˈɜɹs/
 converse	/kənvˈɜːs/
 converse	/kˈɑnvˌɜɹs/
 converse	/kˈɒnvəːs/
-converse	/'kɑːnvɚs/
-converse	/kən'vɚs/	VERB
+converse	/ˈkɑːnvɚs/
+converse	/kənˈvɚs/	VERB
 converse	/kənˈvɜːs/	VERB
 converse	/ˈkɒnvɜːs/	ADJ
 converse's	/kˈɑnvˌɜɹsᵻz/
@@ -123132,8 +123132,8 @@ convert	/kənvˈɜɹt/
 convert	/kənvˈɜːt/
 convert	/kˈɑnvˌɜɹt/	NOUN
 convert	/kˈɒnvəːt/	NOUN
-convert	/'kɑːnvɚt/	NOUN
-convert	/kən'vɚt/	VERB
+convert	/ˈkɑːnvɚt/	NOUN
+convert	/kənˈvɚt/	VERB
 convert	/ˈkɒn.vət/
 convert	/ˈkʰɒɱ.vət/
 convert	/kənˈvɜːt/
@@ -123260,8 +123260,8 @@ convict	/ˈkɑnvɪkt/, /kənˈvɪkt/
 convict	/kənvˈɪkt/
 convict	/kˈɑnvˌɪkt/	NOUN
 convict	/kˈɒnvɪkt/	NOUN
-convict	/'kɑːnvəkt/	NOUN
-convict	/kən'vɪkt/	VERB
+convict	/ˈkɑːnvəkt/	NOUN
+convict	/kənˈvɪkt/	VERB
 convict	/ˈkɒnvɪkt/
 convict's	/ˈkɑnvɪkts/
 convict's	/kˈɑnvˌɪkts/
@@ -123855,8 +123855,8 @@ coordinate	/koʊˈɔɹdənət/
 coordinate	/koʊˈɔɹdənˌeɪt/	VERB
 coordinate	/kəʊˈɔːdɪneɪt/	VERB
 coordinate	/kəʊˈɔːdɪnət/
-coordinate	/ˌkoʊ'ɔːɹdənət/
-coordinate	/ˌkoʊ'ɔːɹdəˌneɪt/	VERB
+coordinate	/ˌkoʊˈɔːɹdənət/
+coordinate	/ˌkoʊˈɔːɹdəˌneɪt/	VERB
 coordinate	/kəʊˈɔː.dɪ.nɪt/
 coordinate	//ˈkwɔː.dɪ.nɪt/<q:fast pronunciation>/
 coordinate	/kəʊˈɔː.dɪˌneɪt/
@@ -125874,8 +125874,8 @@ correlate	/kˈɒɹəleɪt/
 correlate	/kˈɒɹələt/	NOUN
 correlate	/kˈɔɹələt/	NOUN
 correlate	/kˈɔɹəlˌeɪt/
-correlate	/'kɔːɹələt/	NOUN
-correlate	/'kɔːɹəˌleɪt/	VERB
+correlate	/ˈkɔːɹələt/	NOUN
+correlate	/ˈkɔːɹəˌleɪt/	VERB
 correlate	/ˈkɒɹəleɪt/
 correlate	/ˈkɒɹələt/
 correlate's	/kˈɒɹələts/
@@ -144619,8 +144619,8 @@ decrease	/dəkɹˈis/	VERB
 decrease	/dɪkɹˈiːs/	VERB
 decrease	/dˈikɹˌis/
 decrease	/dˈiːkɹiːs/
-decrease	/'diːˌkɹiːs/	NOUN
-decrease	/də'kɹiːs/	VERB
+decrease	/ˈdiːˌkɹiːs/	NOUN
+decrease	/dəˈkɹiːs/	VERB
 decrease's	/dˈikɹˌisᵻz/
 decrease's	/dˈiːkɹiːsɪz/
 decreased	/dˈiːkɹiːsd/
@@ -145485,8 +145485,8 @@ defect	/dəfˈɛkt/	VERB
 defect	/dɪfˈɛkt/	VERB
 defect	/dˈifɛkt/
 defect	/dˈiːfɛkt/
-defect	/'diːˌfɛkt/	NOUN
-defect	/də'fɛkt/	VERB
+defect	/ˈdiːˌfɛkt/	NOUN
+defect	/dəˈfɛkt/	VERB
 defect's	/dˈifɛkts/
 defect's	/dˈiːfɛkts/
 defected	/dˈiːfɛktɪd/
@@ -146407,8 +146407,8 @@ degenerate	/dədʒˈɛnəɹət/
 degenerate	/dədʒˈɛnəɹˌeɪt/	VERB
 degenerate	/dɪdʒˈɛnəɹeɪt/	VERB
 degenerate	/dɪdʒˈɛnəɹət/
-degenerate	/də'dʒɛnɚət/
-degenerate	/də'dʒɛnɚˌeɪt/	VERB
+degenerate	/dəˈdʒɛnɚət/
+degenerate	/dəˈdʒɛnɚˌeɪt/	VERB
 degenerate's	/dədʒˈɛnəɹəts/
 degenerate's	/dɪdʒˈɛnəɹəts/
 degenerated	/dɪd‍ʒˈɛnəɹˌe‍ɪtɪd/
@@ -147423,8 +147423,8 @@ delegate	/dˈɛləgət/
 delegate	/dˈɛləgˌeɪt/	VERB
 delegate	/dˈɛlɪgeɪt/	VERB
 delegate	/dˈɛlɪgət/
-delegate	/'dɛləgət/	NOUN
-delegate	/'dɛləˌgeɪt/	VERB
+delegate	/ˈdɛləgət/	NOUN
+delegate	/ˈdɛləˌgeɪt/	VERB
 delegate	/ˈdɛlɪɡət/	NOUN
 delegate	/ˈdɛləɡət/	NOUN
 delegate	/ˈdeləɡət/	NOUN
@@ -147578,8 +147578,8 @@ deliberate	/dəlˈɪbəɹət/
 deliberate	/dəlˈɪbəɹˌeɪt/
 deliberate	/dɪlˈɪbəɹeɪt/
 deliberate	/dɪlˈɪbəɹət/
-deliberate	/də'lɪbɚət/	ADJ
-deliberate	/də'lɪbɚˌeɪt/	VERB
+deliberate	/dəˈlɪbɚət/	ADJ
+deliberate	/dəˈlɪbɚˌeɪt/	VERB
 deliberate	/dɪˈlɪb.(ə.)ɹət/
 deliberate	/dɪˈlɪb.ə.ɹeɪt/
 deliberated	/dɪlˈɪbəɹətɪd/
@@ -152085,8 +152085,8 @@ desert	/dəzˈɜɹt/	VERB
 desert	/dɪzˈɜːt/	VERB
 desert	/dˈɛzət/
 desert	/dˈɛzəɹt/
-desert	/'dɛzɚt/	NOUN
-desert	/də'zɚt/	VERB
+desert	/ˈdɛzɚt/	NOUN
+desert	/dəˈzɚt/	VERB
 desert	/ˈdɛz.ət/	NOUN
 desert	/ˈdɛz.ɚt/	NOUN
 desert	/dəˈzɑɹt/	NOUN
@@ -153959,8 +153959,8 @@ deviate	/dˈiviət/
 deviate	/dˈiviˌeɪt/
 deviate	/dˈiːvɪeɪt/
 deviate	/dˈiːvɪət/
-deviate	/'diːˌviːət/	NOUN
-deviate	/'diːˌviːˌeɪt/	VERB
+deviate	/ˈdiːˌviːət/	NOUN
+deviate	/ˈdiːˌviːˌeɪt/	VERB
 deviate	/ˈdiː.vi.eɪt/
 deviate	/ˈdiː.vi.ət/
 deviate's	/dˈiviəts/
@@ -154859,8 +154859,8 @@ diagnoses	/dˌaɪəgnˈoʊsˌiz/	NOUN
 diagnoses	/dˌaɪəgnˈoʊsᵻz/
 diagnoses	/dˌaɪəgnˈəʊsiːz/	NOUN
 diagnoses	/dˌaɪəgnˈəʊzɪz/
-diagnoses	/ˌdaɪəg'noʊsəz/	VERB
-diagnoses	/ˌdaɪəg'noʊˌsiːz/	NOUN
+diagnoses	/ˌdaɪəgˈnoʊsəz/	VERB
+diagnoses	/ˌdaɪəgˈnoʊˌsiːz/	NOUN
 diagnoses	/daɪəɡˈnəʊsiz/	NOUN
 diagnoses	/daɪəɡˈnəʊzɪz/	VERB
 diagnosing	/dˌa‍ɪəɡnˈə‍ʊzɪŋ/
@@ -156442,8 +156442,8 @@ diffuse	/dəfjˈus/
 diffuse	/dəfjˈuz/
 diffuse	/dɪfjˈuːs/
 diffuse	/dɪfjˈuːz/
-diffuse	/də'fjuːs/	ADJ
-diffuse	/də'fjuːz/	VERB
+diffuse	/dəˈfjuːs/	ADJ
+diffuse	/dəˈfjuːz/	VERB
 diffuse	/dɪˈfjuːz/	VERB
 diffuse	/dɪˈfjuz/	VERB
 diffuse	/dɪˈfjuːs/	ADJ
@@ -159281,8 +159281,8 @@ discard	/dəskˈɑɹd/
 discard	/dɪskˈɑːd/
 discard	/dˈɪskɑːd/	NOUN
 discard	/dˈɪskˌɑɹd/	NOUN
-discard	/'dɪsˌkɑːɹd/	NOUN
-discard	/dəs'kɑːɹd/	VERB
+discard	/ˈdɪsˌkɑːɹd/	NOUN
+discard	/dəsˈkɑːɹd/	VERB
 discard	/dɪsˈkɑːd/
 discard	/dɪˈskɑːd/
 discard	/ˈdɪskɑːd/
@@ -159379,8 +159379,8 @@ discharge	/dɪstʃˈɑɹdʒ/
 discharge	/dɪstʃˈɑːdʒ/
 discharge	/dˈɪstʃɑːdʒ/	NOUN
 discharge	/dˈɪstʃˌɑɹdʒ/	NOUN
-discharge	/'dɪsˌtʃɑːɹdʒ/	NOUN
-discharge	/dəs'tʃɑːɹdʒ/	VERB
+discharge	/ˈdɪsˌtʃɑːɹdʒ/	NOUN
+discharge	/dəsˈtʃɑːɹdʒ/	VERB
 discharge's	/dˈɪstʃɑːdʒɪz/
 discharge's	/dˈɪstʃˌɑɹdʒᵻz/
 dischargeable	/dɪstʃˈɑɹdʒəbəl/
@@ -159864,8 +159864,8 @@ discount	/dɪskˈaʊnt/	VERB
 discount	/dˈɪskaʊnt/
 discount	/dˈɪskˌaʊnt/
 discount	/dˌɪskˈaʊnt/	VERB
-discount	/'dɪsˌkaʊnt/
-discount	/dəs'kaʊnt/	VERB
+discount	/ˈdɪsˌkaʊnt/
+discount	/dəsˈkaʊnt/	VERB
 discount's	/dˈɪskaʊnts/
 discount's	/dˈɪskˌaʊnts/
 discountable	/ˈdɪsˌkaʊntəbəɫ/
@@ -164710,8 +164710,8 @@ document	/dˈɑkjəmənt/
 document	/dˈɑkjəmˌɛnt/	VERB
 document	/dˈɒkjʊmənt/
 document	/dˈɒkjʊmɛnt/	VERB
-document	/'dɑːkjəˌmɛnt/	VERB
-document	/'dɑːˌkjuːmənt/	NOUN
+document	/ˈdɑːkjəˌmɛnt/	VERB
+document	/ˈdɑːˌkjuːmənt/	NOUN
 document's	/dˈɑkjəmənts/
 document's	/dˈɒkjʊmənts/
 documenta	/ˌdɑkjuˈmɛntə/
@@ -167899,8 +167899,8 @@ dove	/ˈdoʊv/	VERB
 dove	/dˈoʊv/	VERB
 dove	/dˈəʊv/	VERB
 dove	/dˈʌv/
-dove	/'doʊv/
-dove	/'dʌv/
+dove	/ˈdoʊv/
+dove	/ˈdʌv/
 dove	/dʌv/	NOUN
 dove	/dəʊv/	VERB
 dove	/doʊv/	VERB
@@ -172516,8 +172516,8 @@ duplicate	/djˈuːplɪkeɪt/	VERB
 duplicate	/djˈuːplɪkət/
 duplicate	/dˈupləkət/
 duplicate	/dˈupləkˌeɪt/	VERB
-duplicate	/'duːpləkət/
-duplicate	/'duːpləkˌeɪt/	VERB
+duplicate	/ˈduːpləkət/
+duplicate	/ˈduːpləkˌeɪt/	VERB
 duplicate's	/djˈuːplɪkəts/
 duplicate's	/dˈupləkəts/
 duplicated	/djˈuːplɪkˌe‍ɪtɪd/
@@ -177450,8 +177450,8 @@ elaborate	/əlˈæbəɹət/
 elaborate	/əlˈæbəɹˌeɪt/
 elaborate	/ɪlˈabəɹeɪt/
 elaborate	/ɪlˈabəɹət/
-elaborate	/ə'læbɚət/	ADJ
-elaborate	/ˌiː'læbɚeɪt/	VERB
+elaborate	/əˈlæbɚət/	ADJ
+elaborate	/ˌiːˈlæbɚeɪt/	VERB
 elaborate	/ɪˈlæb.ə.ɹeɪt/
 elaborated	/ɪlˈæbəɹˌe‍ɪtɪd/
 elaborated	/ɪlˈæbɚeɪtɪd/
@@ -184924,8 +184924,8 @@ entrammel	/ɪntɹˈaməl/
 entrance	/ˈɛntɹəns/
 entrance	/ɪntɹˈæns/	VERB
 entrance	/ɪntɹˈɑːns/	VERB
-entrance	/'ɛntɹəns/	NOUN
-entrance	/ə'ntɹæns/	VERB
+entrance	/ˈɛntɹəns/	NOUN
+entrance	/əˈntɹæns/	VERB
 entrance	/ˈɛn.tɹəns/	NOUN
 entrance	/ɛnˈtɹɑːns/	VERB
 entrance	/ɛnˈtɹæns/	VERB
@@ -188107,8 +188107,8 @@ escort	/ɪskˈɔɹt/	VERB
 escort	/ɪskˈɔːt/	VERB
 escort	/ˈɛskɔːt/
 escort	/ˈɛskˌɔɹt/
-escort	/'ɛsˌkɔːɹt/	NOUN
-escort	/əs'kɔːɹt/	VERB
+escort	/ˈɛsˌkɔːɹt/	NOUN
+escort	/əsˈkɔːɹt/	VERB
 escort	/ˈɛs.kɔːt/
 escort	/ɪsˈkɔːt/
 escort's	/ˈɛskɔːts/
@@ -188738,8 +188738,8 @@ estimate	/ˈɛstəmət/	NOUN
 estimate	/ˈɛstəmˌeɪt/
 estimate	/ˈɛstɪmeɪt/
 estimate	/ˈɛstɪmət/	NOUN
-estimate	/'ɛstəmət/	NOUN
-estimate	/'ɛstəˌmeɪt/	VERB
+estimate	/ˈɛstəmət/	NOUN
+estimate	/ˈɛstəˌmeɪt/	VERB
 estimate's	/ˈɛstəməts/
 estimate's	/ˈɛstɪməts/
 estimated	/ˈɛstɪmˌe‍ɪtɪd/
@@ -191980,8 +191980,8 @@ excuse	/ɪkskjˈus/	NOUN
 excuse	/ɪkskjˈuz/
 excuse	/ɪkskjˈuːs/	NOUN
 excuse	/ɪkskjˈuːz/
-excuse	/ək'skjuːs/	NOUN
-excuse	/ək'skjuːz/	VERB
+excuse	/əkˈskjuːs/	NOUN
+excuse	/əkˈskjuːz/	VERB
 excuse's	/ɪkskjˈusᵻz/
 excuse's	/ɪkskjˈuːsɪz/
 excused	/ɛkskjˈuːsd/
@@ -192910,8 +192910,8 @@ expatriate	/ɛkspˈatɹɪeɪt/	VERB
 expatriate	/ɛkspˈatɹɪət/
 expatriate	/ɛkspˈeɪtɹiət/
 expatriate	/ɛkspˈeɪtɹiˌeɪt/	VERB
-expatriate	/ˌɛk'speɪˌtɹiːət/	NOUN
-expatriate	/ˌɛk'speɪˌtɹiːˌeɪt/	VERB
+expatriate	/ˌɛkˈspeɪˌtɹiːət/	NOUN
+expatriate	/ˌɛkˈspeɪˌtɹiːˌeɪt/	VERB
 expatriate's	/ɛkspˈatɹɪəts/
 expatriate's	/ɛkspˈeɪtɹiəts/
 expatriated	/ɛkspˈætɹɪˌe‍ɪtɪd/
@@ -193381,8 +193381,8 @@ exploit	/ˈɛksˌpɫɔɪt/, /ˌɛksˈpɫɔɪt/
 exploit	/ɪksplˈɔɪt/
 exploit	/ˈɛksplɔɪt/	NOUN
 exploit	/ˈɛksplˌɔɪt/	NOUN
-exploit	/'ɛkˌsplɔɪt/	NOUN
-exploit	/ək'splɔɪt/	VERB
+exploit	/ˈɛkˌsplɔɪt/	NOUN
+exploit	/əkˈsplɔɪt/	VERB
 exploit's	/ˈɛksplɔɪts/
 exploit's	/ˈɛksplˌɔɪts/
 exploitable	/ɛksplˈɔ‍ɪtəbə‍l/
@@ -193527,8 +193527,8 @@ exponible	/ɪkspˈəʊnɪbəl/
 export	/ˈɛkspɔɹt/
 export	/ˈɛkspɔːt/
 export	/ˈɛkspˌɔɹt/
-export	/'ɛkˌspɔːɹt/	NOUN
-export	/ək'spɔːɹt/	VERB
+export	/ˈɛkˌspɔːɹt/	NOUN
+export	/əkˈspɔːɹt/	VERB
 export	/ˈɛks.poət/
 export	/ɪksˈpoət/
 exportability	/ɛkspɔːtəbˈɪlɪti/
@@ -193563,8 +193563,8 @@ expos	/ˈɛkspoʊz/
 expose	/ɪkˈspoʊz/
 expose	/ɪkspˈoʊz/
 expose	/ɪkspˈəʊz/
-expose	/ək'spoʊz/	VERB
-expose	/ˌɛkˌspoʊ'zeɪ/
+expose	/əkˈspoʊz/	VERB
+expose	/ˌɛkˌspoʊˈzeɪ/
 expose	/ɪkˈspəʊz/
 exposed	/ɛkspˈə‍ʊzd/
 exposed	/ɪkspˈoʊzd/
@@ -194214,8 +194214,8 @@ extract	/ɪkstɹˈakt/
 extract	/ɪkstɹˈækt/
 extract	/ˈɛkstɹakt/	NOUN
 extract	/ˈɛkstɹˌækt/	NOUN
-extract	/'ɛkˌstɹækt/	NOUN
-extract	/ək'stɹækt/	VERB
+extract	/ˈɛkˌstɹækt/	NOUN
+extract	/əkˈstɹækt/	VERB
 extract's	/ˈɛkstɹakts/
 extract's	/ˈɛkstɹˌækts/
 extractability	/ɛkstɹaktəbˈɪlɪti/
@@ -213266,8 +213266,8 @@ fragment	/fɹagmˈɛnt/	VERB
 fragment	/fɹˈagmənt/
 fragment	/fɹˈægmənt/
 fragment	/fɹˈægmˌɛnt/	VERB
-fragment	/'fɹægmənt/	NOUN
-fragment	/ˌfɹæg'mɛnt/	VERB
+fragment	/ˈfɹægmənt/	NOUN
+fragment	/ˌfɹægˈmɛnt/	VERB
 fragment's	/fɹˈagmənts/
 fragment's	/fɹˈægmənts/
 fragmental	/fɹagmˈɛntəl/
@@ -214905,8 +214905,8 @@ frequent	/ˈfɹiˌkwɛnt/, /ˈfɹikwənt/
 frequent	/fɹɪkwˈɛnt/	VERB
 frequent	/fɹˈikwənt/	VERB
 frequent	/fɹˈiːkwənt/
-frequent	/'fɹiːkwənt/	ADJ
-frequent	/ˌfɹiː'kwɛnt/	VERB
+frequent	/ˈfɹiːkwənt/	ADJ
+frequent	/ˌfɹiːˈkwɛnt/	VERB
 frequent	/ˈfɹiː.kwənt/	ADJ
 frequent	/fɹɪˈkwɛnt/	VERB
 frequentable	/fɹˈikwəntəbəl/
@@ -234222,8 +234222,8 @@ graduate	/gɹˈadʒʊeɪt/	VERB
 graduate	/gɹˈadʒʊət/
 graduate	/gɹˈædʒəwət/
 graduate	/gɹˈædʒʊˌeɪt/	VERB
-graduate	/'gɹæˌdʒuːət/
-graduate	/'gɹæˌdʒuːˌeɪt/	VERB
+graduate	/ˈgɹæˌdʒuːət/
+graduate	/ˈgɹæˌdʒuːˌeɪt/	VERB
 graduate	/ˈɡɹæd͡ʒuət/	NOUN
 graduate	/ˈɡɹædjuət/	NOUN
 graduate	/ˈɡɹæd͡ʒuɪt/	NOUN
@@ -262176,8 +262176,8 @@ housden	/hˈaʊsdən/
 house	/ˈhaʊs/
 house	/hˈaʊs/
 house	/hˈaʊz/	VERB
-house	/'haʊs/
-house	/'haʊz/	VERB
+house	/ˈhaʊs/
+house	/ˈhaʊz/	VERB
 house	/haʊs/	NOUN
 house	/hæʊs/	NOUN
 house	/hʌʊs/	NOUN
@@ -270410,8 +270410,8 @@ imp	/ɪmp/
 impact	/ˈɪmpækt/, /ˌɪmˈpækt/
 impact	/ˈɪmpakt/
 impact	/ˈɪmpˌækt/
-impact	/'ɪmˌpækt/	NOUN
-impact	/əm'pækt/	VERB
+impact	/ˈɪmˌpækt/	NOUN
+impact	/əmˈpækt/	VERB
 impacted	/ˈɪmpæktɪd/
 impacted	/ɪmpˈaktɪd/
 impacted	/ɪmpˈæktᵻd/
@@ -271176,8 +271176,8 @@ implant	/ɪmplˈænt/
 implant	/ɪmplˈɑːnt/
 implant	/ˈɪmplɑːnt/	NOUN
 implant	/ˈɪmplˌænt/	NOUN
-implant	/'ɪmˌplænt/	NOUN
-implant	/əm'plænt/	VERB
+implant	/ˈɪmˌplænt/	NOUN
+implant	/əmˈplænt/	VERB
 implant's	/ˈɪmplɑːnts/
 implant's	/ˈɪmplˌænts/
 implantable	/ɪmplˈæntəbə‍l/
@@ -271226,8 +271226,8 @@ implement	/ˈɪmpləmənt/
 implement	/ˈɪmpləmˌɛnt/	VERB
 implement	/ˈɪmplɪmənt/
 implement	/ˈɪmplɪmɛnt/	VERB
-implement	/'ɪmpləmənt/	NOUN
-implement	/'ɪmpləˌmɛnt/	VERB
+implement	/ˈɪmpləmənt/	NOUN
+implement	/ˈɪmpləˌmɛnt/	VERB
 implement's	/ˈɪmpləmənts/
 implement's	/ˈɪmplɪmənts/
 implemental	/ˌɪmplɪmˈɛntəl/
@@ -271425,8 +271425,8 @@ import	/ɪmpˈɔɹt/
 import	/ɪmpˈɔːt/
 import	/ˈɪmpɔːt/	NOUN
 import	/ˈɪmpˌɔɹt/	NOUN
-import	/'ɪmˌpɔːɹt/	NOUN
-import	/əm'pɔːɹt/	VERB
+import	/ˈɪmˌpɔːɹt/	NOUN
+import	/əmˈpɔːɹt/	VERB
 import	/ˈɪm.poət/
 import	/ɪmˈpoət/
 import's	/ˈɪmpɔːts/
@@ -272891,8 +272891,8 @@ incense	/ˌɪnˈsɛns/	VERB
 incense	/ɪnsˈɛns/	VERB
 incense	/ˈɪnsɛns/
 incense	/ˈɪnsˌɛns/
-incense	/'ɪnˌsɛns/	NOUN
-incense	/ən'sɛns/	VERB
+incense	/ˈɪnˌsɛns/	NOUN
+incense	/ənˈsɛns/	VERB
 incense's	/ˈɪnsɛnsɪz/
 incense's	/ˈɪnsˌɛnsᵻz/
 incensed	/ɪnsˈɛnsd/
@@ -273180,8 +273180,8 @@ incline	/ˈɪnkɫaɪn/, /ˌɪnˈkɫaɪn/
 incline	/ɪnklˈaɪn/
 incline	/ˈɪnklaɪn/	NOUN
 incline	/ˈɪnklˌaɪn/	NOUN
-incline	/'ɪnˌklaɪn/	NOUN
-incline	/ən'klaɪn/	VERB
+incline	/ˈɪnˌklaɪn/	NOUN
+incline	/ənˈklaɪn/	VERB
 incline's	/ˈɪnklaɪnz/
 incline's	/ˈɪnklˌaɪnz/
 inclined	/ɪnklˈa‍ɪnd/
@@ -273883,8 +273883,8 @@ increase	/ɪnkɹˈis/
 increase	/ɪnkɹˈiːs/
 increase	/ˈɪnkɹiːs/	NOUN
 increase	/ˈɪnkɹˌis/	NOUN
-increase	/'ɪnˌkɹiːs/	NOUN
-increase	/ən'kɹiːs/	VERB
+increase	/ˈɪnˌkɹiːs/	NOUN
+increase	/ənˈkɹiːs/	VERB
 increase's	/ˈɪnkɹiːsɪz/
 increase's	/ˈɪnkɹˌisᵻz/
 increased	/ɪnkɹˈiːsd/
@@ -273944,8 +273944,8 @@ incremating	/ˈɪŋkɹɪmˌeɪtɪŋ/
 incremating	/ˈɪŋkɹɪmˌeɪɾɪŋ/
 increment	/ˈɪnkɹɪmənt/
 increment	/ˈɪŋkɹəmənt/
-increment	/'ɪnkɹəmənt/	NOUN
-increment	/'ɪnkɹəˌmɛnt/	VERB
+increment	/ˈɪnkɹəmənt/	NOUN
+increment	/ˈɪnkɹəˌmɛnt/	VERB
 incremental	/ˌɪnkɹɪmˈɛntə‍l/
 incremental	/ˌɪnkɹəmˈɛntəl/
 incremental	/ˌɪnkɹɪmˈɛntəl/
@@ -277545,8 +277545,8 @@ initiate	/ɪnˈɪʃiət/
 initiate	/ɪnˈɪʃiˌeɪt/	VERB
 initiate	/ɪnˈɪʃɪeɪt/	VERB
 initiate	/ɪnˈɪʃɪət/
-initiate	/ə'nɪˌʃiːət/	NOUN
-initiate	/ˌɪ'nɪˌʃiːˌeɪt/	VERB
+initiate	/əˈnɪˌʃiːət/	NOUN
+initiate	/ˌɪˈnɪˌʃiːˌeɪt/	VERB
 initiate's	/ɪnˈɪʃiəts/
 initiate's	/ɪnˈɪʃɪəts/
 initiated	/ɪnˈɪʃɪˌe‍ɪtɪd/
@@ -278664,8 +278664,8 @@ insert	/ɪnsˈɜɹt/
 insert	/ɪnsˈɜːt/
 insert	/ˈɪnsəːt/	NOUN
 insert	/ˈɪnsˌɜɹt/	NOUN
-insert	/'ɪnsɚt/	NOUN
-insert	/ən'sɚt/	VERB
+insert	/ˈɪnsɚt/	NOUN
+insert	/ənˈsɚt/	VERB
 insert's	/ˈɪnsəːts/
 insert's	/ˈɪnsˌɜɹts/
 insertable	/ɪnsˈɜɹɾəbəl/
@@ -279439,8 +279439,8 @@ instructress	/ɪnˈstɹʌktɹɪs/	NOUN
 instructs	/ɪnstɹˈʌkts/
 instrument	/ˈɪnstɹəmənt/
 instrument	/ˈɪnstɹʊmənt/
-instrument	/'ɪnstɹəmənt/	NOUN
-instrument	/'ɪnstɹəˌmɛnt/	VERB
+instrument	/ˈɪnstɹəmənt/	NOUN
+instrument	/ˈɪnstɹəˌmɛnt/	VERB
 instrument's	/ˈɪnstɹəmənts/
 instrumental	/ˌɪnstɹəmˈɛntə‍l/
 instrumental	/ˌɪnstɹəmˈɛntəl/
@@ -279593,8 +279593,8 @@ insult	/ˈɪnˌsəɫt/, /ˌɪnˈsəɫt/
 insult	/ɪnsˈʌlt/	VERB
 insult	/ˈɪnsʌlt/
 insult	/ˈɪnsˌʌlt/
-insult	/'ɪnˌsʌlt/	NOUN
-insult	/ˌɪn'sʌlt/	VERB
+insult	/ˈɪnˌsʌlt/	NOUN
+insult	/ˌɪnˈsʌlt/	VERB
 insult's	/ˈɪnsʌlts/
 insult's	/ˈɪnsˌʌlts/
 insulted	/ɪnsˈʌltɪd/
@@ -280401,8 +280401,8 @@ interchange	/ˈɪntətʃeɪndʒ/	NOUN
 interchange	/ˈɪntəɹtʃˌeɪndʒ/	NOUN
 interchange	/ˌɪntətʃˈeɪndʒ/
 interchange	/ˌɪntəɹtʃˈeɪndʒ/
-interchange	/'ɪntɚˌtʃeɪndʒ/	NOUN
-interchange	/ˌɪntɚ'tʃeɪndʒ/	VERB
+interchange	/ˈɪntɚˌtʃeɪndʒ/	NOUN
+interchange	/ˌɪntɚˈtʃeɪndʒ/	VERB
 interchange's	/ˈɪntətʃeɪndʒɪz/
 interchange's	/ˈɪntəɹtʃˌeɪndʒᵻz/
 interchangeability	/ˌɪntətʃˌeɪndʒəbˈɪlɪti/
@@ -282883,8 +282883,8 @@ intimate	/ˈɪntəmət/
 intimate	/ˈɪntəmˌeɪt/	VERB
 intimate	/ˈɪntɪmeɪt/	VERB
 intimate	/ˈɪntɪmət/
-intimate	/'ɪntəmət/
-intimate	/'ɪntəˌmeɪt/	VERB
+intimate	/ˈɪntəmət/
+intimate	/ˈɪntəˌmeɪt/	VERB
 intimate's	/ˈɪntəməts/
 intimate's	/ˈɪntɪməts/
 intimated	/ˈɪntɪmˌe‍ɪtɪd/
@@ -283333,8 +283333,8 @@ intrigue	/ɪntɹˈig/
 intrigue	/ɪntɹˈiːg/
 intrigue	/ˈɪntɹiːg/	NOUN
 intrigue	/ˈɪntɹˌig/	NOUN
-intrigue	/'ɪnˌtɹiːg/	NOUN
-intrigue	/ən'tɹiːg/	VERB
+intrigue	/ˈɪnˌtɹiːg/	NOUN
+intrigue	/ənˈtɹiːg/	VERB
 intrigue's	/ˈɪntɹiːgz/
 intrigue's	/ˈɪntɹˌigz/
 intrigued	/ɪntɹˈiːɡd/
@@ -283749,8 +283749,8 @@ invalid	/ˌɪnˈvæɫəd/	ADJ
 invalid	/ɪnvˈalɪd/
 invalid	/ɪnvˈælɪd/
 invalid	/ˈɪnvəlɪd/	NOUN
-invalid	/'ɪnvələd/	NOUN
-invalid	/ən'væləd/	ADJ
+invalid	/ˈɪnvələd/	NOUN
+invalid	/ənˈvæləd/	ADJ
 invalid	/ɪnˈvæl.ɪd/	ADJ
 invalid	/ˈɪn.və.lɪd/	NOUN
 invalid	/ˈɪn.vəˌliːd/	NOUN
@@ -283983,8 +283983,8 @@ invert	/ɪnvˈɜɹt/
 invert	/ɪnvˈɜːt/
 invert	/ˈɪnvəːt/	NOUN
 invert	/ˈɪnvˌɜɹt/	NOUN
-invert	/'ɪnvɚt/	NOUN
-invert	/ən'vɚt/	VERB
+invert	/ˈɪnvɚt/	NOUN
+invert	/ənˈvɚt/	VERB
 invert	/ɪnˈvɜːt/
 invert	/ˈɪn.vət/
 invert's	/ˈɪnvəːts/
@@ -284251,8 +284251,8 @@ invite	/ˌɪnˈvaɪt/
 invite	/ɪnvˈaɪt/
 invite	/ˈɪnvaɪt/	NOUN
 invite	/ˈɪnvˌaɪt/	NOUN
-invite	/'ɪnˌvaɪt/	NOUN
-invite	/ən'vaɪt/	VERB
+invite	/ˈɪnˌvaɪt/	NOUN
+invite	/ənˈvaɪt/	VERB
 invite	/ɪnˈvaɪt/	VERB
 invite's	/ˈɪnvaɪts/
 invite's	/ˈɪnvˌaɪts/
@@ -286098,8 +286098,8 @@ isolate	/ˈaɪsəˌɫeɪt/
 isolate	/ˈaɪsəleɪt/
 isolate	/ˈaɪsələt/	NOUN
 isolate	/ˈaɪsəlˌeɪt/
-isolate	/'aɪsələt/	NOUN
-isolate	/'aɪsəˌleɪt/	VERB
+isolate	/ˈaɪsələt/	NOUN
+isolate	/ˈaɪsəˌleɪt/	VERB
 isolate	/ˈaɪ.sə.leɪt/	VERB
 isolate	/ˈaɪ.sə.lət/	NOUN
 isolate's	/ˈaɪsələts/
@@ -289765,8 +289765,8 @@ jesup	/dʒˈɛsəp/
 jesus	/ˈdʒizəs/
 jesus	/dʒˈizəs/
 jesus	/dʒˈiːzəs/
-jesus	/'dʒiːzəs/
-jesus	/ˌheɪ'suːs/
+jesus	/ˈdʒiːzəs/
+jesus	/ˌheɪˈsuːs/
 jesus jammies	/ˈdʒiːzəs ˌdʒæmiːz/
 jesus's	/dʒˈizəsɪz/
 jesuss	/ˈdʒizəsɪz/
@@ -290569,8 +290569,8 @@ joaquin	/wˌɑkˈin/
 job	/ˈdʒɑb/, /ˈdʒoʊb/
 job	/dʒˈɑb/
 job	/dʒˈɒb/
-job	/'dʒoʊb/
-job	/'dʒɑːb/
+job	/ˈdʒoʊb/
+job	/ˈdʒɑːb/
 job	/dʒɒb/
 job market	/ˈd͡ʒɒb ˌmɑːkɪt/
 job's	/dʒˈoʊbz/
@@ -307569,8 +307569,8 @@ laminate	/lˈamɪneɪt/
 laminate	/lˈamɪnət/	NOUN
 laminate	/lˈæmənət/	NOUN
 laminate	/lˈæmənˌeɪt/
-laminate	/'læmənət/	NOUN
-laminate	/'læməˌneɪt/	VERB
+laminate	/ˈlæmənət/	NOUN
+laminate	/ˈlæməˌneɪt/	VERB
 laminate's	/lˈamɪnəts/
 laminate's	/lˈæmənəts/
 laminated	/lˈæmɪnˌe‍ɪtɪd/
@@ -311715,8 +311715,8 @@ lead	/ˈɫɛd/	NOUN
 lead	/ˈɫid/	VERB
 lead	/lˈid/
 lead	/lˈiːd/
-lead	/'liːd/
-lead	/'lɛd/
+lead	/ˈliːd/
+lead	/ˈlɛd/
 lead	/lɛd/	NOUN
 lead	/liːd/	VERB
 lead	/lid/	VERB
@@ -312132,8 +312132,8 @@ learned	/lˈɜɹnd/
 learned	/lˈɜɹnɪd/
 learned	/lˈɜːnd/
 learned	/lˈɜːnɪd/
-learned	/'lɚnd/	VERB
-learned	/'lɚnəd/	ADJ
+learned	/ˈlɚnd/	VERB
+learned	/ˈlɚnəd/	ADJ
 learned	/ˈlɜːnɪd/	ADJ
 learned	/ˈlɝnɪd/	ADJ
 learned	/ˈlɝnd/	ADJ
@@ -319830,8 +319830,8 @@ livarpool	/lɪˈvɑːpuːl/
 live	/ˈɫaɪv/, /ˈɫɪv/
 live	/lˈaɪv/
 live	/lˈɪv/	VERB
-live	/'laɪv/	ADJ
-live	/'lɪv/	VERB
+live	/ˈlaɪv/	ADJ
+live	/ˈlɪv/	VERB
 live	/lɪv/	VERB
 live	/laɪv/	ADJ
 live paycheck to paycheck	/lɪv ˈpeɪtʃɛk tə ˈpeɪtʃɛk/
@@ -319956,7 +319956,7 @@ liveryman	/lˈɪvəɹimən/
 liveryman	/lˈɪvəɹɪmən/
 liverymen	/lˈɪvəɹˌɪmɛn/
 lives	/lˈɪvz/	VERB
-lives	/'laɪvz/	NOUN
+lives	/ˈlaɪvz/	NOUN
 livesay	/ˈɫɪvɪseɪ/
 livesay	/lˈɪvɪseɪ/
 livesey	/ˈɫɪvɪsi/
@@ -336551,8 +336551,8 @@ matchy	/mˈætʃi/
 matchy-matchy	/ˈmatʃi ˌmatʃi/
 mate	/ˈmeɪt/
 mate	/mˈeɪt/
-mate	/'meɪt/
-mate	/'mɑːˌteɪ/
+mate	/ˈmeɪt/
+mate	/ˈmɑːˌteɪ/
 mate	/meɪt/
 matecki	/məˈtɛki/
 matecki	/mətˈɛki/
@@ -350523,8 +350523,8 @@ minute	/maɪnjˈuːt/
 minute	/maɪnˈut/
 minute	/mˈɪnət/
 minute	/mˈɪnɪt/
-minute	/'mɪnət/	NOUN
-minute	/ˌmaɪ'nuːt/	ADJ
+minute	/ˈmɪnət/	NOUN
+minute	/ˌmaɪˈnuːt/	ADJ
 minute	/ˈmɪnɪt/	NOUN
 minute	/maɪ̯ˈnjuːt/	ADJ
 minute	/maɪ̯ˈnjʊwt/	ADJ
@@ -353604,8 +353604,8 @@ misuse	/mˌɪsjˈus/	NOUN
 misuse	/mˌɪsjˈuz/
 misuse	/mˌɪsjˈuːs/	NOUN
 misuse	/mˌɪsjˈuːz/
-misuse	/ˌmɪs'juːs/	NOUN
-misuse	/ˌmɪs'juːz/	VERB
+misuse	/ˌmɪsˈjuːs/	NOUN
+misuse	/ˌmɪsˈjuːz/	VERB
 misuse	/mɪsˈjuːs/	NOUN
 misuse	/mɪsˈjuːz/	VERB
 misuse's	/mˌɪsjˈusᵻz/
@@ -354295,9 +354295,9 @@ mobile	/moʊbˈil/
 mobile	/məʊbˈiːl/
 mobile	/mˈoʊbəl/
 mobile	/mˈəʊbaɪl/
-mobile	/'moʊbəl/	ADJ
-mobile	/'moʊˌbiːl/	NOUN
-mobile	/ˌmoʊ'biːl/
+mobile	/ˈmoʊbəl/	ADJ
+mobile	/ˈmoʊˌbiːl/	NOUN
+mobile	/ˌmoʊˈbiːl/
 mobile	/məʊˈbiːl/
 mobile	/ˈməʊ.baɪl/
 mobile's	/mˈoʊbəlz/
@@ -354616,8 +354616,8 @@ moderate	/mˈɑdəɹət/
 moderate	/mˈɑdəɹˌeɪt/	VERB
 moderate	/mˈɒdəɹeɪt/	VERB
 moderate	/mˈɒdəɹət/
-moderate	/'mɑːdɚət/
-moderate	/mɑːdɚ'eɪt/	VERB
+moderate	/ˈmɑːdɚət/
+moderate	/mɑːdɚˈeɪt/	VERB
 moderate's	/mˈɑdəɹəts/
 moderate's	/mˈɒdəɹəts/
 moderated	/mˈɒdəɹˌe‍ɪtɪd/
@@ -358228,8 +358228,8 @@ moped	/mˈoʊpt/	VERB
 moped	/mˈoʊpˌɛd/
 moped	/mˈəʊpt/	VERB
 moped	/mˈəʊpɛd/
-moped	/'moʊpt/	VERB
-moped	/'moʊˌpɛd/	NOUN
+moped	/ˈmoʊpt/	VERB
+moped	/ˈmoʊˌpɛd/	NOUN
 moped	/ˈməʊ.pɛd/	NOUN
 moped	/ˈmoʊ.pɛd/	NOUN
 moped	/məʊpt/	VERB
@@ -360863,8 +360863,8 @@ moutan	/mˈuːtan/
 mouth	/ˈmaʊθ/
 mouth	/mˈaʊð/	VERB
 mouth	/mˈaʊθ/
-mouth	/'maʊð/	VERB
-mouth	/'maʊθ/	NOUN
+mouth	/ˈmaʊð/	VERB
+mouth	/ˈmaʊθ/	NOUN
 mouth's	/mˈaʊθs/
 mouth-breather	/mˈaʊθbɹˌiðəɹ/
 mouth-to-mouth	/mˌaʊθtəmˈaʊθ/
@@ -369947,8 +369947,8 @@ nesting	/ˈnestɪŋ/
 nestings	/nˈɛstɪŋz/
 nestle	/nˈɛsə‍l/
 nestle	/nˈɛsəl/
-nestle	/'nɛsəl/	VERB
-nestle	/'nɛˌsliː/
+nestle	/ˈnɛsəl/	VERB
+nestle	/ˈnɛˌsliː/
 nestle's	/nˈɛsleɪz/
 nestled	/nˈɛsə‍ld/
 nestled	/nˈɛsəld/
@@ -385631,8 +385631,8 @@ object	/əbˈdʒɛkt/	VERB
 object	/əbdʒˈɛkt/	VERB
 object	/ˈɑbdʒəkt/
 object	/ˈɒbdʒɛkt/
-object	/'ɑːbdʒəkt/	NOUN
-object	/əb'dʒɛkt/	VERB
+object	/ˈɑːbdʒəkt/	NOUN
+object	/əbˈdʒɛkt/	VERB
 object	/ˈɒb.d͡ʒɛkt/	NOUN
 object	/əbˈd͡ʒɛkt/	VERB
 object's	/ˈɑbdʒəkts/
@@ -392835,8 +392835,8 @@ ornament	/ˈɔɹnəmənt/
 ornament	/ˈɔɹnəmɛnt/	VERB
 ornament	/ˈɔːnəmənt/
 ornament	/ˈɔːnəmɛnt/	VERB
-ornament	/'ɔːɹnəmənt/	NOUN
-ornament	/ˌɔɹːnə'mɛnt/	VERB
+ornament	/ˈɔːɹnəmənt/	NOUN
+ornament	/ˌɔɹːnəˈmɛnt/	VERB
 ornament	/ˈɔː(ɹ)nəmənt/
 ornament	/ˈɔː(ɹ)nəˌmɛnt/
 ornament's	/ˈɔɹnəmənts/
@@ -403339,8 +403339,8 @@ overthrow	/ˈoʊvəɹθɹˌoʊ/	NOUN
 overthrow	/ˈəʊvəθɹəʊ/	NOUN
 overthrow	/ˌoʊvəɹθɹˈoʊ/
 overthrow	/ˌəʊvəθɹˈəʊ/
-overthrow	/'oʊvɚˌθɹoʊ/	NOUN
-overthrow	/ˌoʊvɚ'θɹoʊ/	VERB
+overthrow	/ˈoʊvɚˌθɹoʊ/	NOUN
+overthrow	/ˌoʊvɚˈθɹoʊ/	VERB
 overthrow	/əʊvəˈθɹəʊ/
 overthrow's	/ˈoʊvəɹθɹˌoʊz/
 overthrow's	/ˈəʊvəθɹəʊz/
@@ -412018,8 +412018,8 @@ pasturing	/pˈæstʃəɹɪŋ/
 pasty	/pˈasti/
 pasty	/pˈeɪsti/
 pasty	/pˈæsti/
-pasty	/'peɪˌstiː/
-pasty	/'pæsˌtiː/
+pasty	/ˈpeɪˌstiː/
+pasty	/ˈpæsˌtiː/
 pasty	/ˈpeɪsti/	ADJ
 pasty	/ˈpæsti/	NOUN
 pasty	/ˈpɑːsti/	NOUN
@@ -417110,8 +417110,8 @@ perfect	/pəfˈɛkt/	VERB
 perfect	/pəɹfˈɛkt/	VERB
 perfect	/pˈɜɹfəkt/
 perfect	/pˈɜːfɪkt/
-perfect	/'pɚfəkt/
-perfect	/pɚ'fɛkt/	VERB
+perfect	/ˈpɚfəkt/
+perfect	/pɚˈfɛkt/	VERB
 perfect	/ˈpɜː.fɪkt/	ADJ
 perfect	/-fɛkt/	ADJ
 perfect	/ˈpɝ.fɪkt/	ADJ
@@ -417320,8 +417320,8 @@ performs	/pɚfˈɔɹmz/
 perfume	/pɝfˈjum/
 perfume	/pˈɜːfjuːm/
 perfume	/pˌɜɹfjˈum/
-perfume	/'pɚˌfjuːm/	NOUN
-perfume	/pɚ'fjuːm/	VERB
+perfume	/ˈpɚˌfjuːm/	NOUN
+perfume	/pɚˈfjuːm/	VERB
 perfume	/ˈpɜːfjuːm/
 perfumed	/pˈɜːfjuːmd/
 perfumed	/pˌɜɹfjˈumd/
@@ -418266,8 +418266,8 @@ permit	/pəmˈɪt/	VERB
 permit	/pəɹmˈɪt/	VERB
 permit	/pˈɜɹmɪt/
 permit	/pˈɜːmɪt/
-permit	/'pɚmət/	NOUN
-permit	/pɚ'mɪt/	VERB
+permit	/ˈpɚmət/	NOUN
+permit	/pɚˈmɪt/	VERB
 permit	/pɚˈmɪt/	VERB
 permit	/pəˈmɪt/	VERB
 permit	/ˈpɝmɪt/	VERB
@@ -419438,8 +419438,8 @@ pervert	/pəvˈɜːt/
 pervert	/pəɹvˈɜɹt/
 pervert	/pˈɜɹvˌɜɹt/	NOUN
 pervert	/pˈɜːvəːt/	NOUN
-pervert	/'pɚvɚt/	NOUN
-pervert	/pɚ'vɚt/	VERB
+pervert	/ˈpɚvɚt/	NOUN
+pervert	/pɚˈvɚt/	VERB
 pervert	/ˈpəː.vəːt/
 pervert	/ˈpəː.vət/
 pervert	/pəˈvəːt/
@@ -424522,8 +424522,8 @@ pigman	/pˈɪgmən/
 pigment	/pˈɪɡmənt/
 pigment	/pɪgmˈɛnt/	VERB
 pigment	/pˈɪgmənt/
-pigment	/'pɪgmənt/	NOUN
-pigment	/pəg'mɛnt/	VERB
+pigment	/ˈpɪgmənt/	NOUN
+pigment	/pəgˈmɛnt/	VERB
 pigment	/ˈpɪɡ.mənt/
 pigment's	/pˈɪgmənts/
 pigmental	/pɪgmˈɛntəl/
@@ -431206,8 +431206,8 @@ polish	/pˈoʊlɪʃ/
 polish	/pˈɑlɪʃ/
 polish	/pˈɒlɪʃ/
 polish	/pˈəʊlɪʃ/
-polish	/'poʊləʃ/
-polish	/'pɑːləʃ/
+polish	/ˈpoʊləʃ/
+polish	/ˈpɑːləʃ/
 polish	/ˈpəʊlɪʃ/
 polishable	/pˈɑləʃəbəl/
 polishable	/pˈɒlɪʃəbəl/
@@ -435341,8 +435341,8 @@ postulate	/pˈɑstʃələt/	NOUN
 postulate	/pˈɑstʃəlˌeɪt/
 postulate	/pˈɒstjʊleɪt/
 postulate	/pˈɒstjʊlət/	NOUN
-postulate	/'pɑːstʃələt/	NOUN
-postulate	/'pɑːstʃəˌleɪt/	VERB
+postulate	/ˈpɑːstʃələt/	NOUN
+postulate	/ˈpɑːstʃəˌleɪt/	VERB
 postulate's	/pˈɑstʃələts/
 postulate's	/pˈɒstjʊləts/
 postulated	/pˈɒst‍ʃʊlˌe‍ɪtɪd/
@@ -437933,8 +437933,8 @@ precipitate	/pɹisˈɪpətˌeɪt/	VERB
 precipitate	/pɹisˈɪpəɾət/
 precipitate	/pɹɪsˈɪpɪteɪt/	VERB
 precipitate	/pɹɪsˈɪpɪtət/
-precipitate	/pɹə'sɪpətət/
-precipitate	/pɹə'sɪpəˌteɪt/	VERB
+precipitate	/pɹəˈsɪpətət/
+precipitate	/pɹəˈsɪpəˌteɪt/	VERB
 precipitate	/pɹɪˈsɪpɪteɪt/	VERB
 precipitate	/pɹəˈsɪpɪteɪt/	VERB
 precipitate	/pɹɪˈsɪpɪtət/	ADJ
@@ -438857,8 +438857,8 @@ predicate	/pɹˈɛdəkət/
 predicate	/pɹˈɛdəkˌeɪt/	VERB
 predicate	/pɹˈɛdɪkeɪt/	VERB
 predicate	/pɹˈɛdɪkət/
-predicate	/'pɹɛdəkət/	NOUN
-predicate	/'pɹɛdəˌkeɪt/	VERB
+predicate	/ˈpɹɛdəkət/	NOUN
+predicate	/ˈpɹɛdəˌkeɪt/	VERB
 predicate	/ˈpɹɛd.ɪ.kət/	NOUN
 predicate	/ˈpɹɛd.ɪ.kɪt/	NOUN
 predicate	/ˈpɹɛdɪˌkeɪt/	VERB
@@ -441788,8 +441788,8 @@ present	/pɹiˈzɛnt/	VERB
 present	/pɹizˈɛnt/	VERB
 present	/pɹɪzˈɛnt/	VERB
 present	/pɹˈɛzənt/
-present	/'pɹɛzənt/	ADJ
-present	/ˌpɹiː'zɛnt/	VERB
+present	/ˈpɹɛzənt/	ADJ
+present	/ˌpɹiːˈzɛnt/	VERB
 present's	/pɹˈɛzənts/
 present-day	/pɹˌɛzəntdˈeɪ/
 presentability	/pɹəzˌɛntəbˈɪləɾi/
@@ -445167,8 +445167,8 @@ produce	/pɹədjˈuːs/
 produce	/pɹədˈus/
 produce	/pɹˈoʊdˌus/	NOUN
 produce	/pɹˈɒdjuːs/	NOUN
-produce	/'pɹoʊˌduːs/	NOUN
-produce	/pɹə'duːs/	VERB
+produce	/ˈpɹoʊˌduːs/	NOUN
+produce	/pɹəˈduːs/	VERB
 produce	/pɹəˈd͡ʒuːs/	VERB
 produce	/pɹəˈdjuːs/	VERB
 produce	/ˈpɹɒd͡ʒuːs/	NOUN
@@ -445757,8 +445757,8 @@ progress	/pɹəgɹˈɛs/	VERB
 progress	/pɹəʊgɹˈɛs/	VERB
 progress	/pɹˈɑgɹəs/
 progress	/pɹˈəʊgɹɛs/
-progress	/'pɹɑːˌgɹɛs/	NOUN
-progress	/pɹə'gɹɛs/	VERB
+progress	/ˈpɹɑːˌgɹɛs/	NOUN
+progress	/pɹəˈgɹɛs/	VERB
 progress	/ˈpɹəʊ.ɡɹɛs/	NOUN
 progress	/ˈpɹɑ.ɡɹɛs/	NOUN
 progress	/-ɹəs/	NOUN
@@ -445881,8 +445881,8 @@ project	/ˈpɹɑdʒɛkt/, /pɹəˈdʒɛkt/
 project	/pɹədʒˈɛkt/	VERB
 project	/pɹˈɑdʒˌɛkt/
 project	/pɹˈɒdʒɛkt/
-project	/'pɹɑːˌdʒɛkt/	NOUN
-project	/pɹə'dʒɛkt/	VERB
+project	/ˈpɹɑːˌdʒɛkt/	NOUN
+project	/pɹəˈdʒɛkt/	VERB
 project	/ˈpɹɒd͡ʒ.ɛkt/
 project	/ˈpɹəʊ.dʒɛkt/
 project's	/ˈpɹɑdʒɛks/, /ˈpɹɑdʒɛkts/
@@ -447926,8 +447926,8 @@ proterve	/pɹˈəʊtəv/
 protest	/ˈpɹoʊˌtɛst/, /pɹəˈtɛst/
 protest	/pɹˈoʊtˌɛst/
 protest	/pɹˈəʊtɛst/
-protest	/'pɹoʊˌtɛst/	NOUN
-protest	/pɹə'tɛst/	VERB
+protest	/ˈpɹoʊˌtɛst/	NOUN
+protest	/pɹəˈtɛst/	VERB
 protest	/ˈpɹəʊ.tɛst/
 protest's	/pɹˈoʊtˌɛsts/
 protest's	/pɹˈəʊtɛsts/
@@ -460529,8 +460529,8 @@ raved	/ɹˈeɪvd/
 ravel	/ˈɹævəɫ/, /ɹəˈvɛɫ/
 ravel	/ɹˈavəl/
 ravel	/ɹˈævəl/
-ravel	/'ɹævəl/
-ravel	/ɹə'vɛl/
+ravel	/ˈɹævəl/
+ravel	/ɹəˈvɛl/
 ravel	/ˈɹævəl/
 ravel	/ˈɹævl̩/
 ravel's	/ɹəvˈɛlz/
@@ -461451,8 +461451,8 @@ readiness	/ɹˈɛdɪnɪs/
 reading	/ˈɹɛdɪŋ/, /ˈɹidɪŋ/
 reading	/ɹˈidɪŋ/
 reading	/ɹˈiːdɪŋ/
-reading	/'ɹiːdəŋ/
-reading	/'ɹɛdəŋ/
+reading	/ˈɹiːdəŋ/
+reading	/ˈɹɛdəŋ/
 reading's	/ɹˈɛdɪŋz/
 readingdom	/ɹˈidɪŋdəm/
 readingdom	/ɹˈiːdɪŋdəm/
@@ -462759,8 +462759,8 @@ rebel	/ˈɹɛbəɫ/, /ɹɪˈbɛɫ/
 rebel	/ɹəbˈɛl/	VERB
 rebel	/ɹɪbˈɛl/	VERB
 rebel	/ɹˈɛbəl/
-rebel	/'ɹɛbəl/	NOUN
-rebel	/ɹə'bɛl/	VERB
+rebel	/ˈɹɛbəl/	NOUN
+rebel	/ɹəˈbɛl/	VERB
 rebel	/ˈɹɛb.əl/	NOUN
 rebel	/ˈɹeb.əl/	NOUN
 rebel	/ɹɪˈbɛl/	VERB
@@ -464881,8 +464881,8 @@ record	/ɹəkˈɔɹd/	VERB
 record	/ɹɪkˈɔːd/	VERB
 record	/ɹˈɛkɔːd/
 record	/ɹˈɛkəɹd/
-record	/'ɹɛkɚd/	NOUN
-record	/ɹə'kɔːɹd/	VERB
+record	/ˈɹɛkɚd/	NOUN
+record	/ɹəˈkɔːɹd/	VERB
 record	/ˈɹɛk.ɔːd/	NOUN
 record	/ˈɹɛk.ɚd/	NOUN
 record	/ˈɹɛk.ɔɹd/	NOUN
@@ -464965,8 +464965,8 @@ recounseling	/ɹᵻkˈaʊnsəlɪŋ/
 recount	/ˌɹiˈkaʊnt/, /ɹɪˈkaʊnt/
 recount	/ɹikˈaʊnt/
 recount	/ɹɪkˈaʊnt/
-recount	/'ɹiːˌkaʊnt/
-recount	/ˌɹiː'kaʊnt/
+recount	/ˈɹiːˌkaʊnt/
+recount	/ˌɹiːˈkaʊnt/
 recount's	/ɹikˈaʊnts/
 recount's	/ɹɪkˈaʊnts/
 recountable	/ɹɪkˈaʊntəbəl/
@@ -468252,8 +468252,8 @@ refund	/ɹiːfˈʌnd/
 refund	/ɹəfˈʌnd/
 refund	/ɹˈifˌʌnd/	NOUN
 refund	/ɹˈiːfʌnd/	NOUN
-refund	/'ɹiːˌfʌnd/	NOUN
-refund	/ˌɹɪ'fʌnd/	VERB
+refund	/ˈɹiːˌfʌnd/	NOUN
+refund	/ˌɹɪˈfʌnd/	VERB
 refund's	/ɹˈifˌʌndz/
 refund's	/ɹˈiːfʌndz/
 refundable	/ɹɪfˈʌndəbə‍l/
@@ -468320,8 +468320,8 @@ refuse	/ɹəfjˈuz/
 refuse	/ɹɪfjˈuːz/
 refuse	/ɹˈɛfjuːs/	NOUN
 refuse	/ɹˈɛfjˌus/	NOUN
-refuse	/'ɹɛˌfjuːs/	NOUN
-refuse	/ɹə'fjuːz/	VERB
+refuse	/ˈɹɛˌfjuːs/	NOUN
+refuse	/ɹəˈfjuːz/	VERB
 refuse	/ˈɹɛfjuːs/	ADJ
 refuse	/ɹɪˈfjuːz/	VERB
 refuse	/ɹiːˈfjuːz/	VERB
@@ -470589,8 +470589,8 @@ reject	/ɹədʒˈɛkt/
 reject	/ɹɪdʒˈɛkt/
 reject	/ɹˈidʒˌɛkt/	NOUN
 reject	/ɹˈiːdʒɛkt/	NOUN
-reject	/'ɹiːˌdʒɛkt/	NOUN
-reject	/ɹə'dʒɛkt/	VERB
+reject	/ˈɹiːˌdʒɛkt/	NOUN
+reject	/ɹəˈdʒɛkt/	VERB
 reject's	/ɹˈidʒˌɛkts/
 reject's	/ɹˈiːdʒɛkts/
 rejectable	/ɹɪdʒˈɛktəbəl/
@@ -475028,8 +475028,8 @@ rerelease	/ɹiːɹɪlˈiːs/
 rerelease	/ɹˈiɹɪlˌis/	NOUN
 rerelease	/ɹˈiːɹɪliːs/	NOUN
 rerelease	/ɹˌiɹɪlˈis/
-rerelease	/'ɹiːɹəˌliːs/	NOUN
-rerelease	/ˌɹiːɹə'liːs/	VERB
+rerelease	/ˈɹiːɹəˌliːs/	NOUN
+rerelease	/ˌɹiːɹəˈliːs/	VERB
 rerelease's	/ɹˈiɹɪlˌisᵻz/
 rerelease's	/ɹˈiːɹɪliːsɪz/
 rereleased	/ɹiːɹɪlˈiːst/
@@ -477218,8 +477218,8 @@ resume	/ˈɹɛzəˌmeɪs/	NOUN
 resume	/ɹɪˈzum/	VERB
 resume	/ɹəzˈum/
 resume	/ɹɪzjˈuːm/
-resume	/'ɹɛzəˌmeɪ/
-resume	/ɹə'zuːm/	VERB
+resume	/ˈɹɛzəˌmeɪ/
+resume	/ɹəˈzuːm/	VERB
 resume	/ɹɪˈzjuːm/	VERB
 resume	/ɹɪˈʒum/	VERB
 resume	/ɹəˈʒum/	VERB
@@ -477574,8 +477574,8 @@ retard	/ɹətˈɑɹd/
 retard	/ɹɪtˈɑːd/
 retard	/ɹˈitɑɹd/	NOUN
 retard	/ɹˈiːtɑːd/	NOUN
-retard	/'ɹiːˌtɑːɹd/	NOUN
-retard	/ɹə'tɑːɹd/	VERB
+retard	/ˈɹiːˌtɑːɹd/	NOUN
+retard	/ɹəˈtɑːɹd/	VERB
 retard	/ɹɪˈtɑː(ɹ)d/
 retard	/ˈɹiːtɑː(ɹ)d/
 retard's	/ɹˈitɑɹdz/
@@ -484209,8 +484209,8 @@ rodents	/ɹˈoʊdənts/
 rodeo	/ɹˈə‍ʊdɪˌə‍ʊ/
 rodeo	/ɹˈoʊdiˌoʊ/
 rodeo	/ɹˈəʊdɪəʊ/
-rodeo	/'ɹoʊˌdiːˌoʊ/
-rodeo	/ˌɹoʊ'deɪˌoʊ/
+rodeo	/ˈɹoʊˌdiːˌoʊ/
+rodeo	/ˌɹoʊˈdeɪˌoʊ/
 rodeo	/ˈɹəʊ.di.əʊ/
 rodeos	/ɹˈə‍ʊdɪˌə‍ʊz/
 rodeos	/ɹˈoʊdioʊz/
@@ -487458,8 +487458,8 @@ rovno	/ɹˈɔːvnə/
 row	/ˈɹoʊ/	NOUN
 row	/ɹˈoʊ/
 row	/ɹˈəʊ/
-row	/'ɹaʊ/
-row	/'ɹoʊ/
+row	/ˈɹaʊ/
+row	/ˈɹoʊ/
 row	/ˈɹəʊ/	NOUN
 row	/rɑː/	NOUN
 row	/ɹəʊ/	VERB
@@ -491449,8 +491449,8 @@ sakau	/sɑˈkɑu/
 sakau	/sɑkˈɑu/
 sake	/ˈseɪk/
 sake	/sˈeɪk/
-sake	/'seɪk/	NOUN
-sake	/'sɑːˌkeɪ/
+sake	/ˈseɪk/	NOUN
+sake	/ˈsɑːˌkeɪ/
 sake's	/sˈeɪks/
 sakeber	/sˈeɪkbə/
 sakeber	/sˈeɪkbəɹ/
@@ -492623,7 +492623,7 @@ samal	/sˈaməl/
 samal	/sˈæməl/
 saman	/samˈɑːn/
 saman	/səmˈɑn/
-saman	/sæ'mæn/	NOUN
+saman	/sæˈmæn/	NOUN
 samango	/samˈaŋgəʊ/
 samaniego	/sɑmɑˈniɡoʊ/
 samaniego	/sɑmɑnˈigoʊ/
@@ -507888,8 +507888,8 @@ separate	/ˈsɛpɹət/	ADJ
 separate	/sˈɛpəɹeɪt/	VERB
 separate	/sˈɛpəɹət/
 separate	/sˈɛpəɹˌeɪt/	VERB
-separate	/'sɛpɚət/
-separate	/'sɛpɚˌeɪt/	VERB
+separate	/ˈsɛpɚət/
+separate	/ˈsɛpɚˌeɪt/	VERB
 separate	/ˈsɛp.(ə.)ɹət/
 separate's	/sˈɛpəɹəts/
 separated	/sˈɛpəɹˌe‍ɪtɪd/
@@ -530177,8 +530177,8 @@ sow	/ˈsoʊ/	VERB
 sow	/sˈaʊ/	NOUN
 sow	/sˈoʊ/
 sow	/sˈəʊ/
-sow	/'saʊ/	NOUN
-sow	/'soʊ/	VERB
+sow	/ˈsaʊ/	NOUN
+sow	/ˈsoʊ/	VERB
 sow	/saʊ/	NOUN
 sow	/səʊ/	VERB
 sow	/soʊ/	VERB
@@ -547808,8 +547808,8 @@ subjack	/sˈʌbdʒæk/
 subject	/ˈsəbdʒɪkt/, /səbˈdʒɛkt/
 subject	/səbdʒˈɛkt/	VERB
 subject	/sˈʌbdʒɛkt/
-subject	/'sʌbˌdʒɛkt/
-subject	/səb'dʒɛkt/	VERB
+subject	/ˈsʌbˌdʒɛkt/
+subject	/səbˈdʒɛkt/	VERB
 subject	/ˈsʌb.d͡ʒɛkt/	ADJ
 subject	/ˈsʌb.d͡ʒɪkt/	ADJ
 subject	/səbˈd͡ʒɛkt/	VERB
@@ -548241,8 +548241,8 @@ subordinate	/səbˈɔɹdnˌeɪt/	VERB
 subordinate	/səbˈɔɹdənət/
 subordinate	/səbˈɔːdɪneɪt/	VERB
 subordinate	/səbˈɔːdɪnət/
-subordinate	/sə'bɔːɹdənət/
-subordinate	/sə'bɔːɹdəˌneɪt/	VERB
+subordinate	/səˈbɔːɹdənət/
+subordinate	/səˈbɔːɹdəˌneɪt/	VERB
 subordinate's	/səbˈɔɹdənəts/
 subordinate's	/səbˈɔːdɪnəts/
 subordinated	/sʌbˈɔːdɪnətɪd/
@@ -553100,8 +553100,8 @@ supplement	/sˈʌpləmənt/
 supplement	/sˈʌpləmˌɛnt/	VERB
 supplement	/sˈʌplɪmənt/
 supplement	/sˈʌplɪmɛnt/	VERB
-supplement	/'sʌpləmənt/	NOUN
-supplement	/'sʌpləˌmɛnt/	VERB
+supplement	/ˈsʌpləmənt/	NOUN
+supplement	/ˈsʌpləˌmɛnt/	VERB
 supplement	/ˈsʌp.lɪ.mənt/
 supplement's	/sˈʌpləmənts/
 supplement's	/sˈʌplɪmənts/
@@ -554387,8 +554387,8 @@ suspect	/ˈsəsˌpɛkt/, /səˈspɛkt/
 suspect	/səspˈɛkt/	VERB
 suspect	/sˈʌspɛkt/
 suspect	/sˈʌspˌɛkt/
-suspect	/'sʌsˌpɛkt/
-suspect	/səs'pɛkt/	VERB
+suspect	/ˈsʌsˌpɛkt/
+suspect	/səsˈpɛkt/	VERB
 suspect's	/sˈʌspɛkts/
 suspect's	/sˈʌspˌɛkts/
 suspect's	/səspˈɛkts/
@@ -557417,8 +557417,8 @@ syndicate	/sˈɪndəkət/	NOUN
 syndicate	/sˈɪndəkˌeɪt/
 syndicate	/sˈɪndɪkeɪt/
 syndicate	/sˈɪndɪkət/	NOUN
-syndicate	/'sɪndəkət/	NOUN
-syndicate	/'sɪndəˌkeɪt/	VERB
+syndicate	/ˈsɪndəkət/	NOUN
+syndicate	/ˈsɪndəˌkeɪt/	VERB
 syndicate	/ˈsɪndɪkət/	NOUN
 syndicate	/ˈsɪndɪkeɪt/	VERB
 syndicate's	/sˈɪndəkəts/
@@ -562729,8 +562729,8 @@ tear	/tˈɛɹ/	VERB
 tear	/tˈɛː/	VERB
 tear	/tˈɪə/
 tear	/tˈɪɹ/
-tear	/'tiːɹ/
-tear	/'tɛɹ/
+tear	/ˈtiːɹ/
+tear	/ˈtɛɹ/
 tear	/tɛə/	VERB
 tear	/tɛː/	VERB
 tear	/tɛɹ/	VERB
@@ -579108,8 +579108,8 @@ transform	/tɹænsfˈɔɹm/
 transform	/tɹɑːnsfˈɔːm/
 transform	/tɹˈænsfˌɔɹm/	NOUN
 transform	/tɹˈɑːnsfɔːm/	NOUN
-transform	/'tɹænsˌfɔːɹm/	NOUN
-transform	/ˌtɹæns'fɔːɹm/	VERB
+transform	/ˈtɹænsˌfɔːɹm/	NOUN
+transform	/ˌtɹænsˈfɔːɹm/	VERB
 transform's	/tɹˈænsfˌɔɹmz/
 transform's	/tɹˈɑːnsfɔːmz/
 transformable	/tɹansfˈɔːməbəl/
@@ -579726,8 +579726,8 @@ transplant	/tɹænsplˈænt/
 transplant	/tɹɑːnsplˈɑːnt/
 transplant	/tɹˈænsplˌænt/	NOUN
 transplant	/tɹˈɑːnsplɑːnt/	NOUN
-transplant	/'tɹænsˌplænt/	NOUN
-transplant	/ˌtɹæns'plænt/	VERB
+transplant	/ˈtɹænsˌplænt/	NOUN
+transplant	/ˌtɹænsˈplænt/	VERB
 transplant's	/tɹˈænsplˌænts/
 transplant's	/tɹˈɑːnsplɑːnts/
 transplantable	/tɹænsplˈæntəbəl/
@@ -579769,8 +579769,8 @@ transport	/tɹænspˈɔɹt/	VERB
 transport	/tɹɑːnspˈɔːt/	VERB
 transport	/tɹˈænspˌɔɹt/
 transport	/tɹˈɑːnspɔːt/
-transport	/'tɹænsˌpɔːɹt/	NOUN
-transport	/ˌtɹæns'pɔːɹt/	VERB
+transport	/ˈtɹænsˌpɔːɹt/	NOUN
+transport	/ˌtɹænsˈpɔːɹt/	VERB
 transport	/ˈtɹænsˈpoət/
 transport	/ˈtɹæns.poət/
 transport's	/tɹˈænspˌɔɹts/
@@ -614369,8 +614369,8 @@ upset	/ˈəpˌsɛt/, /əpˈsɛt/
 upset	/ˈʌpsɛt/	NOUN
 upset	/ˈʌpsˌɛt/	NOUN
 upset	/ˌʌpsˈɛt/
-upset	/'ʌpˌsɛt/
-upset	/ˌʌp'sɛt/	VERB
+upset	/ˈʌpˌsɛt/
+upset	/ˌʌpˈsɛt/	VERB
 upset's	/ˈʌpsɛts/
 upset's	/ˈʌpsˌɛts/
 upsets	/ˈəpˌsɛts/, /əpˈsɛts/
@@ -615346,8 +615346,8 @@ use	/jˈus/	NOUN
 use	/jˈuz/
 use	/jˈuːs/	NOUN
 use	/jˈuːz/
-use	/'juːs/	NOUN
-use	/'juːz/	VERB
+use	/ˈjuːs/	NOUN
+use	/ˈjuːz/	VERB
 use a sledgehammer to crack a nut	/ˌjuːz‿ə ˈslɛd͡ʒhæmə tə ˌkɹæk‿ə ˈnʌt/
 use's	/jˈusᵻz/
 use's	/jˈuːsɪz/
@@ -615426,8 +615426,8 @@ uses	/jˈusᵻz/	NOUN
 uses	/jˈuzᵻz/
 uses	/jˈuːsɪz/	NOUN
 uses	/jˈuːzɪz/
-uses	/'juːsəz/	NOUN
-uses	/'juːzəz/	VERB
+uses	/ˈjuːsəz/	NOUN
+uses	/ˈjuːzəz/	VERB
 uses	/ˈjuː.sɪz/
 uses	/ˈjuː.zɪz/
 ush	/ʌʃ/	VERB
@@ -636706,8 +636706,8 @@ wind	/ˈwaɪnd/	VERB
 wind	/ˈwɪnd/	NOUN
 wind	/wˈaɪnd/	VERB
 wind	/wˈɪnd/
-wind	/'waɪnd/	VERB
-wind	/'wɪnd/	NOUN
+wind	/ˈwaɪnd/	VERB
+wind	/ˈwɪnd/	NOUN
 wind	/ˈwaɪ̯nd/	NOUN
 wind	/waɪnd/	VERB
 wind farm	/ˈwɪndfɑːm/
@@ -636984,8 +636984,8 @@ windrush	/wˈɪndɹʌʃ/
 winds	/ˈwaɪndz/, /ˈwɪndz/
 winds	/wˈaɪndz/	VERB
 winds	/wˈɪndz/
-winds	/'waɪndz/	VERB
-winds	/'wɪndz/	NOUN
+winds	/ˈwaɪndz/	VERB
+winds	/ˈwɪndz/	NOUN
 winds	/wɪndz/	NOUN
 winds	/waɪndz/	VERB
 windsail	/wˈɪndseɪl/
@@ -640937,8 +640937,8 @@ wound	/ˈwund/	NOUN
 wound	/wˈaʊnd/
 wound	/wˈund/
 wound	/wˈuːnd/
-wound	/'waʊnd/
-wound	/'wuːnd/
+wound	/ˈwaʊnd/
+wound	/ˈwuːnd/
 wound	/wuːnd/	NOUN
 wound	/wyːnd/	NOUN
 wound	/wʉːnd/	NOUN

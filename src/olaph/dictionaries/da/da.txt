@@ -5600,7 +5600,7 @@ nogle	/noːlə/
 nogle	/noːn/
 nok	/nʌg̊/
 nok	/nɔɡ/
-nok	/'nʌg/
+nok	/ˈnʌg/
 nominativ	/nominatˢiwˀ/
 nominativ	/nɔminatˢiwˀ/
 nominere	/nomineˀɐ/
@@ -8884,7 +8884,7 @@ vande	/vanə/
 vandet	/vænˀð̩/
 vandet	/ʋænˀð̩˕˗/
 vandfald	/vandfald/
-vandfald	/ˈvanˌfal'/
+vandfald	/ˈvanˌfalˈ/
 vandfarve	/vanfɑːvə/
 vandkraftværk	/ˈvanˀkʀɑfdvæɐ̯g/
 vandmelon	/ʋanmeloːˀn/

@@ -450,7 +450,7 @@ aberrazione	/aberɾatsiˈone/
 aberrazione	/aberraˈtsjone/
 aberro	/abˈɛrɾo/
 abessivo	/abessˈivo/
-abessivo	/a.be'si.vo/
+abessivo	/a.beˈsi.vo/
 abete	/abˈete/
 abete	/aˈbete/
 abiatico	/aˈbjatiko/
@@ -958,7 +958,7 @@ accoppiata	/akkopˈpjata/
 accoppiato	/akːopːjˈato/
 accoppiato	/akkopˈpjato/
 accorare	/akːorˈare/
-accorare	//akko'rare/
+accorare	//akkoˈrare/
 accorciamento	/akːortʃamˈento/
 accorciamento	/akkort͡ʃaˈmento/
 accorciare	/akːortʃˈare/
@@ -1527,7 +1527,7 @@ adespota	/aˈdɛspota/
 adespoto	/adespˈoto/
 adespoto	/aˈdɛspoto/
 adessivo	/adessˈivo/
-adessivo	/a.de'si.vo/
+adessivo	/a.deˈsi.vo/
 adesso	/adˈɛsso/
 adesso	/aˈdɛss.o/
 adiabatica	/adjabˈatika/
@@ -3456,7 +3456,7 @@ amoroso	/amorˈozo/
 amoroso	/amoˈroso/
 amoroso	/amoˈrozo/
 amos	/ˈamos/
-amos	/'a.mos/
+amos	/ˈa.mos/
 amperaggio	/amperˈadʒːo/
 amperaggio	/ampeˈradd͡ʒo/
 ampere	/ampˈere/
@@ -4671,7 +4671,7 @@ apodiforme	/apodiˈforme/
 apodiformi	/apodiˈformi/
 apodittico	/apodˈitːiko/
 apodittico	/apoˈdittiko/
-apodo	/'apode/
+apodo	/ˈapode/
 apofisi	/aˈpɔfizi/
 apoftegma	/apofˈtɛɡm/
 apogeo	/apodʒˈɛo/
@@ -5487,7 +5487,7 @@ arminianesimo	/arminjanˈeːzimo/
 arminianesimo	/arminjaˈnezimo/
 armistiziale	/armistitˈtsjale/
 armistizio	/armistˈitsio/
-armistizio	//armi'stitsjo/
+armistizio	//armiˈstitsjo/
 armonia	/armonˈia/
 armonia	/armoˈnia/
 armonica	/armˈɔnika/
@@ -5584,7 +5584,7 @@ arretrato	/arɾetrˈato/
 arricchimento	/arɾikːimˈento/
 arricchimento	/arrikkiˈmento/
 arricchire	/arɾikːˈire/
-arricchire	//arrik'kire/
+arricchire	//arrikˈkire/
 arricchirsi	/arɾikːˈirsɪ/
 arricchirsi	/arrikˈkirsi/
 arricchito	/arɾikːˈito/
@@ -6085,7 +6085,7 @@ assisi	/asˈsizi/
 assiso	/assˈizo/
 assiso	/asˈsizo/
 assistente	/assisˈtɛnte/
-assistente sociale	//assi'sten'te/socia'le/
+assistente sociale	//assiˈstenˈte/sociaˈle/
 assistenza	/assisˈtɛntsa/
 assistenzialismo	/assistentsjaˈlizmo/
 assistere	/assˈistere/
@@ -6207,7 +6207,7 @@ astante	/asˈtante/
 astanteria	/astanteˈria/
 astato	/ˈastato/
 astato	/aˈstato/
-astemi	/a'stɛmj/
+astemi	/aˈstɛmj/
 astemio	/astˈemio/
 astemio	/aˈstɛmjo/
 astenere	/asteˈnere/
@@ -7398,7 +7398,7 @@ baco	/ˈbako/
 baconiano	/bakonjˈano/
 baconiano	/bakoˈnjano/
 bacucco	/bakˈukːo/
-bacucco	/ba'ku.kko/
+bacucco	/baˈku.kko/
 bacula	/bˈakʊla/
 bacula	/ˈbakula/
 bada	/bˈada/
@@ -7902,7 +7902,7 @@ basito	/baˈzito/
 basket	/bˈasket/
 basket	/ˈbasket/
 bassa	/bassa/
-bassa sassonia	/ˈbassasas'sonja'/
+bassa sassonia	/ˈbassasasˈsonjaˈ/
 bassamente	/bassamˈente/
 bassamente	/bassaˈmente/
 bassare	/bassˈare/
@@ -7922,7 +7922,7 @@ bassorilievo	/bassoriˈljɛvo/
 bassotto	/bassˈɔtːo/
 bassotto	/basˈsɔtto/
 basta	/bˈasta/
-basta	/ba'sta/
+basta	/baˈsta/
 bastantemente	/bastantemˈente/
 bastantemente	/bastanteˈmente/
 bastardata	/bastardˈata/
@@ -8214,7 +8214,7 @@ benda	/bɛnda/
 bendare	/bendˈare/
 bendare	/benˈdare/
 bendato	/bendˈato/
-bendato	//ben'dato/
+bendato	//benˈdato/
 bende	/ˈbɛnde/
 bendisporre	/bendispˈɔrɾe/
 bendisporre	/,bɛndisˈporre/
@@ -8352,7 +8352,7 @@ bermuda	/bermˈuda/
 bermuda	/berˈmuːda/
 bermuda	/berˈmuda/
 berna	/bˈɛrna/
-berna	/'berna/
+berna	/ˈberna/
 berniniano	/berniˈnjano/
 bernoccolo	/berˈnɔkkolo/
 berretta	/berˈretta/
@@ -8886,7 +8886,7 @@ bistrattare	/bistratˈtare/
 bistro	/bisˈtrɔ/
 bistrot	/bisˈtrɔ/
 bisturi	/bˈistʊrɪ/
-bisturi	//'bisturi/
+bisturi	//ˈbisturi/
 bisunto	/biˈzunto/
 bit	/bˈit/
 bit	/ˈbit/
@@ -9364,7 +9364,7 @@ bovino	/boˈvino/
 box	/bˈoks/
 box	/ˈbɔks/
 boxe	/bˈɔksɛ/
-boyfriend	/ˌbɔj'frɛnd/
+boyfriend	/ˌbɔjˈfrɛnd/
 boys	/bois/
 bozza	/ˈbɔttsa/
 bozzacchione	/botsːakːiˈone/
@@ -10681,7 +10681,7 @@ cancrena	/kankrˈɛna/
 cancrena	/kanˈkrɛna/
 cancro	/kˈankro/
 cancro	/ˈkaŋkro/
-cancro	/'kaŋkro/
+cancro	/ˈkaŋkro/
 cancro	/ˈkan.kro/
 candeggiare	/kandedʒːˈare/
 candeggiare	/kandedˈd͡ʒare/
@@ -10801,7 +10801,7 @@ canoro	/kaˈnɔro/
 canottaggio	/kanotːˈadʒːo/
 canottaggio	/kanotˈtadd͡ʒo/
 canottiera	/kanotːiˈɛra/
-canottiera	/kanot'tjɛra/
+canottiera	/kanotˈtjɛra/
 canottiere	/kanotːiˈɛre/
 canottiere	/kanotˈtjɛre/
 canotto	/kanˈɔtːo/
@@ -12138,16 +12138,16 @@ cazaro	/katsˈaro/
 cazaro	/kadˈd͡zaːro/
 cazaro	/ka.ˈd͡za.ro/
 cazzara	/katsːˈaɾa/
-cazzara	/kat't͡saːra/
+cazzara	/katˈt͡saːra/
 cazzara	/kat.ˈt͡sa.ra/
 cazzare	/katsːˈare/
-cazzare	/kat't͡saːre/
+cazzare	/katˈt͡saːre/
 cazzare	/kat.ˈt͡sa.re/
 cazzari	/katsːˈarɪ/
-cazzari	/kat't͡saːri/
+cazzari	/katˈt͡saːri/
 cazzari	/kat.ˈt͡sa.ri/
 cazzaro	/katsːˈaro/
-cazzaro	/kat't͡saːro/
+cazzaro	/katˈt͡saːro/
 cazzaro	/kat.ˈt͡sa.ro/
 cazzata	/katsːˈata/
 cazzata	/katˈtsata/
@@ -13035,8 +13035,8 @@ ciarlone	/t͡ʃarˈlone/
 ciarpame	/tʃarpˈame/
 ciarpame	/t͡ʃarˈpame/
 ciascuno	/tʃaskˈuno/
-ciascuno	/t͡ʃas'ku.no/
-ciascuno	/t͡ʃas'kuː.no/
+ciascuno	/t͡ʃasˈku.no/
+ciascuno	/t͡ʃasˈkuː.no/
 ciati	/tʃˈatɪ/
 ciati	/ˈt͡ʃiati/
 ciato	/tʃˈato/
@@ -13094,7 +13094,7 @@ ciclicità	/tʃiklitʃitˈa/
 ciclicità	/t͡ʃiklit͡ʃiˈta/
 ciclismo	/tʃiklˈizmo/
 ciclismo	/t͡ʃiˈklizmo/
-ciclista	/t͡ʃi'klista/
+ciclista	/t͡ʃiˈklista/
 ciclistico	/tʃiklˈistiko/
 ciclistico	/t͡ʃiˈklistiko/
 ciclo	/tʃˈiklo/
@@ -13211,8 +13211,8 @@ cincillidi	/t͡ʃinˈt͡ʃillidi/
 cincillà	/tʃintʃillˈa/
 cincillà	/t͡ʃint͡ʃilˈla/
 cincinnare	/tʃintʃinnˈare/
-cincinnare	/t͡ʃin.t͡ʃin'na.re/
-cincinnare	/t͡ʃin̺ʲt͡ʃin̺'n̺äːr̺e̞/
+cincinnare	/t͡ʃin.t͡ʃinˈna.re/
+cincinnare	/t͡ʃin̺ʲt͡ʃin̺ˈn̺äːr̺e̞/
 cincinno	/tʃintʃˈinno/
 cincinno	/t͡ʃinˈt͡ʃin.no/
 cincischiare	/tʃintʃiskjˈare/
@@ -13708,7 +13708,7 @@ cliccare	/klikˈkare/
 cliente	/kliˈɛnte/
 clientela	/klientˈɛla/
 clientela	/klienˈtɛla/
-clientelare	//Kliente'lare/
+clientelare	//Klienteˈlare/
 clientelismo	/klientelˈizmo/
 clientelismo	/klienteˈlizmo/
 clifton	/klifton/
@@ -13959,7 +13959,7 @@ coerente	/koeˈrɛnte/
 coerentemente	/koerentemˈente/
 coerentemente	/koerenteˈmente/
 coerentista	/koerentˈista/
-coerentista	/coeren'tista/
+coerentista	/coerenˈtista/
 coerenza	/koerˈɛntsa/
 coerenza	/koeˈrɛntsa/
 coesione	/koeziˈone/
@@ -14378,7 +14378,7 @@ combinata	/kombiˈnata/
 combinazione	/kombinatsiˈone/
 combinazione	/kombinatˈtsjone/
 combine	/kombˈine/
-combine	/ˈkɒmbaɪn/ ˈˈo meno corretta seɡuendo la pronuncia francese ˈ' /komˈbin/
+combine	/ˈkɒmbaɪn/ ˈˈo meno corretta seɡuendo la pronuncia francese ˈˈ /komˈbin/
 comboniano	/komboˈnjano/
 combretacea	/kombreˈtaʧea/
 combretacee	/kombreˈtaʧee/
@@ -14414,7 +14414,7 @@ cominciò	/komintʃˈɔ/
 comitale	/komitˈale/
 comitale	/komiˈtale/
 comitativo	/komitatˈivo/
-comitativo	/ko.mi.ta'ti.vo/
+comitativo	/ko.mi.taˈti.vo/
 comitato	/komiˈtato/
 comitiva	/komiˈtiva/
 comiziante	/komitˈtsjante/
@@ -15003,7 +15003,7 @@ conciossiaché	/kont͡ʃossjaˈke/
 conciossiacosaché	/kontʃossjakozakˈe/
 conciossiacosaché	/kont͡ʃossjakozaˈke/
 concisamente	//kont͡ʃizaˈmente/
-concise	/kon't͡ʃize/
+concise	/konˈt͡ʃize/
 concisi	//konˈt͡ʃizi/
 concisione	/kontʃiziˈone/
 concisione	/kont͡ʃiˈzjone/
@@ -15905,7 +15905,7 @@ contrattaccare	/kontrattakˈkare/
 contrattazione	/kontratːatsiˈone/
 contrattazione	/kontrattaˈtsjone/
 contrattempo	/kontratˈtɛmpo/
-contrattilità	//kontratttili'ta/
+contrattilità	//kontratttiliˈta/
 contratto	/kontrˈatːo/
 contratto	/konˈtratto/
 contrattuale	/kontratːʊˈale/
@@ -16538,7 +16538,7 @@ coscrivere	/kosˈkrivere/
 cose	/kˈɔze/
 cose	/ˈkɔːse/
 cose	/ˈkɔ.se/
-cose	/'kɔːse/
+cose	/ˈkɔːse/
 cosentino	/kozentˈino/
 cosentino	/kozenˈtino/
 cosentino	/kosenˈtino/
@@ -17562,7 +17562,7 @@ danese	/daˈneze/
 danimarca	/daniˈmarka/
 dannare	/dannˈare/
 dannare	/danˈnare/
-dannarsi	//dan'narsi/
+dannarsi	//danˈnarsi/
 dannazione	/dannatsiˈone/
 dannazione	/dannaˈtsjone/
 danneggiamento	/dannedʒːamˈento/
@@ -18392,7 +18392,7 @@ denti	/ˈdɛnti/
 dentice	/dˈɛntitʃe/
 dentice	/ˈdɛntit͡ʃe/
 dentiera	/dentiˈɛra/
-dentiera	//den'tjɛra/
+dentiera	//denˈtjɛra/
 dentifricio	/dentifrˈitʃo/
 dentifricio	/dentiˈfrit͡ʃo/
 dentina	/denˈtina/
@@ -19021,7 +19021,7 @@ diaspora	/djaspˈɔra/
 diaspora	/diˈaspora/
 diastema	/diasˈtɛma/
 diastole	/djˈastole/
-diastole	//di'astole/
+diastole	//diˈastole/
 diastolica	/diasˈtɔlika/
 diastolico	/djastˈɔliko/
 diastolico	/diasˈtɔliko/
@@ -19795,7 +19795,7 @@ discentramenti	/dist͡ʃentraˈmenti/
 discentramento	/diʃʃentraˈmento/
 discentramento	/dist͡ʃentraˈmento/
 discentrare	/diʃentrˈare/
-discentrare	/dist͡ʃentrare/ ''oppure'' /diʃʃenˈtrare/
+discentrare	/dist͡ʃentrare/ ˈˈoppureˈˈ /diʃʃenˈtrare/
 discernere	/diʃˈɛrnere/
 discernere	/diʃˈʃer.ne.re/
 discernimento	/diʃernimˈento/
@@ -20491,7 +20491,7 @@ divaricatore	/divarikatˈore/
 divaricazione	/divarikatsiˈone/
 divaricazione	/divarikatˈtsjone/
 divario	/divˈario/
-divario	//di'varjo/
+divario	//diˈvarjo/
 divelto	/divˈɛlto/
 divelto	/diˈvɛlto/
 divenire	/divenˈire/
@@ -21171,7 +21171,7 @@ duttile	/dˈutːile/
 duttile	/ˈduttile/
 duttilità	/duttiliˈta//
 duttilmente	/duttilˈmente/
-duvet	//du've/
+duvet	//duˈve/
 dà	/dˈa/
 dèi	/dɛj/
 débâcle	/dˈebakle/
@@ -23403,7 +23403,7 @@ essiccatore	/essikkaˈtore/
 essiccazione	/essikːatsiˈone/
 essiccazione	/essikkaˈtsjone/
 essivo	/essˈivo/
-essivo	/e'si.vo/
+essivo	/eˈsi.vo/
 esso	/ˈesso/
 essoterica	/essotˈɛrika/
 essoterica	/essoˈtɛrika/
@@ -23563,17 +23563,17 @@ estromettere	/estroˈmettere/
 estromissione	/estromisˈsjone/
 estrosità	/estrosiˈta/
 estroversa	/estrovˈɛrsa/
-estroversa	/estro'vɛrsa/
+estroversa	/estroˈvɛrsa/
 estroversamente	/estroversamˈente/
 estroversamente	/estroversaˈmente/
 estroverse	/estrovˈɛrse/
-estroverse	/estro'vɛrse/
+estroverse	/estroˈvɛrse/
 estroversi	/estrˈoversɪ/
-estroversi	/estro'vɛrsi/
+estroversi	/estroˈvɛrsi/
 estroversione	/estroversiˈone/
 estroversione	/estroverˈsjone/
 estroverso	/estrovˈɛrso/
-estroverso	/estro'vɛrso/
+estroverso	/estroˈvɛrso/
 estuario	/estʊˈario/
 estuario	/estuˈarjo/
 esuberante	/ezʊberˈante/
@@ -23679,7 +23679,7 @@ etimo	/ˈɛtimo/
 etimologia	/etimolodʒˈia/
 etimologico	/etimoˈlɔd͡ʒiko/
 etimologista	/etimolodʒˈista/
-etimologista	//etimolod͡ʒi'sta/
+etimologista	//etimolod͡ʒiˈsta/
 etimologiste	/etimolodʒˈiste/
 etimologisti	/etimolodʒˈistɪ/
 etimologo	/etimˈɔlogo/
@@ -23938,7 +23938,7 @@ extralussi	/ekstralˈussɪ/
 extralusso	/ekstralˈusso/
 extralusso	/ɛkstraˈlusso/
 extrapolare	/ekstrapolˈare/
-extrapolare	//ekstrapola're/]/
+extrapolare	//ekstrapolaˈre/]/
 extrasistolico	/ekstrazistˈɔliko/
 extrasistolico	/ekstrasisˈtɔliko/
 extratemporale	//ekstratempoˈrale/
@@ -25942,7 +25942,7 @@ forte	/fˈɔrte/
 forte	/ˈfɔrte/
 fortemente	/fortemˈente/
 fortemente	/forteˈmente/
-fortepiano	/fɔrte'pjano/
+fortepiano	/fɔrteˈpjano/
 fortezza	/fortˈetsːa/
 fortezza	/forˈtett͡sa/
 forti	/fˈɔrtɪ/
@@ -26238,7 +26238,7 @@ fraschetta	/frasˈketta/
 frase	/frˈaze/
 frase	/ˈfraze/
 frasi	/frazi/
-frassino	//'frassino/
+frassino	//ˈfrassino/
 frastagliato	/frastaʎˈato/
 frastagliato	/frastaʎˈʎato/
 frastornamento	/frastornaˈmento/
@@ -26324,7 +26324,7 @@ fregio	/frˈedʒo/
 fregio	/ˈfred͡ʒo/
 fregnaccia	/freɲˈatʃːa/
 fregnaccia	//freɲˈɲatt͡ʃa/
-frego	//'frego/
+frego	//ˈfrego/
 fremere	/frˈɛmere/
 fremere	/ˈfrɛmere/
 fremito	/frˈɛmito/
@@ -27175,7 +27175,7 @@ gemere	/dʒˈemere/
 gemere	/ˈd͡ʒɛmere/
 geminare	/dʒeminˈare/
 geminare	/d͡ʒemiˈnare/
-gemitare	/d͡ʒɛ.mi'ta.re/
+gemitare	/d͡ʒɛ.miˈta.re/
 gemito	/dʒˈɛmito/
 gemito	/ˈd͡ʒɛmito/
 gemma	/dʒˈɛmma/
@@ -27818,7 +27818,7 @@ giorno feriale	/ˈd͡ʒorno feˈrjaːle/
 giostra	/ˈd͡ʒɔstra/
 giottesco	/dʒotːˈesko/
 giottesco	/d͡ʒotˈtesko/
-giotto	/'d͡ʒɔtto/
+giotto	/ˈd͡ʒɔtto/
 giovamento	/dʒovamˈento/
 giovamento	/d͡ʒovaˈmento/
 giovane	/dʒˈovane/
@@ -27913,7 +27913,7 @@ girone	/ʤiˈrone/
 gironzolare	//d͡ʒirondzoˈlare/
 giroscopio	/dʒiroskˈopio/
 giroscopio	/d͡ʒirosˈkɔpjo/
-girotondo	//d͡ʒiro'tondo/
+girotondo	//d͡ʒiroˈtondo/
 girovagare	/dʒirovagˈare/
 girovagare	/d͡ʒirovaˈɡare/
 girovago	/dʒirovˈago/
@@ -28674,7 +28674,7 @@ grazia	/ˈɡratsja/
 graziare	/gratsjˈare/
 graziare	/ɡratˈtsjare/
 grazie	/grˈatsje/
-grazie	/'grattsje/
+grazie	/ˈgrattsje/
 graziosamente	/gratsiozamˈente/
 graziosamente	/ɡrattsjosaˈmente/
 grazioso	/ɡratˈtsjoso/
@@ -29120,7 +29120,7 @@ hocco	/ˈɔkko/
 homo	/ˈɔmo/
 honda	/ˈɔnda/
 honore	/onore/
-hora	/ho'ra/
+hora	/hoˈra/
 hora	/ora/
 horror	/ˈɔrror/
 hostess	/ˈɔstess/
@@ -29415,7 +29415,7 @@ ignavia	/iɲˈɲavja/
 ignavo	/iɲˈavo/
 ignavo	/iɲˈɲavo/
 ignazio	/iɲˈɲatt͡sjo/
-igneo	/'iɲɲeo/
+igneo	/ˈiɲɲeo/
 ignifugo	/iɲifˈugo/
 ignifugo	/iˈɲɲifuɡo/
 ignimbrite	/iɲimbrˈite/
@@ -29452,7 +29452,7 @@ igrografo	/iˈɡrɔɡrafo/
 igrometria	/igrometrˈia/
 igrometrico	/igromˈɛtriko/
 igrometrico	/iɡroˈmɛtriko/
-igrometro	/i'grɔmetro/
+igrometro	/iˈgrɔmetro/
 igroscopia	/igroskopˈia/
 igroscopia	/iɡroskoˈpia/
 igroscopico	/igroskˈɔpiko/
@@ -29688,7 +29688,7 @@ imbrunire	/imbrʊnˈire/
 imbrunire	/imbruˈnire/
 imbruttire	/imbrʊtːˈire/
 imbruttire	/mbrutˈtire/
-imbufalito	//imbufa'lito/
+imbufalito	//imbufaˈlito/
 imbussolare	/imbussoˈlare/
 imbuti	/imbˈutɪ/
 imbutino	/imbuˈtino/
@@ -30937,7 +30937,7 @@ incubatore	/inkubaˈtore/
 incubazione	/inkʊbatsiˈone/
 incubazione	/inkubatˈtsjone/
 incubi	/ˈinkʊbɪ/
-incubi	//'iŋkubi/
+incubi	//ˈiŋkubi/
 incubo	/ˈinkʊbo/
 incubo	/ˈiŋkubo/
 incudine	/inkˈudine/
@@ -32313,7 +32313,7 @@ instaurare	/instaʊrˈare/
 instaurare	/instawˈrare/
 instradatore	//instradaˈtore/
 instruttivo	/instrʊtːˈivo/
-instruttivo	/ins.tru'ti.vo/
+instruttivo	/ins.truˈti.vo/
 instupidire	/instupiˈdire/
 insubordinato	/insʊbordinˈato/
 insubordinato	/insubordiˈnato/
@@ -32340,7 +32340,7 @@ insuloma	/insuˈlɔma/
 insulsa	/inˈsulsa/
 insulsaggine	/insʊlsˈadʒːine/
 insulsaggine	/insulˈsadd͡ʒine/
-insulsamente	//insulsa'mente/
+insulsamente	//insulsaˈmente/
 insulse	/inˈsulse/
 insulsi	/inˈsulsi/
 insulso	/insˈulso/
@@ -33487,7 +33487,7 @@ irruzione	/irruˈtsjone/
 irsuto	/irsˈuto/
 irsuto	/irˈsuto/
 irto	/ˈirto/
-irundinidi	//irun'dininide/
+irundinidi	//irunˈdininide/
 isabella	/izaˈbella/
 isba	/ˈizba/
 isba	/izˈba/
@@ -33552,7 +33552,7 @@ isolare	/izoˈlare/
 isolato	/izolˈato/
 isolato	/izoˈlato/
 isomeria	/izomeˈria/
-isomero	//i'zɔmero/
+isomero	//iˈzɔmero/
 isometrica	/izoˈmɛtrika/
 isometrico	/izomˈɛtriko/
 isometrico	/izoˈmɛtriko/
@@ -33779,7 +33779,7 @@ jockey	/dʒˈɔkeɪ/
 jockey	/ˈd͡ʒɔkej/
 jodel	/dʒˈodel/
 jodel	/ˈjɔdel//
-jogger	/'dʒɔgger/
+jogger	/ˈdʒɔgger/
 jogging	/ˈd͡ʒɔɡɡinɡ/
 john	/dʒˈɔn/
 johnson	/dʒˈonson/
@@ -33857,7 +33857,7 @@ kimono	/kiˈmɔno/
 king	/king/
 kip	/kip/
 kippur	/kipːˈur/
-kippur	/ki'p:ur/
+kippur	/kiˈp:ur/
 kirby	/kirbˈi/
 kirghizistan	/kirˈgidzistan/
 kiribati	/kiriˈbas/
@@ -34186,7 +34186,7 @@ lanzichenecco	/lantsikeˈnekko/
 laotiano	/laotjˈano/
 laotiano	/laoˈtjano/
 lap	/lap/
-lap steel guitar	/'læp stiːl gɪˈtɑː/
+lap steel guitar	/ˈlæp stiːl gɪˈtɑː/
 lapalissiano	/lapalissjˈano/
 lapalissiano	/lapalisˈsjano/
 laparoscopia	/laparoskopˈia/
@@ -34847,7 +34847,7 @@ levare	/leˈvare/
 levarsi	/levˈarsɪ/
 levarsi	/leˈvarsi/
 levato	/levˈato/
-levato	//le'vato/
+levato	//leˈvato/
 levatrice	/levatrˈitʃe/
 levatrice	/levaˈtrit͡ʃe/
 levi	/levi/
@@ -35720,7 +35720,7 @@ luminoso	/lumiˈnoso/
 luminoso	//lumiˈnozo/
 luna	/lˈuna/
 luna	/ˈluna/
-luna	/'luːna/
+luna	/ˈluːna/
 luna park	/luna park/
 lunare	/lʊnˈare/
 lunare	/luˈnare/
@@ -36669,7 +36669,7 @@ manipolo	/manˈipolo/
 manipolo	/maˈnipolo/
 maniscalco	/maniskˈalko/
 maniscalco	/maniˈskalko/
-mannaggia	//man'nad͡ʒːa/
+mannaggia	//manˈnad͡ʒːa/
 mannaia	/mannˈaia/
 mannaia	/manˈnaja/
 mannello	/mannˈɛllo/
@@ -37835,7 +37835,7 @@ metabolicamente	/metabolikaˈmente/
 metabolico	/metabˈɔliko/
 metabolico	/metaˈbɔliko/
 metabolismi	/metabolˈizmɪ/
-metabolismi	/metabo'lizmi/
+metabolismi	/metaboˈlizmi/
 metabolismo	/metabolˈizmo/
 metabolismo	/metaboˈlizmo/
 metabolizzare	/metabolidzːˈare/
@@ -38692,7 +38692,7 @@ mitridatismo	/mitridaˈtizmo/
 mittente	/mitːˈɛnte/
 mittente	/mitˈtɛnte/
 mitteria	/mitˈtɛrja/
-mitzvah	/mi't͡sva/
+mitzvah	/miˈt͡sva/
 mixed	/miksɛd/
 mixer	/ˈmikser/
 mixo	/mˈikso/
@@ -38734,7 +38734,7 @@ modale	/modˈale/
 modale	/moˈdale/
 modalità	/modalitˈa/
 modalità	/modaliˈta/
-modalità goblin	/modali'ta 'go blin/
+modalità goblin	/modaliˈta ˈgo blin/
 modella	/modˈɛlla/
 modella	/moˈdɛlla/
 modellabile	/modellˈabile/
@@ -39588,7 +39588,7 @@ munizionamento	/mʊnitsionamˈento/
 munizionamento	/munitsjonaˈmento/
 munizione	/mʊnitsiˈone/
 munizione	/muniˈtsjone/
-munto	//'munto/
+munto	//ˈmunto/
 muone	/mʊˈone/
 muone	/muˈone/
 muore	/mʊˈɔre/
@@ -40973,8 +40973,8 @@ nuotare	/nʊotˈare/
 nuotare	/nwoˈtare/
 nuotatore	/nʊotatˈore/
 nuotatore	/nwotaˈtore/
-nuotatore artistico	/nwota'tore/
-nuotatore artistico	//ar'tistiko/
+nuotatore artistico	/nwotaˈtore/
+nuotatore artistico	//arˈtistiko/
 nuotatrice	/nwotaˈtritʃe/
 nuoto	/nʊˈɔto/
 nuoto	/ˈnwɔto/
@@ -42690,7 +42690,7 @@ ovulazione	/ovulaˈtsjone/
 ovunque	/ovˈunkwe/
 ovunque	/oˈvun.kwe/
 ovvero	/ovvˈero/
-ovvero	/ov'vero/
+ovvero	/ovˈvero/
 ovviamente	/ovviamˈente/
 ovviamente	/ɔv.vjaˈmen.te/
 ovviare	/ovviˈare/
@@ -43045,7 +43045,7 @@ paludismo	/palʊdˈizmo/
 paludismo	/paluˈdizmo/
 paludoso	/paluˈdoso/
 pam	/pˈam/
-pamphlet	/pamˈflɛ/, /pamˈfle/, /'pamflet/
+pamphlet	/pamˈflɛ/, /pamˈfle/, /ˈpamflet/
 pampino	/pampˈino/
 pampino	/ˈpampino/
 pampsichismo	/pampsikˈizmo/
@@ -43163,7 +43163,7 @@ panlogismo	/panloˈd͡ʒizmo/
 panna	/pˈanna/
 panna	/ˈpanna/
 pannello	/pannˈɛllo/
-pannello	//pan'nɛllo/
+pannello	//panˈnɛllo/
 panno	/pˈanno/
 panno	/panno/
 pannocchia	/pannˈɔkːia/
@@ -44223,7 +44223,7 @@ penieno	/peˈnjɛno/
 penisola	/penˈizola/
 penisola	/peˈnizola/
 penisole	/penˈizole/
-penisole	/pe'nizole/
+penisole	/peˈnizole/
 penitente	/peniˈtɛnte/
 penitenza	/penitˈɛntsa/
 penitenza	/peniˈtɛntsa//
@@ -44443,7 +44443,7 @@ peregrinazione	/pereɡrinatˈtsjone/
 perenne	/perˈɛnne/
 perenne	/peˈrɛnne/
 perennemente	/perennemˈente/
-perennemente	//perɛnne'mente/
+perennemente	//perɛnneˈmente/
 perennità	/perennitˈa/
 perennità	/perenniˈta/
 perento	/peˈrɛnto/
@@ -45621,7 +45621,7 @@ playboy	/plaibˈoi/
 playboy	/,plɛjˈbɔj/
 playlist	/plaˈilist/
 playlist	/ˈplɛilist/
-playmaker	/plɛj'mejker/
+playmaker	/plɛjˈmejker/
 playstation	/,plɛjˈsteʃʃon/
 plebe	/plˈɛbe/
 plebe	/ˈplɛbe/
@@ -45714,7 +45714,7 @@ plusvalenza	/,plusvaˈlɛntsa/,pluzvaˈlɛntsa//
 plusvalore	/plʊzvalˈore/
 plusvalore	/plusvaˈlore/,pluzvaˈlore/
 plutei	/plʊtˈeɪ/
-plutei	/'plutei/
+plutei	/ˈplutei/
 pluteo	/plʊtˈɛo/
 pluteo	/ˈpluteo/
 plutocrate	/pluˈtɔkrate/
@@ -46098,7 +46098,7 @@ pomodoro	/pomodˈɔro/
 pomodoro	/pomoˈdɔro/
 pompa	/pˈompa/
 pompa	/ˈpompa/
-pompadour	/pompa'dur/
+pompadour	/pompaˈdur/
 pompaggio	/pompˈadʒːo/
 pompaggio	/pomˈpadd͡ʒo/
 pompare	/pompˈare/
@@ -47337,7 +47337,7 @@ privatizzare	/privatidˈdzare/
 privatizzazione	/privatidzːatsiˈone/
 privatizzazione	/privatiddzatˈtsjone/
 privato	/privˈato/
-privato	//pri'vato/
+privato	//priˈvato/
 privazione	/privatsiˈone/
 privazione	/privaˈtsjone/
 prive	/prˈive/
@@ -47824,7 +47824,7 @@ propedeutica	/propeˈdɛwtika/
 propedeutico	/propedˈɛʊtiko/
 propedeutico	/propeˈdewtiko/
 propellente	/propellˈɛnte/
-propellente	//propel'lɛnte/
+propellente	//propelˈlɛnte/
 propendere	/proˈpɛndere/
 propenso	/propˈɛnso/
 propenso	/proˈpɛnso/
@@ -48361,7 +48361,7 @@ pubblicizzazione	/pʊbːlitʃidzːatsiˈone/
 pubblicizzazione	/pubblit͡ʃiddzatˈtsjone/
 pubblico	/pˈubːliko/
 pubblico	/ˈpubbliko/
-pube	//'pube/
+pube	//ˈpube/
 puberale	/pʊberˈale/
 puberale	/pubeˈrale/
 pubere	/pˈubere/
@@ -48548,7 +48548,7 @@ punzecchiare	/pʊntsekːjˈare/
 punzecchiare	/puntsekˈkjare/
 punzecchiatura	/pʊntsekːjatˈura/
 punzecchiatura	/puntsekkjaˈtura/
-punzonare	//puntso'nare/
+punzonare	//puntsoˈnare/
 punzonatura	/pʊntsonatˈura/
 punzonatura	/puntsonaˈtura/
 punzone	/pʊntsˈone/
@@ -48860,7 +48860,7 @@ querela	/kwerˈɛla/
 querela	/kweˈrɛla/
 querelare	/kwerelˈare/
 querelare	/kwereˈlare/
-querimonia	//kweri'ˈmɔnja/
+querimonia	//kweriˈˈmɔnja/
 querulo	/kwˈɛrʊlo/
 querulo	/ˈkwɛrulo/
 quesito	/kwezˈito/
@@ -49408,7 +49408,7 @@ rallentamento	/rallentamˈento/
 rallentamento	/rallentaˈmento/
 rallentare	/rallenˈtare/
 ralliforme	/ralliˈforme/
-rallo	//'rallo/
+rallo	//ˈrallo/
 rally	/rˈallɪ/
 rally	/ˈrɛlli/
 ram	/rˈam/
@@ -49964,7 +49964,7 @@ registrazione	/redʒistratsiˈone/
 registrazione	/red͡ʒistraˈtsjone/
 registro	/redʒˈistro/
 registro	/reˈd͡ʒistro/
-registro d'organo	/reˈd͡ʒistroˌd'ɔrgano/
+registro d'organo	/reˈd͡ʒistroˌdˈɔrgano/
 regnare	/reɲˈare/
 regnare	/reɲˈɲare/
 regno	/rˈeɲɲo/
@@ -50115,7 +50115,7 @@ renna	/ˈrɛnna/
 reo	/rˈɛo/
 reo	/ˈrɛo/
 reo	/ˈrɛo/
-reorniti	//re'orniti/
+reorniti	//reˈorniti/
 reparto	/repˈarto/
 reparto	/reˈparto/
 repellente	/repellˈɛnte/
@@ -50461,7 +50461,7 @@ riaperto	/riapˈɛrto/
 riaperto	/riaˈpɛrto/
 riapertura	/riapertˈura/
 riapertura	/riaperˈtura/
-riapparire	//riappa'rire/
+riapparire	//riappaˈrire/
 riapparso	/riapˈparso/
 riaprire	/riaprˈire/
 riaprire	/riaˈprire/
@@ -50567,8 +50567,8 @@ ricerca	/riˈt͡ʃerka/
 ricercare	/ritʃerkˈare/
 ricercare	/rit͡ʃerˈkare/
 ricercatezza	/ritʃerkatˈetsːa/
-ricercatezza	/ri.t͡ʃer.ka'tet.t͡sa/
-ricercatezza	/r̺it͡ʃer̺kä't̪e̞t̪t̪͡s̪ä/
+ricercatezza	/ri.t͡ʃer.kaˈtet.t͡sa/
+ricercatezza	/r̺it͡ʃer̺käˈt̪e̞t̪t̪͡s̪ä/
 ricercatore	/ritʃerkatˈore/
 ricercatore	/rit͡ʃerkaˈtore/
 ricetrasmettitore	/ritʃetrazmetːitˈore/
@@ -54446,7 +54446,7 @@ sedersi	/seˈdersi/
 sedia	/sˈɛdia/
 sedia	/ˈsɛdja/
 sedicente	/seditʃˈɛnte/
-sedicente	/sedi'tʃɛnte/
+sedicente	/sediˈtʃɛnte/
 sedicenti	/seditʃˈɛntɪ/
 sedicenti	/sediˈtʃɛnti/
 sedici	/sˈeditʃɪ/
@@ -55575,13 +55575,13 @@ sibilla	/si.ˈbil.la/
 sibille	/sibˈille/
 sibille	/si.ˈbil.le/
 sibillina	/sibillˈina/
-sibillina	/sibil'liːna/
+sibillina	/sibilˈliːna/
 sibillina	/si.bil.ˈli.na/
 sibilline	/sibillˈine/
-sibilline	/sibil'liːne/
+sibilline	/sibilˈliːne/
 sibilline	/si.bil.ˈli.ne/
 sibillini	/sibillˈinɪ/
-sibillini	/sibil'liːni/
+sibillini	/sibilˈliːni/
 sibillini	/si.bil.ˈli.ni/
 sibillino	/sibillˈino/
 sibillino	/sibilˈlino/
@@ -55791,7 +55791,7 @@ silvia	/sˈilvia/
 silvia	/ˈsilvja/
 silvide	/ˈsilvide/
 silvide	/silˈvide/
-silvidi	//'silvidi/
+silvidi	//ˈsilvidi/
 sim	/sim/
 sim	/ˈsim/
 simarubacea	//simaruˈbaʧea/
@@ -56234,7 +56234,7 @@ smanioso	/zmaˈnjoso/
 smanioso	/zmaˈnjozo/
 smantellamento	/zmantellaˈmento/
 smantellare	/zmantellˈare/
-smantellare	//zmantɛl'lare/
+smantellare	//zmantɛlˈlare/
 smarcare	/zmarkˈare/
 smarcare	/zmarˈkare/
 smargiassata	/zmardʒassˈata/
@@ -56672,7 +56672,7 @@ solleticamento	/sol:etikaˈmento/
 solleticare	/solletikˈare/
 solleticare	/solletiˈkare/
 sollevamento	/sollevamˈento/
-sollevamento	//solleva'mento/
+sollevamento	//sollevaˈmento/
 sollevare	/sollevˈare/
 sollevare	/solleˈvare/
 sollevazione	/sollevatsiˈone/
@@ -58666,7 +58666,7 @@ storiografo	/stoˈrjɔɡrafo/
 storione	//stoˈrjone/
 stormire	/stormˈire/
 stormire	/storˈmire/
-stormo	//'stormo/
+stormo	//ˈstormo/
 stornare	//storˈnare/
 storno	/stˈorno/
 storno	/ˈstorno/
@@ -58902,7 +58902,7 @@ stringere	/ˈstriŋd͡ʒere/
 stringimento	//strind͡ʒiˈmento/
 strip club	/ˈstripklab/
 strip club	/ˈstripklɛb/
-stripe-tease	//strip'tiz/
+stripe-tease	//stripˈtiz/
 striptease	/stripˈtiz/
 striscia	/strˈiʃa/
 striscia	/ˈstriʃʃa/
@@ -59824,7 +59824,7 @@ tale	/ˈtale/
 talea	/talˈɛa/
 talea	/ˈtalea/
 talea	/taˈlɛa/
-talebano	//tale'bano/
+talebano	//taleˈbano/
 taleggio	/talˈedʒːo/
 taleggio	/taˈledd͡ʒo/
 talento	/talˈɛnto/
@@ -60599,7 +60599,7 @@ termitaio	/termitˈaio/
 termitaio	/termiˈtajo/
 termite	/termˈite/
 termite	/ˈtɛrmite/
-termite	/tɛr'mite/
+termite	/tɛrˈmite/
 termiti	/ˈtɛrmite/
 termiti	/terˈmite/
 termitide	/termˈitide/
@@ -61244,8 +61244,8 @@ torcia	/ˈtɔrt͡ʃa/
 torcicollo	/tortʃikˈɔllo/
 torcicollo	/tort͡ʃiˈkɔllo/
 torcinaso	/tortʃinˈazo/
-torcinaso	/tɔrt͡ʃi'nazo/
-torcinaso	/torci'naso/
+torcinaso	/tɔrt͡ʃiˈnazo/
+torcinaso	/torciˈnaso/
 tordela	/tordˈɛla/
 tordela	/torˈdela/
 tordo	/ˈtordo/
@@ -61284,7 +61284,7 @@ tornare	/torˈnare/
 tornasole	/tornazˈɔle/
 tornasole	/tornaˈsole/
 tornello	/tornˈɛllo/
-tornello	/tor'nɛl:o/
+tornello	/torˈnɛl:o/
 torneo	/tornˈɛo/
 torneo	/torˈnɛo/
 torni	/tornj/
@@ -61606,7 +61606,7 @@ tramontana	/tramonˈtana/
 tramontante	/tramonˈtante/
 tramontare	/tramontˈare/
 tramontare	/tramonˈtare/
-tramonti	//tra'monti/
+tramonti	//traˈmonti/
 tramonto	/tramˈonto/
 tramonto	/traˈmonto/
 tramortire	/tramortˈire/
@@ -62319,7 +62319,7 @@ trotskismo	/trotskˈizmo/
 trotskismo	/trotsˈkizmo/
 trottare	/trotːˈare/
 trottare	/trotˈtare/
-trottata	//trot'tta/
+trottata	//trotˈtta/
 trottatore	/trotːatˈore/
 trottatore	/trottaˈtore/
 trotterellare	/trotːerellˈare/
@@ -62407,7 +62407,7 @@ tucul	/tˈukʊl/
 tucul	/tuˈkul/
 tue	/tˌʊe/
 tue	/ˈtue/
-tuffarsi	//tuf'farsi/
+tuffarsi	//tufˈfarsi/
 tuffatore	/tʊffatˈore/
 tuffatore	/tuffaˈtore/
 tuffetto	/tʊffˈetːo/
@@ -62589,7 +62589,7 @@ tutù	/tʊtˈu/
 tutù	/tuˈtu/
 tux	/tʊks/
 tuziorismi	/tʊtsiorˈizmɪ/
-tuziorismi	/tutsjo'rizmi/
+tuziorismi	/tutsjoˈrizmi/
 tuziorismo	/tʊtsiorˈizmo/
 tuziorismo	/tuttsjoˈrizmo/
 tv	/tiˈvu/
@@ -64896,7 +64896,7 @@ yo-yo	/jˈojˈo/
 yo-yo	//joˈjɔ/
 yoga	/jˈɔga/
 yoga	/ˈjɔɡa/
-yoghurt	/'jɔ:.gurt/
+yoghurt	/ˈjɔ:.gurt/
 yogurt	/jˈogʊrt/
 yogurt	/ˈjɔɡurt/
 youtuber	/ˈjuːtjuːbə/
