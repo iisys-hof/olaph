@@ -1385,7 +1385,7 @@ trefl	/trɛfl̥/
 europa	/ɛwˈrɔpa/
 azja	/ˈazʲja/
 szczyt	/ʃt͡ʃɨt/
-afryka	/a'frɨka/
+afryka	/aˈfrɨka/
 jaszczurka	/jaʃˈt͡ʃurka/
 nowy	/ˈnɔvɨ/
 gra	/ɡra/
@@ -1420,7 +1420,7 @@ konno	/ˈkɔ̃nːɔ/
 bal	/bal/
 cug	/t͡suk/
 gruba	/ˈɡruba/
-hasiok	/'xaɕɔk/
+hasiok	/ˈxaɕɔk/
 kara	/ˈkara/
 knefel	/ˈknɛfɛl/
 koło	/ˈkɔwɔ/
@@ -6946,7 +6946,7 @@ aladyn	/aˈladɨ̃n/
 żartowniś	/ʒarˈtɔvʲɲiɕ/
 pieszo	/ˈpʲjɛʃɔ/
 czeluść	/ˈt͡ʃɛluɕt͡ɕ/
-hanys	/'xanɨs/
+hanys	/ˈxanɨs/
 kaszub	/ˈkaʃup/
 powieść	/ˈpɔvʲjɛ̇ɕt͡ɕ/
 łza	/wza/
@@ -18200,7 +18200,7 @@ tramp	/trãmp/
 pierdolenie o szopenie	/ˌpʲjɛrdɔˈlɛ̃ɲɛ ˌɔ‿ʃɔˈpɛ̃ɲɛ/
 akadiański	/ˌakaˈdʲjä̃j̃sʲci/
 jarmark	/ˈjarmark/
-gouda	/'ɡɔwda/
+gouda	/ˈɡɔwda/
 hamilton	/xãˈmʲiltɔ̃n/
 san juan	/ˈsãn ˈxwãn/
 termit	/ˈtɛrmʲit/
@@ -23744,9 +23744,9 @@ dziesięciocentówka	/ˌd͡ʑɛ̇ɕɛ̇̃ɲt͡ɕɔt͡sɛ̃nˈtufka/
 dziesięciocentowy	/ˌd͡ʑɛ̇ɕɛ̇̃ɲt͡ɕɔt͡sɛ̃nˈtɔvɨ/
 ćwierćdolarówka	/ˌt͡ɕfʲjɛrʲd͡ʑdɔlaˈrufka/
 ćwierćdolarowy	/ˌt͡ɕfʲjɛrʲd͡ʑdɔlaˈrɔvɨ/
-gibki	/'gʲipkʲi/
-gibko	/'gʲipkɔ/
-śniodać	/'ɕɲɔdat͡ɕ/
+gibki	/ˈgʲipkʲi/
+gibko	/ˈgʲipkɔ/
+śniodać	/ˈɕɲɔdat͡ɕ/
 wiercenie	/vʲjɛrˈt͡sɛ̃ɲɛ/
 wwiercanie	/vvʲjɛrˈt͡sãɲɛ/
 wwiercenie	/vvʲjɛrˈt͡sɛ̃ɲɛ/
@@ -27006,7 +27006,7 @@ slalomistka	/ˌslalɔ̃ˈmʲistka/
 slalomista	/ˌslalɔ̃ˈmʲista/
 składowy	/skwaˈdɔvɨ/
 solniczka	/sɔlʲˈɲit͡ʃka/
-cache-pot	/kaʃ.'po/
+cache-pot	/kaʃ.ˈpo/
 upomnienie	/ˌupɔ̃mʲˈɲɛ̇̃ɲɛ/
 szlifierz	/ˈʃlʲifʲjɛʃ/
 niesprawny	/ɲɛˈspravnɨ/
@@ -28704,7 +28704,7 @@ eden	/ˈɛdɛ̃n/
 deponent	/dɛˈpɔ̃nɛ̃nt/
 kadyk	/ˈkadɨk/
 padlinożerca	/ˌpadlʲĩnɔˈʒɛrt͡sa/
-enschede	/'ɛnsxɛdɛ/
+enschede	/ˈɛnsxɛdɛ/
 altruistyczny	/ˌaltru<sup>j</sup>iˈstɨt͡ʃnɨ/
 bezmózgi	/bɛzˈmuzʲɟi/
 beznosy	/bɛzˈnɔsɨ/
@@ -36171,7 +36171,7 @@ sołdat	/ˈsɔwdat/
 solwować	/sɔlˈvɔvat͡ɕ/
 solstycja	/sɔlˈstɨt͡sʲja/
 suprymować	/ˌsuprɨ̃ˈmɔvat͡ɕ/
-pikap	/pʲi'kap/
+pikap	/pʲiˈkap/
 wrotkarz	/ˈvrɔtkaʃ/
 recepcja	/rɛˈt͡sɛpt͡sʲja/
 siodełko	/ɕɔˈdɛwkɔ/
@@ -43355,7 +43355,7 @@ przytomny	/pʃɨˈtɔ̃mnɨ/
 styryjczyk	/stɨˈrɨjt͡ʃɨk/
 obrzezanie	/ˌɔbʒɛˈzãɲɛ/
 udany	/uˈdanɨ/
-ochraniać	/ɔ'xraɲät͡ɕ/
+ochraniać	/ɔˈxraɲät͡ɕ/
 quenya	/ˈkwɛnja/
 tego kwiatu jest pół światu	/ˈtɛɡɔ ˈkfʲjatu ˈjɛst ˈpuwʲ ˈɕfʲjatu/
 piast	/pjast/
@@ -43467,7 +43467,7 @@ gdyby kózka nie skakała, by nóżki nie złamała	/ˈɡdɨbɨ ˈkuska ˌɲɛ�
 uczył marcin marcina, a sam głupi jak świnia	/ˈut͡ʃɨw ˈmarʲt͡ɕĩn marʲˈt͡ɕĩna ː‿ˈsãm ˈɡwupʲi ˈjäc ˈɕfʲĩɲa/
 wilka nogi karmią	/ˈvʲilka ˈnɔɟi ˈkarmʲjɔ̃w̃/
 dla dwóch kogutów za mało miejsca na jednym gnoju	/dla‿ˈdvux kɔˈɡutuv za‿ˈmawɔ ˈmʲjɛ̇jst͡sa na‿ˈjɛdnɨ̃m ˈɡnɔju/
-nabór	/'nabur/
+nabór	/ˈnabur/
 czuh	/t͡ʃux/
 allelujatyczny	/ˌalːɛlujaˈtɨt͡ʃnɨ/
 psalm allelujatyczny	/ˈpsalm ˌalːɛlujaˈtɨt͡ʃnɨ/
@@ -43749,7 +43749,7 @@ jajko chce być mądrzejsze od kury	/ˈjäjkɔ ˈxt͡sɛ ˈbɨt͡ɕ mɔ̃nˈḍ�
 mądrzejsze jajko od kury	/mɔ̃nˈḍʒɛjʃɛ ˈjäjkɔ ːt‿ˈkurɨ/
 mędrsze jaje niż kura	/ˈmɛ̃ntr̥ʃɛ ˈjäjɛ ˈɲiʃ ˈkura/
 jeszcze tego nie było, by jajko kurę uczyło	/ˈjɛʃt͡ʃɛ ˈtɛɡɔ ɲɛ‿ˈbɨwɔ ˈbɨ ˈjäjkɔ ˈkurɛ uˈt͡ʃɨwɔ/
-drabant	/'drabãnt/
+drabant	/ˈdrabãnt/
 więcej poufałości niż znajomości	/ˈvʲjɛ̃nt͡sɛj ˌpɔ<sup>w</sup>ufaˈwɔɕt͡ɕi ˈɲiʒ ˌznajɔ̃ˈmɔɕt͡ɕi/
 sznaps	/ʃnaps/
 aspartam	/asˈpartãm/
@@ -43775,7 +43775,7 @@ gdy na michała obrodzą żołędzie, dużo śniegów w zimie będzie	/ˈɡdɨ �
 jeśli deszcz na michała, zima będzie nietrwała	/ˈjɛ̇ɕlʲi ˈdɛʃt͡ʃ ˌna‿mʲiˈxawa ˈʑĩma ˈbɛ̃ɲd͡ʑɛ ɲɛˈtr̥fawa/
 gdy na świętego prota jest pogoda albo słota, to na świętego hieronima jest deszcz albo go nie ni ma	/ˈɡdɨ ˌna‿ɕfʲjɛ̃nˈtɛɡɔ ˈprɔta ˈjɛst pɔˈɡɔda ˈːlbɔ ˈswɔta ˈtɔ ˌna‿ɕfʲjɛ̃nˈtɛɡɔ ˌxʲjɛrɔ̃ˈɲĩma ˈjɛzd ˈːɛʃt͡ʃ ˈalbɔ‿ɡɔ ˈɲi ˈma/
 pytający	/pɨ.taˈjɔn.t͡sɨ/
-świetlany	/ɕvʲɛ'tlanɨ/
+świetlany	/ɕvʲɛˈtlanɨ/
 co prawda	/t͡sɔ‿ˈpravda/
 perfuma	/pɛrˈfũma/
 krzaczyć	/ˈkʃat͡ʃɨt͡ɕ/
@@ -44042,10 +44042,10 @@ czecho-słowacki	/ˌt͡ʃɛxɔswɔˈvat͡sʲci/
 jonosferyczny	/ˌjɔnɔsfɛˈrɨt͡ʃnɨ/
 w sumie	/f‿sũmˈjɛ/
 w zasadzie	/v‿zaˈsad͡ʑɛ/
-prudnik	/'prudɲik/
+prudnik	/ˈprudɲik/
 prudnicki	/prudʲˈɲit͡sʲci/
 przyganiał kocioł garnkowi, a sam smoli	/pʃɨˈɡãɲaw ˈkɔt͡ɕɔw ɡarn̥ˈkɔvʲi a‿ˈsãm ˈsmɔlʲi/
-prudniczanin	/'prudɲit͡ʃä̃ɲĩn/
+prudniczanin	/ˈprudɲit͡ʃä̃ɲĩn/
 pis-owski	/pʲiˈsɔfsʲci/
 pójść do kanossy	/ˈpujʑd͡ʑ ˌdɔ‿kãˈnɔsːɨ/
 polski most, niemiecki post, włoskie nabożeństwo, to wszystko błazeństwo	/ˈpɔlsʲci ˈmɔstʲ ɲɛ̃ˈmʲjɛt͡sʲci ˈpɔzd ˈvwɔsʲcɛ ˌnabɔˈʒɛ̃j̃stfɔ ˈtɔ ˈfʃɨstkɔ bwaˈzɛ̃j̃stfɔ/
@@ -44091,7 +44091,7 @@ co kraj, to obyczaj	/ˈt͡sɔ ˈkraj ˈtɔ ːˈbɨt͡ʃaj/
 kłak	/kwak/
 goalball	/golbol/
 tolar	/ˈtɔlar/
-zatajać	/za'tajat͡ɕ/
+zatajać	/zaˈtajat͡ɕ/
 tak krawiec kraje, jak mu materii staje	/ˈtak ˈːravʲjɛt͡s ˈkrajɛ ˈjak‿mu maˈtɛrʲji ˈstajɛ/
 nieobecni nie mają racji	/ˌɲɛɔˈbɛt͡sʲɲi ɲɛ‿ˈmajɔ̃w̃ ˈrat͡sʲji/
 cuzco	/ˈkuskɔ/
@@ -44159,7 +44159,7 @@ psl-owski	/ˌpɛːsɛˈlɔfsʲci/
 dał bóg dziecko, da i na dziecko	/ˈdaw ˈbuɟ ˈd͡ʑɛt͡skɔ ˈda ˌi‿na‿ˈd͡ʑɛt͡skɔ/
 tłuc się jak marek po piekle	/ˈtwut͡sʲ‿ɕɛ ˈjak ˈmarɛk pɔ‿ˈpʲjɛklɛ/
 włość	/vwɔɕt͡ɕ/
-chapać	/'xapatɕ/
+chapać	/ˈxapatɕ/
 słowotok	/swɔˈvɔtɔk/
 kropywnycki	/krɔ.pɘvˈnɘt͡s.ki/
 macedonia północna	/ma.t͡sɛˈdɔ.ɲa puwˈnɔt͡s.na/
@@ -44287,7 +44287,7 @@ pobl.	/pɔˈblʲiʒɛ/
 t. z.	/ˈtaɡ ˈzvãnɨ/
 r.b.	/ˈrɔku ˌbʲjɛʒɔ̃nˈt͡sɛɡɔ/
 rb.	/ˈrɔku ˌbʲjɛʒɔ̃nˈt͡sɛɡɔ/
-jajochlebek	/jäjɔ'xlɛbɛk/
+jajochlebek	/jäjɔˈxlɛbɛk/
 musi to na rusi, a w polsce jak kto chce	/ˈmuɕi ˈtɔ na‿ˈruɕi a‿f‿ˈpɔlst͡sɛ ˈjak ˈːtɔ ˈxt͡sɛ/
 musi to na rusi	/ˈmuɕi ˈtɔ na‿ˈruɕi/
 poco a poco	/ˈpɔkɔ a ˈpɔkɔ/
@@ -44782,7 +44782,7 @@ jak na święty maciej ciepło, to się będzie długo wlekło	/ˈjak na‿ˈɕf
 rzadko ten jastrząb kuropatwę schwyci, który się za całym ugania stadem	/ˈʒatkɔ ˈtɛ̃nʲ ˈjasṭʃɔ̃mp ˌkurɔˈpatfɛ ˈsxfɨt͡ɕi ˈkturɨ‿ɕɛ za‿ˈt͡sawɨ̃m uˈɡãɲa ˈstadɛ̃m/
 gdy wilk się zestarzeje, skubie go i wrona	/ˈɡdɨ ˈvʲilʲc‿ɕɛ ˌzɛstaˈʒɛjɛ ˈskubʲjɛ‿ɡɔ i‿ˈvrɔ̃na/
 ryby, choć dobre bywają, w trzeci dzień się przejadają	/ˈrɨbɨ ˈxɔd͡ʑ ˈdɔbrɛ bɨˈvajɔ̃w̃ ˈf‿ṭʃɛt͡ɕi ˈd͡ʑɛ̇̃ɲ‿ɕɛ ˌpʃɛjaˈdajɔ̃w̃/
-abarognozja	/abarognoz'i̯a/
+abarognozja	/abarognozˈi̯a/
 kiedy paweł się nawróci, zima na wspak się odwróci	/ˈcɛdɨ ˈpavɛwʲ‿ɕɛ naˈvrut͡ɕi ˈʑĩma na‿ˈfspac‿ɕɛ ɔdˈvrut͡ɕi/
 jeśli w święty paweł śnieg albo deszcz pada, dobrych się urodzajów spodziewać wypada	/ˈjɛ̇ɕlʲi ˈfʲ‿ɕfʲjɛ̃ntɨ ˈpavɛwʲ ˈɕɲɛk ˈalbɔ ˈdɛʃt͡ʃ ˈpada ˈdɔbrɨxʲ‿ɕɛ ˌurɔˈd͡zajuf spɔˈd͡ʑɛvad͡ʑ vɨˈpada/
 nie strasz, nie strasz, bo się zesrasz	/ˈɲɛ‿straʃ ˈɲɛ‿straʒ ˈbɔ‿ɕɛ ˈzɛsraʃ/
@@ -44797,7 +44797,7 @@ chcesz się dostać do nieba, nie żałuj biednym kęsa chleba	/ˈxt͡sɛʃʲ‿
 jak się człowiek spieszy, to się diabeł cieszy	/ˈjäc‿ɕɛ ˈt͡ʃwɔvʲjɛk ˈspʲjɛʃɨ ˈtɔ‿ɕɛ ˈdʲjabɛw ˈt͡ɕɛʃɨ/
 gdy się diabeł zestarzeje, chce zostać mnichem	/ˈɡdɨ‿ɕɛ ˈdʲjabɛw ˌzɛstaˈʒɛjɛ ˈxt͡sɛ ˈzɔstat͡ɕ ˈmʲɲixɛ̃m/
 butonierka	/butońerka/
-absolutyzm oświecony	/apsolutysm̦ ośf'econy/
+absolutyzm oświecony	/apsolutysm̦ ośfˈecony/
 dzieńdoberek	/ʒ́eńdoberek/
 aszek	/ašek/
 uszek	/ušek/
@@ -44817,7 +44817,7 @@ cept	/cept/
 nie mów nikomu, co się dzieje w domu	/ˈɲɛ‿mufʲ ɲiˈkɔ̃mu ˈt͡sɔ‿ɕɛ ˈd͡ʑɛ̇jɛ ˈv‿dɔ̃mu/
 w warszawie, w krakowie i we lwowie, kto bez grosza, głodu się dowie	/v‿ːarˈʃavʲjɛ f‿kraˈkɔvʲjɛ ˌi‿vɛ‿ˈlvɔvʲjɛ ˈktɔ bɛz‿ˈɡrɔʃa ˈɡwɔdu‿ɕɛ ˈdɔvʲjɛ/
 musi	/muśi/
-abdiasz	/abd'aš/
+abdiasz	/abdˈaš/
 bogatemu to i byk się ocieli	/ˌbɔɡaˈtɛ̃mu ˈtɔ i‿ˈbɨc‿ɕɛ ɔˈt͡ɕɛlʲi/
 kto się w maju urodzi, dobrze mu się powodzi	/ˈktɔ‿ɕɛ ˈv‿maju ːˈrɔd͡ʑi ˈdɔbʒɛ‿mu‿ɕɛ pɔˈvɔd͡ʑi/
 żakard	/žakart/
@@ -44825,7 +44825,7 @@ kto się w maju urodzi, dobrze mu się powodzi	/ˈktɔ‿ɕɛ ˈv‿maju ːˈrɔ
 nózia	/nuźa/
 siarnik	/śarńik/
 ruchaweczka	/ruχavecka/
-mitologizm	/m'itolog'izm/
+mitologizm	/mˈitologˈizm/
 babczur	/bapčur̦/
 szwedziak	/šfeʒ́ak/
 siwowłosy	/śivovu̯osy/
